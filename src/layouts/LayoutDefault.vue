@@ -111,6 +111,7 @@ export default {
     .content {
       grid-area: content;
       margin-top: 2rem;
+      width: 100%;
       @media screen and (min-width: $breakpoint-medium) {
         & {
           margin-top: 0;
@@ -120,7 +121,6 @@ export default {
       .main-posts {
         display: flex;
         display: grid;
-        justify-content: center;
         margin-top: 4rem;
         padding: 0.7rem;
         padding-top: 0;

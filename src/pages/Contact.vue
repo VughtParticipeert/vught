@@ -3,14 +3,13 @@
     <div class="button-container">
       <GoBack />
     </div>
-    <Posts :title="title"
-      content="Work in progress" :disableMetaData=true />
+    <ContactForm :title="title" :email="email"/>
   </LayoutDefault>
 </template>
 
 <script>
     import LayoutDefault from "@/layouts/LayoutDefault.vue"
-    import Posts from "@/components/Posts"
+    import ContactForm from "@/components/ContactForm"
     import GoBack from "@/components/GoBack"
 
 
@@ -18,12 +17,13 @@
     name: "Contact",
     components: {
       LayoutDefault,
-      Posts,
+      ContactForm,
       GoBack
     },
     data() {
       return {
         title: "Contact",
+        email: "info@vughtparticipeert.nl",
         disableSummary: true
       }
     }
