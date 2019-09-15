@@ -5,7 +5,7 @@
         </g-link>
         <section class="content">
             <p>mail: <a :href="`mailto:${email}`">{{email}}</a></p>
-            <form name="contact" data-netlify="true">
+            <form name="contact" data-netlify="true" method="POST">
                 <p>
                     <label>Your Name: <input type="text" name="name" /></label>
                 </p>
