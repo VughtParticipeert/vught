@@ -5,7 +5,9 @@
         </g-link>
         <section class="content">
             <p>mail: <a :href="`mailto:${email}`">{{email}}</a></p>
-            <form name="contact" data-netlify="true" method="POST">
+
+        </section>
+                    <form name="contact" netlify method="POST">
                 <p>
                     <label>Your Name: <input type="text" name="name" /></label>
                 </p>
@@ -15,11 +17,8 @@
                 <p>
                     <label>Message: <textarea name="message"></textarea></label>
                 </p>
-                <p>
                     <button type="submit">Send</button>
-                </p>
             </form>
-        </section>
     </article>
 </template>
 
