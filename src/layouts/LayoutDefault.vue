@@ -85,6 +85,7 @@ export default {
 
     .header {
       grid-area: header;
+      width: 100%;
     }
 
     .post-summary {
