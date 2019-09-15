@@ -1,5 +1,5 @@
 ---
 title: Waarom
-image: /uploads/photo-placeholder-2.jpg
+image: /uploads/wk10-snelweg-674x330.jpg
 ---
 
