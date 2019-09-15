@@ -1,0 +1,30 @@
+:root {
+    --primary-color: #0142a9;
+    --secondary-color: #4ab2e2;
+    --accent-color-one: #f5ac43;
+    --accent-color-two: #fbac91;
+    --accent-color-three: #fa8464;
+    --material-shadow-one: 0 10px 20px rgba(0,0,0,0.07), 0 6px 6px rgba(0,0,0,0.07);
+    --material-shadow-hover:0 27px 20px rgba(0,0,0,0.1), 0 12px 16px rgba(0,0,0,0.2);
+    --status-complete: #60c289;
+    --status-inComplete: #f5ac43;
+    --status-inSufficient: #f67280;
+    --small-radius: 0.2rem;
+}
+
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+html {
+    scroll-behavior: smooth;
+}
+
+body {
+    height: 100%;
+    font-family: 'Roboto', sans-serif;
+    background-color: rgb(236, 236, 236);
+    padding-bottom: 4rem;
+}

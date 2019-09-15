@@ -1,0 +1,98 @@
+# Whole guidline can be found here: https://www.netlifycms.org/docs/configuration-options/
+
+backend:
+  name: git-gateway #When testing you can use test-repo else git-gateway
+  branch: master # Branch to update (optional; defaults to master)
+
+site_url: https://vught.netlify.com
+display_url: https://vught.netlify.com
+
+media_folder: "static/uploads" # Media files will be stored in the repo under static/uploads
+public_folder: "/uploads" # The src attribute for uploaded media will begin with /uploads
+
+publish_mode: editorial_workflow
+
+slug:
+  encoding: "ascii"
+  clean_accents: true
+
+collections:
+  - label: "Logo" #  label for the collection in the editor UI; defaults to the value of name
+    name: "logo" # (required): unique identifier for the collection, used as the key when referenced in other contexts
+    folder: "content/Logo" # Location where the file will be saved
+    slug: "{{slug}}"
+    create: false # allows users to create new items in the collection
+    description: "Ensure that there is only one item in this category." # A description that will displayed below the  in the CMs
+    fields: # widget: defines editor UI and inputs and file field data types; for more detail go to : https://www.netlifycms.org/docs/widgets/
+      - {name: "title", label: "Title", widget: "string"}
+      - {name: "logo", label: "Logo", widget: "image"}
+
+  - label: "Jumbotron" #  label for the collection in the editor UI; defaults to the value of name
+    name: "jumbotron" # (required): unique identifier for the collection, used as the key when referenced in other contexts
+    folder: "content/Jumbotron" # Location where the file will be saved
+    slug: "{{slug}}"
+    create: false
+    description: "Create items to be highlighted. Max (3)" # A description that will displayed below the  in the CMs
+    fields: 
+      - {label: "Title", name: "title", widget: "string"}
+      - {label: "Image", name: "image", widget: "image"}
+
+  - label: "About" #  label for the collection in the editor UI; defaults to the value of name
+    name: "about" # (required): unique identifier for the collection, used as the key when referenced in other contexts
+    folder: "content/About" # Location where the file will be saved
+    slug: "{{slug}}"
+    create: true
+    description: "Tell something about yourself" # A description that will displayed below the  in the CMs
+    fields: 
+      - {label: "Title", name: "title", widget: "string"}
+      - {label: "Body", name: "body", widget: "markdown"}
+      
+  - label: "Theme"
+    name: "theme"
+    folder: "content/Theme"
+    slug: "{{slug}}_{{day}}-{{month}}-{{year}}"
+    create: true
+    description: Add theme to your content.
+    identifier_field: themeName
+    fields: 
+      - {label: "Theme", name: "themeName", widget: "string"}
+
+  - label: "Group"
+    name: "group"
+    folder: "content/Group"
+    slug: "{{slug}}_{{day}}-{{month}}-{{year}}"
+    create: true
+    description: Create a group.
+    fields: 
+      - {label: "Group title", name: "title", widget: "string"}
+
+  - label: "Post"
+    name: "post"
+    folder: "content/Post"
+    slug: "{{slug}}_{{day}}-{{month}}-{{year}}"
+    create: true
+    description: Create a post.
+    fields: 
+      - {label: "Title", name: "title", widget: "string"}
+      - {label: "Date", name: "date", widget: datetime}
+      - {label: "Theme", name: "theme", widget: relation, collection: theme, searchFields: ["themeName"], valueField: "themeName"}
+      - {label: "Type of post", name: "typePost", widget: "select", options: [
+        {label: "Publication", value: "Publicatie"},
+        {label: "Question", value: "Vraag"},
+        {label: "Reminder", value: "Herinering"},
+        {label: "Answer", value: "Antwoord"}
+      ]}
+      - {label: "Group - apply when you want to great a group of related Post.", name: "group", widget: "relation", collection: group, default: "none", searchFields: ["title"], valueField: "title"}
+      - {label: "Status - apply  when the type of Post is an Anwser", name: "status", widget: "select", default: 1, options: [{label: "Not applicable", value: 1},{label: "Answer is complete", value: 2},{label: "Answer is incomplete", value: 3},{label: "Answer is not sufficient", value: 4}]}
+      - {label: "Answered - apply when the type of Post is a Question", name: "answered", default: false, widget: "boolean"}
+      - {label: "Content", name: "content", widget: "markdown"}
+      - {label: "Attachment", name: "attachment", widget: "list", fields: [{
+          label: "File",
+          name: "file",
+          widget: "object",
+          required: false,
+          fields: [
+            {label: Name, name: name, widget: string},
+            {label: "Attachment", name: "attachment", widget: "file"}          ]
+      }]}
+
