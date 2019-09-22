@@ -4,6 +4,7 @@
       <GoBack />
     </div>
     <ContactForm :title="title" :email="email"/>
+    <MemberForm/>
   </LayoutDefault>
 </template>
 
@@ -11,6 +12,7 @@
     import LayoutDefault from "@/layouts/LayoutDefault.vue"
     import ContactForm from "@/components/ContactForm"
     import GoBack from "@/components/GoBack"
+    import MemberForm from "@/components/MemberForm"
 
 
   export default {
@@ -18,7 +20,8 @@
     components: {
       LayoutDefault,
       ContactForm,
-      GoBack
+      GoBack,
+      MemberForm
     },
     data() {
       return {
