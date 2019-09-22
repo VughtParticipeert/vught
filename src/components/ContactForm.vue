@@ -48,7 +48,7 @@
         }
 
         .title {
-            grid-area: "title";
+            grid-area: title;
             font-size: 2.2em;
             margin-top: 2rem;
             color: var(--primary-color);
@@ -56,7 +56,7 @@
         }
 
         .content {
-            grid-area: "content";
+            grid-area: content;
             margin-top: 2rem;
 
             a {

@@ -9,15 +9,6 @@
     ${app}
     ${scripts}
 
-    <form name="member" method="POST" netlify hidden>
-      <p>
-        <label>Your Email: <input type="email" name="email" /></label>
-      </p>
-      <p>
-        <label>Message: <textarea name="message"></textarea></label>
-      </p>
-      <p>
-    </form>
     <script>
         if (window.netlifyIdentity) {
           window.netlifyIdentity.on("init", user => {

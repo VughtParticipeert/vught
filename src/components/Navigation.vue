@@ -35,6 +35,9 @@
                       </transition>
                 </li>
                 <li class="menu-item">
+                    <g-link to="/member#main" class="link">Lid worden</g-link>
+                </li>
+                <li class="menu-item">
                     <g-link to="/about#main" class="link">Over ons</g-link>
                 </li>
                 <li class="menu-item">
