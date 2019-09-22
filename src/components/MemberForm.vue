@@ -46,7 +46,7 @@
 				<label>Postcode: 
 					<input 
 						type="text" 
-						name="Postcode" 
+						name="postcode" 
 						v-model="formData.postcode"
 						placeholder="1234 AB"
 						required/>
@@ -56,7 +56,7 @@
 				<label>Plaats: 
 					<input 
 						type="text" 
-						name="Place" 
+						name="place" 
 						v-model="formData.place"
 						placeholder="Plaatsnaam"
 						required/>
@@ -66,7 +66,7 @@
 				<label>Geboorte datum: 
 					<input 
 						type="date" 
-						name="BirthDay" 
+						name="birthDay" 
 						v-model="formData.birthDay"
 						required/>
 				</label>
