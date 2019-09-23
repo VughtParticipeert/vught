@@ -1,5 +1,5 @@
 ---
-title: Wie verzorgen VughtParticipeert
+title: Wie verzorgen VughtParticipeert?
 ---
 De vereniging VughtParticipeert is opgericht door een aantal betrokken inwoners, die zien dat verschillende onderwerpen niet of onvoldoende aan de orde komen.
 
