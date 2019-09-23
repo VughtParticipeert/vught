@@ -1,4 +1,4 @@
 ---
-themeName: Speeldoos
+themeName: Participatie en bestuurlijke kwaliteit
 ---
 
