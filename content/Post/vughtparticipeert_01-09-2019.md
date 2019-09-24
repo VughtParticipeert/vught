@@ -8,7 +8,7 @@ status: 1
 answered: false
 content: >-
   Dit is de eerste publicatie van VughtParticipeert. VughtParticipeert is een
-  vereniging die het betrokkenheid van de bewoners bij lokale zaken wil
+  vereniging die de betrokkenheid van de bewoners bij lokale zaken wil
   stimuleren en ondersteunen.
 
 
