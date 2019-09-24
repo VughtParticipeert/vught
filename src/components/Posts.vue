@@ -94,6 +94,7 @@
             "date"
             "status"
             "content"
+            "attachment"
         ;
 
         .meta-data {
@@ -254,6 +255,7 @@
         }
 
         .attachment-container {
+            grid-area: attachment;
 
             .description {
                 display: block;
