@@ -3,7 +3,7 @@ title: 'Het eerste teken van leven, de website van VughtParticipeert is geboren.
 date: 2019-08-30T12:53:22.267Z
 theme: Algemeen
 typePost: Publicatie
-group: Test group
+group: Interne Organisatie
 status: 1
 answered: false
 content: >-
