@@ -10,6 +10,9 @@ content: >-
   Wij verwachten dat dit het begin is van een interessante en informatieve
   informatiestroom. Participatie vergt een goede informatievoorziening. Deze
   site wil daaraan bijdragen.
-attachment: []
+attachment:
+  - file:
+      attachment: /uploads/random-file.txt
+      name: Test file
 ---
 
