@@ -96,3 +96,12 @@ collections:
             {label: "Attachment", name: "attachment", widget: "file"}          ]
       }]}
 
+  - label: "Member"
+    name: "member"
+    folder: "content/Member"
+    slug: "{{slug}}_{{day}}-{{month}}-{{year}}"
+    create: true
+    description: A disclaimer when a new member has signed up
+    fields:
+      - {label: "Title", name: "title", widget: "string"}
+      - {label: "Disclaimer", name: "disclaimer", widget: "markdown"}
