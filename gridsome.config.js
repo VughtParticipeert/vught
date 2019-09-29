@@ -60,5 +60,12 @@ module.exports = {
         typeName: 'About',
       }
     },
+    {
+      use: '@gridsome/source-filesystem',
+      options: {
+        path: 'content/Member/*.md',
+        typeName: 'Member',
+      }
+    },
   ]
 }

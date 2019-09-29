@@ -1,6 +1,6 @@
 ---
 title: Disclaimer
-disclaimer: >-
+content: >-
   \*Zodra wij @10,= hebben ontvangen op bankrekening **<>**, zullen wij u
   inschrijven in ons ledenbestand. De door u verstrekte gegevens zullen
   uitsluitend worden gebruikt voor de ledenadministratie, voor uitnodigingen en

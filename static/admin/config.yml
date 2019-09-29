@@ -1,7 +1,7 @@
 # Whole guidline can be found here: https://www.netlifycms.org/docs/configuration-options/
 
 backend:
-  name: git-gateway #When testing you can use test-repo else git-gateway
+  name: test-repo #When testing you can use test-repo else git-gateway
   branch: master # Branch to update (optional; defaults to master)
 
 site_url: https://vught.netlify.com
@@ -100,8 +100,8 @@ collections:
     name: "member"
     folder: "content/Member"
     slug: "{{slug}}_{{day}}-{{month}}-{{year}}"
-    create: true
+    create: false
     description: A disclaimer when a new member has signed up
     fields:
-      - {label: "Title", name: "title", widget: "string"}
-      - {label: "Disclaimer", name: "disclaimer", widget: "markdown"}
+      - {label: "Title", name: "title", widget: "hidden", default: "Disclaimer"}
+      - {label: "Disclaimer", name: "content", widget: "markdown"}
