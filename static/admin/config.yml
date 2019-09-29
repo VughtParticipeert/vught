@@ -103,5 +103,5 @@ collections:
     create: false
     description: A disclaimer when a new member has signed up
     fields:
-      - {label: "Title", name: "title", widget: "hidden", default: "Disclaimer"}
+      - {label: "Title", name: "title", widget: "string", default: "Disclaimer"}
       - {label: "Disclaimer", name: "content", widget: "markdown"}
