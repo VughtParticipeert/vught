@@ -1,5 +1,5 @@
 ---
-title: VughtParticipeert
+title: VughtParticipeert van start
 date: 2019-09-01T08:19:19.591Z
 theme: Algemeen
 typePost: Publicatie
