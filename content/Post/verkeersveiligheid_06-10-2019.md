@@ -13,11 +13,11 @@ content: >-
 
   Hierbij gaat het niet alleen om het veilig oversteken van de N65 en het spoor,
   maar ook het veilig kunnen fietsen, wandelen en winkelen. Kinderen, ouderen en
-  visueel/audio gehandicapten verdienen onze bijzondere aandacht en vragen extra
-  inspanningen op dit gebied.
+  visueel/audio gehandicapten verdienen onze bijzondere aandacht en vragen om
+  extra inspanningen op dit gebied.
 
 
   Hierbij moeten plannen niet alleen op financiele haalbaarheid maar ook op
-  verkeersveiligheid en de duurzaamheid daarvan worden beoordeeeld.
+  verkeersveiligheid en de duurzaamheid daarvan worden beoordeeld.
 ---
 
