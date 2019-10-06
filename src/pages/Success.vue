@@ -1,5 +1,9 @@
 <template>
-	<LayoutDefault :title="title" :disableSummary="disableSummary">
+	<LayoutDefault
+		:title="title"
+		:disableSummary="disableSummary"
+		:disableNewsletter="disableNewsletter"
+	>
 		<article class="container-success">
 			<h1 class="title">Succesvol verzonden!</h1>
 			<p class="text">Uw gegevens zijn succesvol verzonden!</p>
@@ -23,7 +27,8 @@ export default {
 	data() {
 		return {
 			title: "Succes",
-			disableSummary: true
+			disableSummary: true,
+			disableNewsletter: true
 		};
 	}
 };
