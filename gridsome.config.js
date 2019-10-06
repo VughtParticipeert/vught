@@ -5,9 +5,9 @@
 // To restart press CTRL + C in terminal and run `gridsome develop`
 
 module.exports = {
-  siteName: 'Vught',
-  siteUrl: 'https://vught.netlify.com',
-  siteDescription: '',
+  siteName: 'Vughtparticipeert',
+  siteUrl: 'vughtparticipeert.nl',
+  siteDescription: 'VughtParticipeert(VVP) wil de inwoners van Vught en omgeving in staat stellen te participeren in de ontwikkeling van hun leefomgeving.',
   transformers: {
     remark: {
       externalLinksTarget: '_blank',
