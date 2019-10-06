@@ -7,9 +7,9 @@ group: Interne Organisatie
 status: 1
 answered: false
 content: >-
-  Wij verwachten dat dit het begin is van een interessante en informatieve
-  informatiestroom. Participatie vergt een goede informatievoorziening. Deze
-  site wil daaraan bijdragen.
+  De Vereninging VughtParticipeert (VVP) verwachten dat dit het begin is van een
+  interessante en informatieve informatiestroom. Participatie vergt een goede
+  informatievoorziening. Deze site wil daaraan bijdragen.
 attachment:
   - file:
       attachment: /uploads/random-file.txt
