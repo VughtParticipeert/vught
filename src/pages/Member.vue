@@ -1,35 +1,36 @@
 <template>
-  <LayoutDefault :title="title" :disableSummary=disableSummary>
-    <div class="button-container">
-      <GoBack />
-    </div>
+	<LayoutDefault :title="title" :disableSummary="disableSummary">
+		<div class="button-container">
+			<GoBack />
+		</div>
 
-    <MemberForm/>
-  </LayoutDefault>
+		<MemberForm />
+	</LayoutDefault>
 </template>
 
 <script>
-    import LayoutDefault from "@/layouts/LayoutDefault.vue"
-    import GoBack from "@/components/GoBack"
-    import MemberForm from "@/components/MemberForm"
+import LayoutDefault from "@/layouts/LayoutDefault.vue";
+import GoBack from "@/components/GoBack";
+import MemberForm from "@/components/MemberForm";
 
-
-  export default {
-    name: "Contact",
-    components: {
-      LayoutDefault,
-      GoBack,
-      MemberForm
-    },
-    data() {
-      return {
-        title: "Lid worden",
-        disableSummary: true
-      }
-    }
-  }
+export default {
+	name: "Contact",
+	metaInfo: {
+		title: "Lid worden"
+	},
+	components: {
+		LayoutDefault,
+		GoBack,
+		MemberForm
+	},
+	data() {
+		return {
+			title: "Lid worden",
+			disableSummary: true
+		};
+	}
+};
 </script>
 
 <style lang="scss" scoped>
-
 </style>
