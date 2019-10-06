@@ -3,9 +3,9 @@ title: Disclaimer
 content: >-
   \* Bedankt voor het aanmelden bij de Vereniging VughtParticipeert. Om de
   kosten voor onze organisatie te dekken, vragen wij om een kleine jaarlijkse
-  bijdrage van €10,= per jaar per huishouden. Zodra wij @10,= hebben ontvangen
-  op bankrekening **<>**, zullen wij u inschrijven in ons ledenbestand. Deze
-  bijdrage is voor de periode tot 31 december 2020
+  bijdrage van €10,= per jaar per huishouden. Zodra wij dit bedrag hebben
+  ontvangen op bankrekening **<>**, zullen wij u inschrijven in ons
+  ledenbestand. Deze bijdrage is voor de periode tot en met 31 december 2020
 
 
   De door u verstrekte gegevens zullen uitsluitend worden gebruikt voor de
