@@ -7,7 +7,7 @@ group: Interne Organisatie
 status: 1
 answered: false
 content: >-
-  De Vereninging VughtParticipeert (VVP) verwacht dat dit het begin is van een
+  De Vereniging VughtParticipeert (VVP) verwacht dat dit het begin is van een
   interessante en informatieve informatiestroom. Participatie vergt een goede
   informatievoorziening. Deze site wil daaraan bijdragen.
 attachment:
