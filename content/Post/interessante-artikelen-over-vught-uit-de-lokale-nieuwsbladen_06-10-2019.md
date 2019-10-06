@@ -6,6 +6,8 @@ typePost: Publicatie
 group: none
 status: 1
 answered: false
-content: '![]()'
+content: >-
+  Hier publiceren wij interessante artikelen zoals die over Vught in de lokale
+  en regionale pers zijn verschenen.
 ---
 
