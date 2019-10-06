@@ -1,6 +1,6 @@
 ---
 title: VughtParticipeert van start
-date: 2019-09-01T08:19:19.591Z
+date: 2019-09-02T08:19:00.000Z
 theme: Algemeen
 typePost: Publicatie
 group: Interne Organisatie
