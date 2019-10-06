@@ -1,4 +1,4 @@
 ---
-title: Theater de Speeldoos
+title: Cultuur
 ---
 
