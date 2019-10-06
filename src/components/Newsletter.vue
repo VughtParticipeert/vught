@@ -11,10 +11,10 @@
 		>
 			<p
 				class="description"
-			>Meld je in voor onze online nieuwsbrief en blijf op de hoogte van de laatste nieuws en ontwikkelingen.</p>
+			>Meld u aan voor onze nieuwsbrief en blijf op de hoogte van het laatste nieuws en ontwikkelingen.</p>
 			<label>
 				<span>Email adres</span>
-				<input type="email" value name="EMAIL" class="email-input" placeholder="jouw@email.nl" required />
+				<input type="email" value name="EMAIL" class="email-input" placeholder="uw@email.nl" required />
 			</label>
 
 			<div id="mce-responses" class="clear">
