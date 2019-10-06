@@ -2,7 +2,7 @@
 	<LayoutDefault :title="title" :disableSummary="disableSummary">
 		<article class="container-success">
 			<h1 class="title">Succesvol verzonden!</h1>
-			<p class="text">Je gegevens zijn succesvol verzonden!</p>
+			<p class="text">Uw gegevens zijn succesvol verzonden!</p>
 
 			<g-link to="/" class="link">Terug naar Home</g-link>
 		</article>
