@@ -8,7 +8,6 @@ module.exports = {
   siteName: 'Vughtparticipeert',
   siteUrl: 'https://www.vughtparticipeert.nl/',
   siteDescription: 'VughtParticipeert(VVP) wil de inwoners van Vught en omgeving in staat stellen te participeren in de ontwikkeling van hun leefomgeving.',
-  icon: './static/uploads/logo.png',
   transformers: {
     remark: {
       externalLinksTarget: '_blank',
