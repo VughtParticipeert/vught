@@ -181,9 +181,17 @@ export default {
 
 	.title {
 		grid-area: title;
-		font-size: 2.2em;
+		font-size: 1.7em;
 		color: var(--primary-color);
 		transition: all 0.4s ease-out;
+
+		@media screen and (min-width: 60rem) {
+			font-size: 2em;
+		}
+
+		@media screen and (min-width: 95rem) {
+			font-size: 2.2em;
+		}
 	}
 
 	.date-container {
