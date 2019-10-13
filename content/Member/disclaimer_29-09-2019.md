@@ -8,13 +8,10 @@ content: >-
   ledenbestand. Deze bijdrage is voor de periode tot en met 31 december 2020.
 
 
-
-
-  U blijft lid totdat u ons per mail (aan **admin@vughtparticipeert.nl**) heeft
-  geïnformeerd dat u uw lidmaatschap wilt beëindigen. In de maand november van
-  ieder jaar zullen wij uw lidmaatschap verlengen voor nogmaals 1 jaar. 
-
-
+  U blijft lid totdat u ons per mail (aan
+  **penningmeester@vughtparticipeert.nl**) heeft geïnformeerd dat u uw
+  lidmaatschap wilt beëindigen. In de maand november van ieder jaar zullen wij
+  uw lidmaatschap verlengen voor nogmaals 1 jaar. 
 
 
   De door u verstrekte gegevens zullen uitsluitend worden gebruikt voor de
