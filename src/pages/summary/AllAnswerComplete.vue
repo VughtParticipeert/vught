@@ -94,7 +94,7 @@ export default {
 				const typePost = post.node.typePost.toLowerCase();
 				return (
 					typePost === "antwoord" &&
-					post.node.status === status.inComplete
+					post.node.status === status.complete
 				);
 			});
 
