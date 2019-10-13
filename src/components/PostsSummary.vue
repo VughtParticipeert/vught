@@ -190,6 +190,14 @@ export default {
 				color: var(--secondary-color);
 			}
 		}
+
+		&.active {
+			color: var(--secondary-color);
+
+			.count {
+				color: var(--secondary-color);
+			}
+		}
 	}
 }
 </style>
