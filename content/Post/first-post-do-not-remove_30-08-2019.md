@@ -1,5 +1,5 @@
 ---
-title: 'Het eerste teken van leven, de website van VughtParticipeert is geboren.'
+title: VughtParticipeert is geboren.
 date: 2019-08-30T12:53:22.267Z
 theme: Algemeen
 typePost: Publicatie
