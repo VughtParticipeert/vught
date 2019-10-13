@@ -134,7 +134,11 @@ $breakpoint-really-big: 90em;
 
 			.title {
 				color: rgb(189, 189, 189);
-				font-size: 4em;
+				font-size: calc(16px + 4vw);
+
+				@media screen and (min-width: 60rem) {
+					font-size: 3.7vw;
+				}
 
 				&::first-letter {
 					text-transform: uppercase;
