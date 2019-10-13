@@ -41,6 +41,9 @@
 				<li class="menu-item">
 					<g-link to="/member#main" class="link">Lid worden</g-link>
 				</li>
+				<li class="menu-item newsletter">
+					<g-link to="/newsletter#main" class="link">Nieuwsbrief</g-link>
+				</li>
 				<li class="menu-item">
 					<g-link to="/about#main" class="link">Over ons</g-link>
 				</li>
@@ -288,6 +291,12 @@ ul {
 							text-align: unset;
 						}
 					}
+				}
+			}
+
+			@media screen and (min-width: 90rem) {
+				.newsletter {
+					display: none;
 				}
 			}
 		}
