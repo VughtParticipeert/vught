@@ -3,7 +3,7 @@
 		<section v-if="!disableMetaData" class="meta-data">
 			<p class="group-container">
 				<span class="description">groep:</span>
-				<span class="text group-text">Interne organisatie</span>
+				<span class="text group-text">{{group}}</span>
 			</p>
 			<p class="theme-container">
 				<span class="description">thema:</span>
