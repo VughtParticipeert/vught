@@ -3,7 +3,7 @@
 		<section v-if="!disableMetaData" class="meta-data">
 			<p class="group-container">
 				<span class="description">groep:</span>
-				<span class="text group-text">{{group}}</span>
+				<span class="text group-text">{{checkGroup}}</span>
 			</p>
 			<p class="theme-container">
 				<span class="description">thema:</span>
@@ -96,6 +96,15 @@ export default {
 				inSufficient: 4
 			}
 		};
+	},
+	computed: {
+		checkGroup() {
+			if (this.group === "none") {
+				return "...";
+			} else {
+				return this.group;
+			}
+		}
 	}
 };
 </script>
