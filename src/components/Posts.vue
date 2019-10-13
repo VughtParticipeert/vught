@@ -2,15 +2,15 @@
 	<article class="post-container">
 		<section v-if="!disableMetaData" class="meta-data">
 			<p class="group-container">
-				<span>groep:</span>
-				<span class="text group-text">{{group}}</span>
+				<span class="description">groep:</span>
+				<span class="text group-text">Interne organisatie</span>
 			</p>
 			<p class="theme-container">
-				<span>thema:</span>
+				<span class="description">thema:</span>
 				<span class="text theme-text">{{theme}}</span>
 			</p>
 			<p class="reason-container">
-				<span>type:</span>
+				<span class="description">type:</span>
 				<span class="text reason-text">{{typePost}}</span>
 			</p>
 		</section>
@@ -118,28 +118,41 @@ export default {
 
 	.meta-data {
 		display: flex;
+		flex-direction: column;
 		grid-area: metaData;
-		font-size: 1.1em;
 		background-color: rgb(252, 252, 252);
 		color: rgb(114, 114, 114);
+		& > * {
+			margin-right: 2rem;
+		}
+
+		@media screen and (min-width: 95rem) {
+			& {
+				flex-direction: unset;
+				justify-content: space-between;
+
+				& > * {
+					margin-right: 0;
+				}
+			}
+		}
+
+		.description {
+			margin-right: 0.4rem;
+		}
 
 		.text {
-			padding: 0.4rem 0.7rem;
+			font-size: 1rem;
 			border-radius: 0.2rem;
-			font-weight: 500;
 		}
 
 		.reason-container {
-			margin-left: auto;
-
 			.reason-text {
 				color: var(--accent-color-one);
 			}
 		}
 
 		.group-container {
-			margin-right: auto;
-
 			.group-text {
 				color: var(--accent-color-three);
 			}
@@ -167,7 +180,7 @@ export default {
 	}
 
 	.title {
-		grid-area: "title";
+		grid-area: title;
 		font-size: 2.2em;
 		color: var(--primary-color);
 		transition: all 0.4s ease-out;
