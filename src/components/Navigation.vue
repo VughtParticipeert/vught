@@ -235,7 +235,6 @@ ul {
 
 					&:hover {
 						color: var(--secondary-color);
-						transform: scale(1.05);
 					}
 
 					&:hover path {
