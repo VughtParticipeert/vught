@@ -114,6 +114,7 @@ $breakpoint-really-big: 90em;
 		grid-area: content;
 		margin-top: 2rem;
 		width: 100%;
+		font-size: 1.1rem;
 		@media screen and (min-width: $breakpoint-medium) {
 			& {
 				margin-top: 0;
