@@ -111,12 +111,12 @@ export default {
 
 <style scoped lang="scss">
 .post-container {
-	max-width: 50rem;
 	background-color: white;
 	padding: 2rem;
 	border-radius: 0.2rem;
 	margin-top: 2rem;
 	display: grid;
+	width: 100%;
 	grid-template-areas:
 		"metaData"
 		"title"
