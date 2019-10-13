@@ -293,12 +293,6 @@ ul {
 					}
 				}
 			}
-
-			@media screen and (min-width: 90rem) {
-				.newsletter {
-					display: none;
-				}
-			}
 		}
 
 		@media screen and (min-width: $break-small) {
