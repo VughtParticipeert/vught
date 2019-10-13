@@ -1,7 +1,7 @@
 ---
 title: Bewonerparticipatie en versterking bestuurlijke kwaliteit
 date: 2019-09-24T17:14:49.721Z
-theme: Participatie en bestuurlijke kwaliteit
+theme: Bewonerparticipatie en versterking bestuurlijke kwaliteit
 typePost: Publicatie
 group: none
 status: 1
