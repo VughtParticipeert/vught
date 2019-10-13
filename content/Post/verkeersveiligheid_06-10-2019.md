@@ -2,9 +2,9 @@
 title: Verkeersveiligheid
 date: 2019-09-24T17:14:49.721Z
 theme: Verkeersveiligheid
-typePost: Publicatie
+typePost: Antwoord
 group: Cultuur
-status: 1
+status: 3
 answered: false
 content: >-
   Verkeersveiligheid is een zeer belangrijk onderdeel van de leefbaarheid van
@@ -20,4 +20,3 @@ content: >-
   Hierbij moeten plannen niet alleen op financiele haalbaarheid maar ook op
   verkeersveiligheid en de duurzaamheid daarvan worden beoordeeld.
 ---
-
