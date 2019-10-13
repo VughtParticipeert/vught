@@ -54,7 +54,7 @@ import LayoutDefault from "@/layouts/LayoutDefault.vue";
 export default {
 	name: "AllAnswerInComplete",
 	metaInfo: {
-		title: "Antwoord is onvolledig"
+		title: "Antwoord volstaat niet"
 	},
 	components: {
 		Posts,
@@ -62,7 +62,7 @@ export default {
 	},
 	data() {
 		return {
-			title: "Antwoord is onvolledig",
+			title: "Antwoord volstaat niet",
 			status: {
 				notApplicable: 1,
 				complete: 2,
@@ -94,7 +94,7 @@ export default {
 				const typePost = post.node.typePost.toLowerCase();
 				return (
 					typePost === "antwoord" &&
-					post.node.status === status.inComplete
+					post.node.status === status.notSufficient
 				);
 			});
 

@@ -42,8 +42,10 @@
 					</g-link>
 				</p>
 				<p class="summary">
-					<span>Antwoord volstaat niet:</span>
-					<span class="count">{{answer.inSufficient}}</span>
+					<g-link to="/summary/all-answer-insufficient" class="link">
+						<span>Antwoord volstaat niet:</span>
+						<span class="count">{{answer.inSufficient}}</span>
+					</g-link>
 				</p>
 			</section>
 		</div>
