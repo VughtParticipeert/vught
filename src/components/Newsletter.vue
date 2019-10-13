@@ -86,7 +86,6 @@ export default {
 			border: none;
 			border-radius: var(--small-radius);
 			font-weight: 500;
-			width: 100%;
 			font-size: 1.1em;
 			background-color: var(--secondary-color);
 			color: white;
