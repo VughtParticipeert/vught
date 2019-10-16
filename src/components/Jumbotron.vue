@@ -16,11 +16,12 @@
 
 <static-query>
     query Jumbotron {
-        allJumbotron {
+        allJumbotron (sortBy: "index", order: ASC) {
             edges {
                 node {
                     id
                     title
+					index
                     image
                 }
             }
