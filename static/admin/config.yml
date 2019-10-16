@@ -35,6 +35,15 @@ collections:
       description: 'Create items to be highlighted. Max (3)' # A description that will displayed below the  in the CMs
       fields:
           - { label: 'Title', name: 'title', widget: 'string' }
+          - {
+                label: 'Index',
+                name: 'index',
+                hint: 'The Jumbotron with the lowest item will be rendered first',
+                widget: 'number',
+                valueType: 'int',
+                min: 1,
+                step: 1,
+            }
           - { label: 'Image', name: 'image', widget: 'image' }
 
     - label: 'About' #  label for the collection in the editor UI; defaults to the value of name
