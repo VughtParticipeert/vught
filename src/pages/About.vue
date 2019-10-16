@@ -15,7 +15,7 @@
 
 <page-query>
     query About {
-        allAbout {
+        allAbout (sortBy: "index", order: ASC){
             edges {
                 node {
                     id
