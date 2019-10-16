@@ -1,5 +1,6 @@
 ---
 title: Wat doet VughtParticipeert?
+index: 2
 ---
 ![](/uploads/schermafdruk-2019-09-23-22.53.26.png)
 
