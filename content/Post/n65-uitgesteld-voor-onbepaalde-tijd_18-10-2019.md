@@ -1,6 +1,6 @@
 ---
 title: N65 uitgesteld voor onbepaalde tijd
-date: 2019-09-24T17:14:49.721Z
+date: 2019-10-18T17:14:49.721Z
 theme: Verkeersveiligheid
 typePost: Publicatie
 group: none
@@ -27,7 +27,7 @@ content: >-
   Ook kunnen wij een nuchter onderzoek doen naar welk maatschappelijk voordeel
   te behalen is en de actuele mogelijkheden voor een volledige ondertunneling.
   VughtParticipeert werkt graag samen met andere organisaties om deze pauze zo
-  goed mogelijk te gebruiken, immers €170.000.000 uitgeven mag best goed
+  goed mogelijk te gebruiken, immers €170.000.000,= uitgeven mag best goed
   overwogen zijn.
 ---
 
