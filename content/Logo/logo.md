@@ -1,5 +1,5 @@
 ---
 title: VughtParticipeert Logo
-logo: /uploads/dia1.png
+logo: /uploads/vught-participeert-logo-naast-.jpg.jpg
 ---
 
