@@ -129,7 +129,7 @@ export default {
 		display: flex;
 		flex-direction: column;
 		grid-area: metaData;
-		background-color: rgb(252, 252, 252);
+		background-color: white;
 		color: rgb(114, 114, 114);
 		& > * {
 			margin-right: 2rem;
