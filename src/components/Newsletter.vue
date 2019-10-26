@@ -59,6 +59,7 @@ export default {
 		label {
 			display: inline-block;
 			margin-top: 2rem;
+			width: 100%;
 
 			span {
 				color: rgb(240, 240, 240);
