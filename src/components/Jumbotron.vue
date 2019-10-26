@@ -51,7 +51,7 @@ $break-small: 57em;
 .jumbotron-container {
 	display: none;
 	grid-template-columns: 1fr 1fr 1fr;
-	margin-top: 4rem;
+	margin-top: 5rem;
 	background: white;
 
 	.jumbotron-item {

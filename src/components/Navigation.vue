@@ -152,7 +152,7 @@ ul {
 .navigation {
 	display: flex;
 	background-color: white;
-	height: 4rem;
+	height: 5rem;
 	width: 100%;
 	position: fixed;
 	top: 0;
@@ -198,6 +198,7 @@ ul {
 		.menu {
 			display: flex;
 			height: 100%;
+			font-size: 1.4rem;
 
 			.menu-item {
 				&.active {
