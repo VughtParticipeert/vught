@@ -262,12 +262,12 @@ ul {
 
 				.button {
 					.icon {
-						width: 2rem;
-						height: 2rem;
+						width: 3rem;
+						height: 3rem;
 						margin-left: 0.4rem;
 
 						@media screen and (min-width: $break-small) {
-							width: 1rem;
+							width: 1.4rem;
 							height: 1rem;
 						}
 					}
