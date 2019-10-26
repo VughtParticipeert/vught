@@ -147,10 +147,10 @@ export default {
 	background-color: white;
 	width: 20rem;
 	border-radius: var(--small-radius);
-	margin-top: 12.85rem;
+	margin-top: 13.4rem;
 	padding: 2rem;
 	position: sticky;
-	top: 5rem;
+	top: 6rem;
 
 	.title {
 		font-size: 2em;
