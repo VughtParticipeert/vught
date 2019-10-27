@@ -10,7 +10,8 @@ content: >-
   ![](/uploads/n65.jpg)
 
 
-  Op www.vught.nu lezen wij: 
+  Op [www.vught.nu](https://www.vught.nu/n65-uitgesteld-voor-onbepaalde-tijd/)
+  lezen wij: 
 
 
   _VUGHT – 17 oktober 2019. De ombouw van de N65 is voor onbepaalde tijd
