@@ -182,7 +182,7 @@ ul {
 		&.active {
 			display: flex;
 			position: fixed;
-			top: 4rem;
+			top: 5rem;
 			z-index: 1;
 			background: white;
 			height: 100%;
@@ -224,7 +224,7 @@ ul {
 					text-decoration: none;
 					color: black;
 					transition: all 0.1s ease-out;
-					font-size: 2.4em;
+					font-size: 1em;
 					justify-content: center;
 					border: none;
 					background-color: white;
@@ -262,14 +262,9 @@ ul {
 
 				.button {
 					.icon {
-						width: 3rem;
-						height: 3rem;
+						width: 1.4rem;
+						height: 1.4rem;
 						margin-left: 0.4rem;
-
-						@media screen and (min-width: $break-small) {
-							width: 1.4rem;
-							height: 1rem;
-						}
 					}
 				}
 
