@@ -1,6 +1,6 @@
 ---
 title: VughtParticipeert is geboren.
-date: 2019-08-30T12:53:22.267Z
+date: 2019-11-06T20:00:22.267Z
 theme: Algemeen
 typePost: Publicatie
 group: Interne Organisatie
