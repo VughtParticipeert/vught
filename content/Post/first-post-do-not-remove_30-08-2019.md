@@ -7,9 +7,12 @@ group: Interne Organisatie
 status: 1
 answered: false
 content: >-
-  De Vereniging VughtParticipeert (VP) verwacht dat dit het begin is van een
-  interessante en informatieve informatiestroom. Participatie vergt een goede
-  informatievoorziening. Deze site wil daaraan bijdragen.
+  Op woensdag 6 november is de Vereniging VughtParticipeert (VP) opgericht met
+  de vriendelijke ondersteuning van OWK Notarissen uit Vught. 
+
+
+  Effectieve participatie vergt een goede informatievoorziening. VP wil daaraan
+  bijdragen.
 attachment:
   - file:
       attachment: /uploads/random-file.txt
