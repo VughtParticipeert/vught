@@ -6,7 +6,7 @@ content: >-
   bijdrage van €10,= per jaar per huishouden. Zodra wij dit bedrag hebben
   ontvangen op bankrekening **NL96 INGB 0008 5924 92 t.n.v. STICHTING FDKA**,
   zullen wij u inschrijven in ons ledenbestand. Deze bijdrage is voor de periode
-  tot en met 31 december 2020.
+  tot 1 januari 2021.
 
 
   U blijft lid totdat u ons per mail (aan
