@@ -1,5 +1,5 @@
 ---
-title: Introductie VP in het Brabants Dagblad
+title: Introductie VughtParticipeert in het Brabants Dagblad
 date: 2019-11-09T11:49:20.305Z
 theme: Vught in de pers?
 typePost: Publicatie
