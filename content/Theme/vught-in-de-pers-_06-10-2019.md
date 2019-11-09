@@ -1,4 +1,4 @@
 ---
-themeName: VughtParticipeert in de pers
+themeName: VughtParticipeert in de media
 ---
 
