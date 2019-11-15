@@ -3,7 +3,7 @@ title: Verkeersveiligheid
 date: 2019-09-24T17:14:49.721Z
 theme: Verkeersveiligheid
 typePost: Publicatie
-group: Cultuur
+group: Verkeer
 status: 1
 answered: false
 content: >-
@@ -20,3 +20,4 @@ content: >-
   Hierbij moeten plannen niet alleen op financiele haalbaarheid maar ook op
   verkeersveiligheid en de duurzaamheid daarvan worden beoordeeld.
 ---
+
