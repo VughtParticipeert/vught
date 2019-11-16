@@ -49,7 +49,7 @@ content: >-
 
   het bericht op vught.nu waar naar wij verwijzen, is niet gebaseerd op een
   eigen interpretatie van vught.nu maar op de tweede bestuursrapportage van
-  Haaren (bijgaand). Daarin staat op pagina 8: N65
+  Haaren. Daarin staat op pagina 8: N65
 
 
   _In juli heeft de Raad ingestemd met de extra bijdrage voor de N65. Het nieuwe
