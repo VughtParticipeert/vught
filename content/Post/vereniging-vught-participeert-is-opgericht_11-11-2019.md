@@ -1,5 +1,5 @@
 ---
-title: Vereniging Vught Participeert is opgericht
+title: Vereniging VughtParticipeert is opgericht
 date: 2019-11-06T16:00:00.000Z
 theme: Algemeen
 typePost: Publicatie
@@ -11,7 +11,7 @@ content: >-
   de vriendelijke ondersteuning van OWK Notarissen uit Vught. 
 
 
-  Vanaf nu kunnen inwoners via de Vereniging Vught Participeert te kennen geven
+  Vanaf nu kunnen inwoners via de Vereniging VughtParticipeert te kennen geven
   welke onderwerpen hun belangstelling hebben en hierover vragen stellen. Doel
   is het om duidelijkheid te bieden over wat er speelt in de gemeente en op
   welke manier de inwoner daarbij een rol kan spelen.
