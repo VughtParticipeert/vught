@@ -7,6 +7,12 @@ group: N65 MKBA
 status: 1
 answered: false
 content: >-
+  ![](/uploads/n65.jpg)
+
+
+  **Open vraag aan het College van de gemeente Vught**
+
+
   Een Maatschappelijke Kosten Baten Analyse (MKBA) is in Nederland wettelijk
   voorgeschreven voor alle grote infrastructurele projecten. De analyse moet
   duidelijk maken of een dergelijke grote investering zin heeft. Als de kosten
@@ -108,9 +114,6 @@ content: >-
   PS als onderdeel van ons doel om transparantie te bieden, hebben wij deze
   brief ook op onze website [www.vughtparticipeert.nl](www.vughtparticipeert.nl)
   geplaatst. Uw antwoorden zullen daar ook worden gepubliceerd.
-attachment:
-  - file:
-      attachment: /uploads/n65.jpg
-      name: N65
+attachment: []
 ---
 
