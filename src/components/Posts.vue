@@ -6,7 +6,7 @@
 				<span class="text group-text">{{checkGroup}}</span>
 			</p>
 			<p class="theme-container">
-				<span class="description">thema:</span>
+				<span class="description">onderwerp:</span>
 				<span class="text theme-text">{{theme}}</span>
 			</p>
 			<p class="reason-container">
