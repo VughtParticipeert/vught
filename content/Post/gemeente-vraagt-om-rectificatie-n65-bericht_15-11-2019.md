@@ -26,11 +26,11 @@ content: >-
   naar:_
 
 
-  _Agendapunt 5.2 – mededeling 18 – Rib gevolgen uitspraak PAS voor PHS en N65:_
+  * _Agendapunt 5.2 – mededeling 18 – Rib gevolgen uitspraak PAS voor PHS en
+  N65:_
   [_https://ibabsonline.eu/Agenda.aspx?site=vught&agendaid=45cefd4e-f1e4-475f-8c3a-57d6de3da9fd&FoundIDs=&year=2019_](https://ibabsonline.eu/Agenda.aspx?site=vught&agendaid=45cefd4e-f1e4-475f-8c3a-57d6de3da9fd&FoundIDs=&year=2019)__
 
-
-  _Agendapunt 5.2 – punt 3 - Document berichtgeving wethouder van Woesik –
+  * _Agendapunt 5.2 – punt 3 - Document berichtgeving wethouder van Woesik –
   berichtgeving Vught.nu inzake N65:_
   [_https://ibabsonline.eu/Agenda.aspx?site=vught&agendaid=69745548-ba80-49f5-8c4e-083107dfd688&FoundIDs=&year=2019_](https://ibabsonline.eu/Agenda.aspx?site=vught&agendaid=69745548-ba80-49f5-8c4e-083107dfd688&FoundIDs=&year=2019)__
 
@@ -49,20 +49,24 @@ content: >-
 
   het bericht op vught.nu waar naar wij verwijzen, is niet gebaseerd op een
   eigen interpretatie van vught.nu maar op de tweede bestuursrapportage van
-  Haaren. Daarin staat op pagina 8: N65
+  Haaren (2019 11 07 RV 1297 Bijlage 1 tweede BERAP 2019). Daarin staat op
+  pagina 8: N65
 
 
-  _In juli heeft de Raad ingestemd met de extra bijdrage voor de N65. Het nieuwe
-  ontwerp met de tunnelbak, parallelwegen, ecopassage Broekley en de fietstunnel
-  bij de Kreitestraat is nu door alle partijen financieel haalbaar gemaakt._
+  * _In juli heeft de Raad ingestemd met de extra bijdrage voor de N65. Het
+  nieuwe ontwerp met de tunnelbak, parallelwegen, ecopassage Broekley en de
+  fietstunnel bij de Kreitestraat is nu door alle partijen financieel haalbaar
+  gemaakt._
 
-
-  _In verband met het stikstofdossier (landelijke problematiek) kan er op dit
+  * _In verband met het stikstofdossier (landelijke problematiek) kan er op dit
   moment geen Raad van State proof ontwerp bestemmingsplan in procedure worden
   gebracht. Er wordt zowel landelijk, provinciaal als door de projectgroep naar
   een oplossing gezocht. Deze problematiek gaat leiden tot een vertraging van
   het proces. De omvang van de vertraging is op dit moment niet reëel in te
   schatten._
+
+
+  **Besluit VughtParticipeert**
 
 
   Omdat wij hier indirect verwijzen naar een officiële bron **zien wij geen
