@@ -1,6 +1,6 @@
 ---
 title: Gemeente vraagt om rectificatie N65 bericht
-date: 2019-11-15T15:10:17.252Z
+date: 2019-11-17T21:10:00.000Z
 theme: Verkeersveiligheid
 typePost: Publicatie
 group: N65 Uitgesteld
