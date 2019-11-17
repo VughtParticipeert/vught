@@ -1,23 +1,20 @@
 ---
 title: Waarom is de MKBA N65 niet tijdig aan de gemeenteraad ter beschikking gesteld?
-date: 2019-11-15T15:10:17.252Z
-theme: Financien
+date: 2019-11-17T22:10:00.000Z
+theme: Verkeersveiligheid
 typePost: Vraag
-group: Interne Organisatie
+group: N65 MKBA
 status: 1
 answered: false
 content: >-
-  Inleiding:
-
-
   Een Maatschappelijke Kosten Baten Analyse (MKBA) is in Nederland wettelijk
   voorgeschreven voor alle grote infrastructurele projecten. De analyse moet
-  duidelijk maken of een dergelijke grote investering zin heeft. Zijn de
-  maatschappelijke baten van het infrastructuurproject groter dan de kosten, dat
-  is de vraag die met een MKBA moet worden beantwoord.
+  duidelijk maken of een dergelijke grote investering zin heeft. Als de kosten
+  van het infrastructuurproject groter zijn dan de baten, moeten dit project
+  niet worden uitgevoerd.
 
 
-  Het MKBA N65 is door het ministerie van I&M ( Infrastructuur en Waterstaat)
+  Het MKBA N65 is door het ministerie van I&W ( Infrastructuur en Waterstaat)
   opgesteld en is vervolgens getoetst door de Antea Group en door het RIGO.
   Tenslotte is een second opinion gevraagd aan het KIM, het onafhankelijk
   Kennisinstituut voor Mobiliteit in Nederland.
@@ -70,24 +67,31 @@ content: >-
   verantwoordelijk is, krijgen wij graag antwoord op de volgende vragen:
 
 
-  \- wanneer was de definitieve versie het rapport van de MKBA voor het eerst
-  beschikbaar en aan wie is dit ter beschikking gesteld?
+  * Wanneer was de definitieve versie beschikbaar van het MKBA advies van Antea
+  group en aan wie is dit ter beschikking gesteld? We doelen daarbij op de MIRT­
+  Verkenning N65 Vught – Haaren; Maatschappelijke kosten en baten van de
+  onderzochte alternatieven, Deel I, Deel II en Deel IIa, Antea group, 1 juni
+  2016.
 
+  * Wanneer was de definitieve versie van de MKBA beschikbaar, die al eerder
+  door RIGO is uitgevoerd (opgeleverd door RIGO in februari 2016) en die als
+  'Deel II MKBA N65' in de hierboven genoemde MIRT verkenning opgenomen, evenals
+  de second opinion door het Kennisinstituut voor Mobiliteit (opgeleverd 17-2
+  2016), opgenomen als Deel IIa in de genoemde MIRT verkenning? 
 
-  \- klopt het dat voor de MKBA alle kosten en baten zijn geanalyseerd en
-  gekwantificeerd, waarbij er per saldo een negatief resultaat bleek, vooral
-  vanwege zorgen over de veiligheid?
+  * Aan wie binnen de college en gemeenteraad van Vught zijn deze twee rapporten
+  wanneer ter beschikking gesteld?
 
+  * Klopt het dat voor de MKBA alle kosten en baten zijn geanalyseerd en
+  gekwantificeerd, waarbij er per saldo een negatief resultaat bleek?
 
-  \- Hoe groot was het negatieve kosten-baten saldo met betrekking tot de
-  oorspronkelijke doelstellingen, dus exclusief de doorstroming op de N65?
+  * Klopt het dat de definitieve versie van de MKBA van het VKA (MIRT­
+  Verkenning N65 Vught – Haaren; Maatschappelijke kosten en baten van de
+  onderzochte alternatieven, Antea group, 1 juni 2016, Deel 1, Deel II en Deel
+  IIa) bij het besluit door de gemeenteraad niet aan de raadsleden ter
+  beschikking was gesteld?
 
-
-  \- wanneer heeft de gemeenteraad over de VKA+ variant van de N65 gestemd en op
-  wiens voordracht heeft deze stemming plaatsgevonden?
-
-
-  \- is het gebruikelijk om een dergelijke stemming in de gemeenteraad te laten
+  * Is het gebruikelijk om een dergelijke stemming in de gemeenteraad te laten
   plaatsvinden zonder dat kennis genomen kon worden van relevante
   onderzoeksresultaten?
 
@@ -102,7 +106,11 @@ content: >-
 
 
   PS als onderdeel van ons doel om transparantie te bieden, hebben wij deze
-  brief ook op onze website www.vughtparticipeert.nl geplaatst. Uw antwoorden
-  zullen ook worden gepubliceerd.
+  brief ook op onze website [www.vughtparticipeert.nl](www.vughtparticipeert.nl)
+  geplaatst. Uw antwoorden zullen daar ook worden gepubliceerd.
+attachment:
+  - file:
+      attachment: /uploads/n65.jpg
+      name: N65
 ---
 
