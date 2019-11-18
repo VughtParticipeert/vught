@@ -8,8 +8,8 @@ status: 1
 answered: false
 content: >-
   Cultuur is een breder begrip dan alleen optredens van professionele musici en
-  acteurs. Het behelst ook de muziekschool en amateurtoneel, om er maar een paar
-  te noemen. 
+  acteurs. Het behelst ook zaken als de muziekschool en amateurtoneel, om er
+  maar een paar te noemen. 
 
 
   Daarvoor zijn faciliteiten nodig. Onder het thema cultuur willen wij volgen
