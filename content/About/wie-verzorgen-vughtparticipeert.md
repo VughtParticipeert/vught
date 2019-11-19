@@ -4,7 +4,15 @@ index: 3
 ---
 ![](/uploads/schermafdruk-2019-09-23-22.52.27.png)
 
-De vereniging VughtParticipeert (VP) is opgericht door een aantal betrokken inwoners.
+De vereniging VughtParticipeert (VP) is opgericht door een aantal betrokken inwoners:
+
+* Maaike Dautzenberg (voorzitter)
+* Frank van Koning (penningmeester)
+* Philip Helmer (secretaris)
+
+De bestuursleden geloven in de kracht van burgers en heb geleerd dat vele lokale problemen niet links en niet rechts zijn. Met luisteren, openheid en wederzijds respect kan veel worden bereikt en zijn oplossingen in de regel duurzamer. 
+
+Graag dragen wij bij aan de samenwerking tussen inwoners en bestuurders, zonder politieke bijbedoelingen. De samenleving van vandaag vraagt meer van ons dan 1 keer per 4 jaar een vakje rood kleuren.
 
 Naast het bestuur werken diverse inwoners mee. De inwoners zijn per onderwerp georganiseerd en zijn hierin deskundig, ervaren of ter plaatse betrokken.
 
