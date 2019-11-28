@@ -9,15 +9,21 @@ content: >-
   bijdrage is voor de periode tot 1 januari 2021.
 
 
+
+
   U blijft lid totdat u ons per mail (aan
   [penningmeester@vughtparticipeert.nl](penningmeester@vughtparticipeert.nl))
   heeft geïnformeerd dat u uw lidmaatschap wilt beëindigen. In de maand november
   van ieder jaar zullen wij uw lidmaatschap verlengen voor nogmaals 1 jaar. 
 
 
+
+
   De door u verstrekte gegevens voor aanmelding zullen uitsluitend worden
   gebruikt voor de ledenadministratie, voor uitnodigingen aan ledenvergaderingen
   en de communicatie over actuele onderwerpen via onze nieuwsbrief. 
+
+
 
 
   U kunt zich apart aanmelden voor onze nieuwsbrief. Bij de ontvangst van iedere
