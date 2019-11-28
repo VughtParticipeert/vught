@@ -1,6 +1,6 @@
 ---
 title: Waarom VughtParticipeert?
 index: 1
-image: /uploads/waarom.jpg
+image: /uploads/waarom.png
 ---
 
