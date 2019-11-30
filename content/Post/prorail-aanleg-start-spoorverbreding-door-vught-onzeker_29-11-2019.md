@@ -1,5 +1,5 @@
 ---
-title: 'ProRail: Start spoorverbreding door Vught onzeker'
+title: 'ProRail: Startmoment spoorverbreding door Vught onzeker'
 date: 2019-11-28T07:07:02.924Z
 theme: Verkeersveiligheid
 typePost: Publicatie
