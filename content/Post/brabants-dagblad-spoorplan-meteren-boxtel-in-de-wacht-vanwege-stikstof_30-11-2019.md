@@ -1,7 +1,7 @@
 ---
 title: 'Brabants Dagblad: Spoorplan Meteren-Boxtel ‘in de wacht’ vanwege stikstof'
 date: 2019-11-30T11:53:32.950Z
-theme: Verkeersveiligheid
+theme: ProRail spoor
 typePost: Publicatie
 group: none
 status: 1
