@@ -93,7 +93,7 @@ $break-small: 57em;
 			.jumbotron-image {
 				width: 100%;
 				height: 100%;
-				object-fit: cover;
+				object-fit: contain;
 				position: relative;
 				transition: all 0.2s ease-out;
 				background: white;
