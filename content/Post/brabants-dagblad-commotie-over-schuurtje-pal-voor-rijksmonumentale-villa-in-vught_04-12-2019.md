@@ -3,7 +3,7 @@ title: >-
   Brabants Dagblad: Commotie over ‘schuurtje’ pal voor rijksmonumentale villa in
   Vught
 date: 2019-12-04T09:23:20.956Z
-theme: VughtParticipeert in de media
+theme: Algemeen
 typePost: Publicatie
 group: none
 status: 1
