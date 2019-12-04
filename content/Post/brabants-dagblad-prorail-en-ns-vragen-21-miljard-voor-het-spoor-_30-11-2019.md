@@ -19,8 +19,10 @@ content: >-
   spoor<https://www.bd.nl/economie/prorail-en-ns-vragen-21-miljard-voor-het-spoor~adcfdd70/>
 
 
-  Vraag van VughtParticipeert: Betekent dit straks 4 sporen door Vught? Krijgen
-  wij dan 2 grote verbouwingsprojecten na elkaar en waar moet daarvoor de ruimte
-  gevonden worden?
+  Opmerking van Vught Participeert: Bij navraag blijkt dat deze spoorverbreding
+  betrekking heeft op het deel ten noorden van Vught. In Vught-Noord splitst het
+  spoor zich in 2 sporen naar Tilburg en 2 sporen naar Eindhoven. Binnen Vught
+  verandert er door deze ontwikkelingen niets. De bewoners van de Willem van
+  Oranjelaan zullen hier niet blij mee zijn.
 ---
 
