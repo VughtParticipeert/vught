@@ -10,6 +10,9 @@ content: >-
   ![](/uploads/schermafdruk-2019-11-25-23.03.12.png "Rekenkamer")
 
 
+  Geacht College van de gemeente Vught,
+
+
   Sinds 2002 heeft elke gemeente een rekenkamer of een rekenkamercommissie. Dit
   is een verplichting die in de Gemeentewet (art. 81a) is opgenomen. 
 
@@ -76,7 +79,7 @@ content: >-
 
 
   PS als onderdeel van ons doel om transparantie te bieden, hebben wij deze
-  brief ook op onze website www.vughtparticipeert.nl geplaatst. Uw antwoorden
-  zullen daar ook worden gepubliceerd.
+  brief ook op onze website [www.vughtparticipeert.nl](www.vughtparticipeert.nl)
+  geplaatst. Uw antwoorden zullen daar ook worden gepubliceerd.
 ---
 
