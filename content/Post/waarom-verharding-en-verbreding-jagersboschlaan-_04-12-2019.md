@@ -182,7 +182,7 @@ content: >-
 
 
   PS als onderdeel van ons doel om transparantie te bieden, hebben wij deze
-  brief ook op onze website www.vughtparticipeert.nl geplaatst. Uw antwoorden
-  zullen daar ook worden gepubliceerd.
+  brief ook op onze website [www.vughtparticipeert.nl](www.vughtparticipeert.nl)
+  geplaatst. Uw antwoorden zullen daar ook worden gepubliceerd.
 ---
 
