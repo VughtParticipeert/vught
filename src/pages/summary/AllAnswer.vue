@@ -88,7 +88,7 @@ export default {
 				const typePost = post.node.typePost.toLowerCase();
 				return (
 					typePost === "antwoord" &&
-					post.node.status !== status.notApplicable
+					post.node.status !== this.status.notApplicable
 				);
 			});
 
@@ -109,28 +109,29 @@ export default {
 			posts.map(post => {
 				switch (post.node.status) {
 					case this.status.notApplicable:
-						post.node.status = {
+						return (post.node.status = {
 							text: "Niet van toepassing",
 							value: "notApplicable"
-						};
+						});
 						break;
 					case this.status.complete:
-						post.node.status = {
+						return (post.node.status = {
 							text: "Antwoord is volledig",
 							value: "complete"
-						};
+						});
+						console.log("hier moet tie zijn");
 						break;
 					case this.status.inComplete:
-						post.node.status = {
+						return (post.node.status = {
 							text: "Antwoord is onvolledig",
 							value: "inComplete"
-						};
+						});
 						break;
 					case this.status.inSufficient:
-						post.node.status = {
+						return (post.node.status = {
 							text: "Antwoord volstaat niet",
 							value: "inSufficient"
-						};
+						});
 						break;
 				}
 			});
