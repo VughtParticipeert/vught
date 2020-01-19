@@ -119,7 +119,6 @@ export default {
 							text: "Antwoord is volledig",
 							value: "complete"
 						});
-						console.log("hier moet tie zijn");
 						break;
 					case this.status.inComplete:
 						return (post.node.status = {
