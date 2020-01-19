@@ -6,7 +6,7 @@ date: 2020-01-02T07:15:01.998Z
 theme: Verkeersveiligheid
 typePost: Antwoord
 group: N65 MKBA
-status: 3
+status: 2
 answered: false
 content: >-
   Geacht College van de gemeente Vught, 
