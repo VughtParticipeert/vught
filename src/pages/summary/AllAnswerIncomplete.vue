@@ -92,9 +92,12 @@ export default {
 			//Filter post
 			const filteredPost = allPosts.filter(post => {
 				const typePost = post.node.typePost.toLowerCase();
+
 				return (
-					typePost === "antwoord" &&
-					post.node.status === status.inComplete
+					(typePost === "antwoord" &&
+						post.node.status === status.inComplete) ||
+					(typeof post.node.status === "object" &&
+						post.node.status.value === "inComplete")
 				);
 			});
 

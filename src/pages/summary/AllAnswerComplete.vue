@@ -92,11 +92,16 @@ export default {
 			//Filter post
 			const filteredPost = allPosts.filter(post => {
 				const typePost = post.node.typePost.toLowerCase();
+
 				return (
-					typePost === "antwoord" &&
-					post.node.status === status.complete
+					(typePost === "antwoord" &&
+						post.node.status === status.complete) ||
+					(typeof post.node.status === "object" &&
+						post.node.status.value === "complete")
 				);
 			});
+
+			console.log(filteredPost);
 
 			//Map group
 			filteredPost.map(post => {
@@ -107,6 +112,7 @@ export default {
 			});
 
 			const posts = this.checkStatus(filteredPost);
+
 			return posts;
 		}
 	},
