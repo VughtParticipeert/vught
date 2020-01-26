@@ -21,5 +21,14 @@ content: >-
   vragen onvoldoende zijn beantwoord. U wekt de indruk een antwoord te geven,
   terwijl dat niet zo is. Dat beoordelen wij als onvoldoende. Om deze redenen
   wijzen wij uw antwoord af en stellen wij de vragen opnieuw.
+
+
+  PS uw antwoord publiceren wij hierbij
+attachment:
+  - file:
+      attachment: /uploads/20191209 MKBA antwoord gemeente.pdf
+      name: >-
+        Antwoord van gemeente op de vragen over het tijdig ter beschikking
+        stellen van het rapport MKBA
 ---
 
