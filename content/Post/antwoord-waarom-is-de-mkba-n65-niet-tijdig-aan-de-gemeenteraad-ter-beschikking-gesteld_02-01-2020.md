@@ -7,7 +7,7 @@ theme: Verkeersveiligheid
 typePost: Antwoord
 group: N65 MKBA
 status: 4
-answered: false
+answered: true
 content: >-
   Geacht College van de gemeente Vught, 
 
