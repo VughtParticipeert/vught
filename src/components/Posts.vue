@@ -276,7 +276,13 @@ export default {
 
 			ul,
 			ol {
-				list-style-position: inside;
+				list-style-position: outside;
+				margin-top: 1rem;
+				padding-left: 2rem;
+			}
+
+			li {
+				margin-top: 0.4rem;
 			}
 
 			a {
@@ -285,7 +291,6 @@ export default {
 				position: relative;
 				color: var(--secondary-color);
 				text-decoration: none;
-				// border-bottom: solid 0.09rem var(--primary-color);
 
 				&:after {
 					content: "";
