@@ -5,7 +5,7 @@ theme: Verkeersveiligheid
 typePost: Vraag
 group: N65 MKBA
 status: 1
-answered: false
+answered: true
 content: >-
   ![](/uploads/n65.jpg)
 
