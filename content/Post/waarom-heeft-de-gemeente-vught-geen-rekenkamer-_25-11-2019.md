@@ -5,7 +5,7 @@ theme: Financien
 typePost: Vraag
 group: Rekenkamer
 status: 1
-answered: false
+answered: true
 content: >-
   ![](/uploads/schermafdruk-2019-11-25-23.03.12.png "Rekenkamer")
 
