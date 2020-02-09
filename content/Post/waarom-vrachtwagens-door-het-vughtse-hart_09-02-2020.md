@@ -25,8 +25,8 @@ content: >-
 
   * De belevering van de winkels via het bevoorradingshofje zou *niet* door de
   gemeente zijn afgedwongen. Terwijl uit de Raam- en Realisatieovereenkomst van
-  28-8-2017 en uit gesprekken met de projectontwikkelaar blijkt dat dit *wel*het
-  op verzoek van de gemeente is
+  28-8-2017 en uit gesprekken met de projectontwikkelaar blijkt dat dit *wel* op
+  verzoek van de gemeente is
 
   * Het oorspronkelijke ontwerp Centrumplan Oost (CPO 1.0) zou van tafel zijn
   gehaald omdat er problemen waren met de fundering. Uit betrouwbare bron is
