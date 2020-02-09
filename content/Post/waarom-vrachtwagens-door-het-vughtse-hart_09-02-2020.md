@@ -1,5 +1,5 @@
 ---
-title: Waarom vrachtwagens door het Vughtse Hart?
+title: 'Antwoord: Waarom vrachtwagens door het Vughtse Hart?'
 date: 2020-02-09T08:59:20.600Z
 theme: Verkeersveiligheid
 typePost: Antwoord
@@ -11,7 +11,7 @@ content: >-
 
 
   U heeft op 15 januari 2020 gereageerd op onze vraag 'Waarom vrachtwagens door
-  het Vughtse Hart?’ van 9 december 2019.
+  het Vughtse Hart?’ van 9 december 2019. Uw antwoord is bijgesloten.
 
 
   Inleidend stellen wij daarbij het volgende vast:
@@ -58,5 +58,8 @@ attachment:
         /uploads/200208 Reactie op antwoord gemeente op vraag 'Waarom
         vrachtwagens ..'.pdf
       name: Reactie op de antwoorden van het college
+  - file:
+      attachment: /uploads/200115 Vrachtwagens Raadhuisstraat antwoord gemeente.pdf
+      name: Antwoorden van de gemeente
 ---
 
