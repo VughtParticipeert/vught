@@ -54,12 +54,12 @@ content: >-
   verbinden.
 attachment:
   - file:
+      attachment: /uploads/200115 Vrachtwagens Raadhuisstraat antwoord gemeente.pdf
+      name: Antwoorden van de gemeente
+  - file:
       attachment: >-
         /uploads/200208 Reactie op antwoord gemeente op vraag 'Waarom
         vrachtwagens ..'.pdf
-      name: Reactie op de antwoorden van het college
-  - file:
-      attachment: /uploads/200115 Vrachtwagens Raadhuisstraat antwoord gemeente.pdf
-      name: Antwoorden van de gemeente
+      name: Reactie op antwoorden van gemeente
 ---
 
