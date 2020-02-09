@@ -16,6 +16,8 @@ content: >-
   zoals financiën, bestuursrecht, verkeer of publiciteit.
 
 
+
+
   #### Waar kunnen wij nog hulp gebruiken?
 
 
@@ -24,23 +26,25 @@ content: >-
 
 
   Ook zoeken wij een helpende hand bij het verzorgen van onze maandelijkse
-  nieuwsbrief. Hierbij is het van belang **redactioneel vaardig**  en op de
-  hoogte te zijn van de actuele ontwikkelingen. Technische ervaring is niet
-  vereist, wel kunnen omgaan met de gebruikelijke Office programma's als
-  tekstverwerking en mailing.
+  nieuwsbrief. Hierbij is het van belang **redactioneel vaardig**  te zijn en op
+  de hoogte van de actuele ontwikkelingen. Technische ervaring is niet vereist,
+  wel kunnen omgaan met de gebruikelijke Office programma's als tekstverwerking
+  en mailing.
+
+
 
 
   #### Hoe werken wij?
 
 
-  Omdat wij geen kantoor hebben, werkt iedereen vanuit huis en maken veel
+  Omdat wij geen kantoor hebben, werkt iedereen vanuit huis en maken wij veel
   gebruik van email en telefoon. Ontmoeten doen wij op openbare locaties zoals
-  DePetrus of we boeken een vergaderruimte. Iedere laatste maandag hebben wij
-  een informele bijeenkomst om 20:00 h. Dat is het moment om te overleggen, bij
-  te praten en elkaar beter te leren kennen.
+  DePetrus of we boeken een vergaderruimte. De laatste maandag van iedere maand
+  hebben wij een informele bijeenkomst om 20:00 h. Dat is het moment om te
+  overleggen, bij te praten en elkaar beter te leren kennen.
 
 
   Doe mee en help onze gemeente nog mooier en beter te maken. Meld je op
-  info@vughtparticipeert of op onze web-site.
+  info@vughtparticipeert.nl of op onze web-site.
 ---
 
