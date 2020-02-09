@@ -11,7 +11,7 @@ content: >-
 
 
   U heeft op 15 januari 2020 gereageerd op onze vraag 'Waarom vrachtwagens door
-  het Vughtse Hart?’ van 9 december 2019. Uw antwoord is bijgesloten.
+  het Vughtse Hart?’ van 9 december 2019.
 
 
   Inleidend stellen wij daarbij het volgende vast:
