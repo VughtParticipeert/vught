@@ -24,10 +24,10 @@ content: >-
 
 
   Ook zoeken wij een helpende hand bij het verzorgen van onze maandelijkse
-  nieuwsbrief. Hierbij is het van belang **redactioneel vaardig**  en op de
-  hoogte te zijn van de actuele ontwikkelingen. Technische ervaring is niet
-  vereist, wel kunnen omgaan met de gebruikelijke Office programma's als
-  tekstverwerking en mailing.
+  nieuwsbrief. Hierbij is het van belang **redactioneel vaardig**  te zijn en op
+  de hoogte van de actuele ontwikkelingen. Technische ervaring is niet vereist,
+  wel kunnen omgaan met de gebruikelijke Office programma's als tekstverwerking
+  en mailing.
 
 
   #### Hoe werken wij?
