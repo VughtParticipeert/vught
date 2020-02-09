@@ -15,6 +15,8 @@ content: >-
   web-site konden wij goed duidelijk maken waarom, hoe en wie wij zijn.
 
 
+
+
   #### De eerste stappen
 
 
@@ -28,6 +30,8 @@ content: >-
   gemeente worden gesteld, die dan ook direct op onze site werden gepubliceerd. 
 
 
+
+
   #### De eerste resultaten
 
 
@@ -37,6 +41,8 @@ content: >-
   antwoorden verwachten. Inmiddels zijn zes vragen gesteld en vijf antwoorden
   ontvangen. Drie antwoorden zijn door onze team beoordeeld, twee worden nog
   geanalyseerd.
+
+
 
 
   #### Kwaliteit van de antwoorden laat te wensen over
@@ -49,11 +55,13 @@ content: >-
   de noodzaak precies en volledig te zijn.
 
 
+
+
   #### Er staat nog veel op stapel
 
 
   Op de planning staan nog diverse onderwerpen, sommige daarvan al in volle
-  voorbereding. Op deze pagina willen wij u regelmatig informeren. Ook bestaat
+  voorbereiding. Op deze pagina willen wij u regelmatig informeren. Ook bestaat
   de mogelijkheid op onze web-site aan te melden voor de nieuwsbrief.
 ---
 
