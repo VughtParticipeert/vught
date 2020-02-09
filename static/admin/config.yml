@@ -35,6 +35,7 @@ collections:
       description: 'Create items to be highlighted. Max (3)' # A description that will displayed below the  in the CMs
       fields:
           - { label: 'Title', name: 'title', widget: 'string' }
+          - { label: 'Link to', name: 'link', widget: 'string'}
           - {
                 label: 'Index',
                 name: 'index',
