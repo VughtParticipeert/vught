@@ -1,7 +1,7 @@
 ---
-title: Actueel
+title: Hoe kan jij helpen?
 link: >-
-  https://www.vughtparticipeert.nl/post/antwoord-waarom-vrachtwagens-door-het-vughtse-hart/6ce2e972ddc517ed2216f5ec1c9ec7e0/#main
+  https://www.vughtparticipeert.nl/post/hoe-kan-jij-helpen/a9ee788b0f5face1df02dc515a422c3c#main
 index: 3
 image: /uploads/Wie zonder tekst.png
 ---
