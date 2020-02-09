@@ -12,7 +12,7 @@ content: >-
 
   Dankzij veel belangstelling van diverse media zoals Brabants Dagblad,
   Klaverblad, Novo-3 en Avulo, was VughtParticipeert snel bekend. Ook via onze
-  web-site konden wij goed duidelijk maken waarom, hoe en wie wij zijn.
+  web-site konden wij goed duidelijk maken waarom, wat en wie wij zijn.
 
 
   #### De eerste stappen
@@ -32,7 +32,7 @@ content: >-
 
 
   Tot ons genoegen merkten wij dat de gemeente zich inspande om binnen de door
-  ons gewenste antwoordtermijn van 3 weken te antwoorden. Dat is een goede
+  ons gewenste antwoordtermijn van 3 weken te antwoorden. Dat is een goed
   resultaat, omdat onze vragen in de regel diepgaand zijn en wij solide
   antwoorden verwachten. Inmiddels zijn zes vragen gesteld en vijf antwoorden
   ontvangen. Drie antwoorden zijn door onze team beoordeeld, twee worden nog
@@ -53,7 +53,7 @@ content: >-
 
 
   Op de planning staan nog diverse onderwerpen, sommige daarvan al in volle
-  voorbereding. Op deze pagina willen wij u regelmatig informeren. Ook bestaat
+  voorbereiding. Op deze pagina willen wij u regelmatig informeren. Ook bestaat
   de mogelijkheid op onze web-site aan te melden voor de nieuwsbrief.
 ---
 
