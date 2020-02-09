@@ -33,11 +33,11 @@ content: >-
   #### Hoe werken wij?
 
 
-  Omdat wij geen kantoor hebben, werkt iedereen vanuit huis en maken veel
+  Omdat wij geen kantoor hebben, werkt iedereen vanuit huis en maken wij veel
   gebruik van email en telefoon. Ontmoeten doen wij op openbare locaties zoals
-  DePetrus of we boeken een vergaderruimte. Iedere laatste maandag hebben wij
-  een informele bijeenkomst om 20:00 h. Dat is het moment om te overleggen, bij
-  te praten en elkaar beter te leren kennen.
+  DePetrus of we boeken een vergaderruimte. De laatste maandag van iedere maand
+  hebben wij een informele bijeenkomst om 20:00 h. Dat is het moment om te
+  overleggen, bij te praten en elkaar beter te leren kennen.
 
 
   Doe mee en help onze gemeente nog mooier en beter te maken. Meld je op
