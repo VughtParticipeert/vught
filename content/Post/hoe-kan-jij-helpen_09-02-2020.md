@@ -16,6 +16,8 @@ content: >-
   zoals financiën, bestuursrecht, verkeer of publiciteit.
 
 
+
+
   #### Waar kunnen wij nog hulp gebruiken?
 
 
@@ -28,6 +30,8 @@ content: >-
   de hoogte van de actuele ontwikkelingen. Technische ervaring is niet vereist,
   wel kunnen omgaan met de gebruikelijke Office programma's als tekstverwerking
   en mailing.
+
+
 
 
   #### Hoe werken wij?
