@@ -16,8 +16,6 @@ content: >-
   zoals financiën, bestuursrecht, verkeer of publiciteit.
 
 
-
-
   #### Waar kunnen wij nog hulp gebruiken?
 
 
@@ -32,8 +30,6 @@ content: >-
   tekstverwerking en mailing.
 
 
-
-
   #### Hoe werken wij?
 
 
@@ -45,6 +41,6 @@ content: >-
 
 
   Doe mee en help onze gemeente nog mooier en beter te maken. Meld je op
-  info@vughtparticipeert of op onze web-site.
+  info@vughtparticipeert.nl of op onze web-site.
 ---
 
