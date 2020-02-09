@@ -1,7 +1,7 @@
 <template>
 	<section class="jumbotron-container">
 		<div v-for="item in jumbotronItems" :key="item.id" class="jumbotron-item">
-			<g-link :to="item.link">
+			<a :to="item.link">
 				<span class="title">{{item.title}}</span>
 				<img
 					:srcset="`${item.image}?nf_resize=fit&w=700 700w, ${item.image}?nf_resize=fit&w=400 400w, ${item.image}?nf_resize=fit&w=200 200w`"
@@ -9,7 +9,7 @@
 					:alt="item.title"
 					class="jumbotron-image"
 				/>
-			</g-link>
+			</a>
 		</div>
 	</section>
 </template>
