@@ -74,6 +74,7 @@ $break-small: 57em;
 				display: inline-block;
 				font-size: calc(16px + 1vw);
 				position: absolute;
+				bottom: 1.5rem;
 				z-index: 1;
 				color: white;
 				padding: 0 1rem;
