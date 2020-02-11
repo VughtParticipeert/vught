@@ -260,6 +260,13 @@ export default {
 				margin-top: 3rem;
 			}
 
+			h1:first-of-type,
+			h2:first-of-type,
+			h3:first-of-type,
+			h4:first-of-type {
+				margin-top: 0;
+			}
+
 			h1 {
 				font-size: 1.7em;
 			}
@@ -269,11 +276,11 @@ export default {
 			}
 
 			h3 {
-				font-size: 1.25em;
+				font-size: 1.375em;
 			}
 
 			h4 {
-				font-size: 1.15em;
+				font-size: 1.2em;
 			}
 
 			img {
