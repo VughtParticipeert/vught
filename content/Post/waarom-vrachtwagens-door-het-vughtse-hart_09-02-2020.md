@@ -25,8 +25,8 @@ content: >-
 
   * De belevering van de winkels via het bevoorradingshofje zou *niet* door de
   gemeente zijn afgedwongen. Terwijl uit de Raam- en Realisatieovereenkomst van
-  28-8-2017 en uit gesprekken met de projectontwikkelaar blijkt dat dit *wel*het
-  op verzoek van de gemeente is
+  28-8-2017 en uit gesprekken met de projectontwikkelaar blijkt dat dit *wel* op
+  verzoek van de gemeente is
 
   * Het oorspronkelijke ontwerp Centrumplan Oost (CPO 1.0) zou van tafel zijn
   gehaald omdat er problemen waren met de fundering. Uit betrouwbare bron is
@@ -54,12 +54,12 @@ content: >-
   verbinden.
 attachment:
   - file:
+      attachment: /uploads/200115 Vrachtwagens Raadhuisstraat antwoord gemeente.pdf
+      name: Antwoorden van de gemeente
+  - file:
       attachment: >-
         /uploads/200208 Reactie op antwoord gemeente op vraag 'Waarom
         vrachtwagens ..'.pdf
-      name: Reactie op de antwoorden van het college
-  - file:
-      attachment: /uploads/200115 Vrachtwagens Raadhuisstraat antwoord gemeente.pdf
-      name: Antwoorden van de gemeente
+      name: Reactie op antwoorden van gemeente
 ---
 
