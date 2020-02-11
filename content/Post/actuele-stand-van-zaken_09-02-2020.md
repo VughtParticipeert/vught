@@ -15,7 +15,7 @@ content: >-
   web-site konden wij goed duidelijk maken waarom, wat en wie wij zijn.
 
 
-  #### De eerste stappen
+  ### De eerste stappen
 
 
   Nog voor het starten van onze web-site waren wij al begonnen met het
