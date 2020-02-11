@@ -254,7 +254,9 @@ export default {
 			}
 
 			h1,
-			h2 {
+			h2,
+			h3,
+			h4 {
 				margin-top: 3rem;
 			}
 
@@ -264,6 +266,14 @@ export default {
 
 			h2 {
 				font-size: 1.5em;
+			}
+
+			h3 {
+				font-size: 1.25em;
+			}
+
+			h4 {
+				font-size: 1.15em;
 			}
 
 			img {
