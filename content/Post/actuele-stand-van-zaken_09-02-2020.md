@@ -12,19 +12,18 @@ content: >-
 
   Dankzij veel belangstelling van diverse media zoals Brabants Dagblad,
   Klaverblad, Novo-3 en Avulo, was VughtParticipeert snel bekend. Ook via onze
-  web-site konden wij goed duidelijk maken waarom, wat en wie wij zijn.
+  website konden wij goed duidelijk maken waarom, wat en wie wij zijn.
 
 
-  ### De eerste stappen
+  #### De eerste stappen
 
 
-  Nog voor het starten van onze web-site waren wij al begonnen met het
-  selecteren en voorbereiden van onderwerpen. Per onderwerp zijn vrijwilligers
-  aan het werk gegaan met het analyseren en het formuleren van vragen aan de
-  gemeente.
+  Nog voor het starten van onze website waren wij al begonnen met het selecteren
+  en voorbereiden van onderwerpen. Per onderwerp zijn vrijwilligers aan het werk
+  gegaan met het analyseren en het formuleren van vragen aan de gemeente.
 
 
-  Direct nadat onze web-site in de lucht was, konden de eerste vragen aan de
+  Direct nadat onze website in de lucht was, konden de eerste vragen aan de
   gemeente worden gesteld, die dan ook direct op onze site werden gepubliceerd. 
 
 
@@ -45,7 +44,7 @@ content: >-
   Helaas hebben wij twee antwoorden als onvoldoende moeten afwijzen. De vragen
   zijn niet of onvolledig beantwoord. Wat er aan de antwoorden schort, hebben
   wij in onze reactie aangegeven. Zowel vraag, antwoord als onze beoordeling
-  daarvan staan op onze web-site. Misschien dat de gemeente nog moet wennen aan
+  daarvan staan op onze website. Misschien dat de gemeente nog moet wennen aan
   de noodzaak precies en volledig te zijn.
 
 
@@ -54,6 +53,6 @@ content: >-
 
   Op de planning staan nog diverse onderwerpen, sommige daarvan al in volle
   voorbereiding. Op deze pagina willen wij u regelmatig informeren. Ook bestaat
-  de mogelijkheid op onze web-site aan te melden voor de nieuwsbrief.
+  de mogelijkheid op onze website aan te melden voor de nieuwsbrief.
 ---
 
