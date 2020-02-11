@@ -1,6 +1,6 @@
 ---
 title: Actuele stand van zaken
-date: 2020-01-01T21:06:00.000Z
+date: 2020-02-01T21:06:00.000Z
 theme: Algemeen
 typePost: Publicatie
 group: none
