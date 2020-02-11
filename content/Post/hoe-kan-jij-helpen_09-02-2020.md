@@ -1,6 +1,6 @@
 ---
 title: Hoe kan jij helpen?
-date: 2020-01-01T20:42:00.000Z
+date: 2020-01-02T20:42:00.000Z
 theme: Algemeen
 typePost: Publicatie
 group: none
@@ -16,13 +16,11 @@ content: >-
   zoals financiën, bestuursrecht, verkeer of publiciteit.
 
 
-
-
   #### Waar kunnen wij nog hulp gebruiken?
 
 
   Wij zijn op zoek naar iemand die wil helpen bij het **technisch beheer van
-  onze web-site**. Hierbij is enige programmeer-ervaring essentieel. 
+  onze website**. Hierbij is enige programmeer-ervaring essentieel. 
 
 
   Ook zoeken wij een helpende hand bij het verzorgen van onze maandelijkse
@@ -30,8 +28,6 @@ content: >-
   de hoogte van de actuele ontwikkelingen. Technische ervaring is niet vereist,
   wel kunnen omgaan met de gebruikelijke Office programma's als tekstverwerking
   en mailing.
-
-
 
 
   #### Hoe werken wij?
@@ -45,6 +41,6 @@ content: >-
 
 
   Doe mee en help onze gemeente nog mooier en beter te maken. Meld je op
-  info@vughtparticipeert.nl of op onze web-site.
+  info@vughtparticipeert.nl of op onze website.
 ---
 
