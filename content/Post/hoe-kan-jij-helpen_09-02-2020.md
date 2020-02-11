@@ -1,6 +1,6 @@
 ---
 title: Hoe kan jij helpen?
-date: 2020-01-02T20:42:00.000Z
+date: 2020-02-01T20:42:00.000Z
 theme: Algemeen
 typePost: Publicatie
 group: none
