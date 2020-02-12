@@ -7,7 +7,7 @@ group: N65 MKBA
 status: 4
 answered: true
 content: >-
-  #### Voorlopige reactie op het anwoord van de gemeente
+  #### Voorlopige reactie op het antwoord van de gemeente
 
 
   Wij hebben een reactie van de gemeente ontvangen, waarbij de meeste vragen
@@ -17,12 +17,10 @@ content: >-
   het geval is.
 
 
-
   Aangezien de werkgroep Jagersboschlaan via de bezwaarschriftencommissie
   formeel bezwaar heeft ingediend tegen de gemeentelijke plannen, wachten we op
   verzoek van de werkgroep eerst het advies af dat deze commissie aan het
   college gaat geven.
-
 
 
   Daarna zullen we een meer gedetailleerde reactie op het antwoord van het
