@@ -4,7 +4,7 @@ date: 2020-02-12T18:11:17.949Z
 theme: Verkeersveiligheid
 typePost: Antwoord
 group: N65 MKBA
-status: 1
+status: 4
 answered: true
 content: >-
   #### Voorlopige reactie op het anwoord van de gemeente
