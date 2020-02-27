@@ -22,14 +22,17 @@ content: >-
   beloften en niet betrokken bij maatregelen.
 
 
-  Terugdringen verkeersoverlast De afgelopen 20 jaar heeft de dienstverlenende
-  sector aan en rond het Moleneindplein een flinke groei doorgemaakt in de vorm
-  van winkels en diverse voorzieningen zoals een gezondheidscentrum, een
-  fysiotherapiepraktijk en een school. Dit betekent een forse toename van het
-  gemotoriseerd verkeer in de omringende woonwijk vanwege winkelend publiek,
-  bevoorradend vrachtverkeer, bezoekers van de zorgvoorzieningen en ouders die
-  hun schoolgaande kinderen wegbrengen. Op sommige momenten is het zo druk dat
-  bewoners zelf hun straat niet kunnen uitrijden.
+  **Terugdringen verkeersoverlast** 
+
+
+  De afgelopen 20 jaar heeft de dienstverlenende sector aan en rond het
+  Moleneindplein een flinke groei doorgemaakt in de vorm van winkels en diverse
+  voorzieningen zoals een gezondheidscentrum, een fysiotherapiepraktijk en een
+  school. Dit betekent een forse toename van het gemotoriseerd verkeer in de
+  omringende woonwijk vanwege winkelend publiek, bevoorradend vrachtverkeer,
+  bezoekers van de zorgvoorzieningen en ouders die hun schoolgaande kinderen
+  wegbrengen. Op sommige momenten is het zo druk dat bewoners zelf hun straat
+  niet kunnen uitrijden.
 
 
   Sedert 2011 voeren bewoners gesprekken met de gemeente, die minimaal één
@@ -39,7 +42,6 @@ content: >-
 
 
   Opm.: de volledige tekst van deze vragen in de bijlage
-
 
 
   **Tenslotte**
