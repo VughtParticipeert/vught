@@ -7,9 +7,9 @@ group: Jagersboschlaan
 status: 1
 answered: false
 content: >-
-  ![Jagersboschlaan](/uploads/schermafdruk-2019-12-04-23.37.17.png "De
-  Jagerboschlaan is een natuurlijke en veilige route voor wandelaars en
-  fietsers")
+  ![De Jagerboschlaan is een natuurlijke en veilige route voor wandelaars en
+  fietsers](/uploads/schermafdruk-2019-12-04-23.37.17.png "De Jagerboschlaan is
+  een natuurlijke en veilige route voor wandelaars en fietsers")
 
 
   De Jagersboschlaan blijft de gemoederen bezig houden. Na een [stille
@@ -31,19 +31,24 @@ content: >-
 
   Ook Vughtparticipeert heeft
   [vragen](https://www.vughtparticipeert.nl/post/waarom-verharding-en-verbreding-jagersboschlaan/7d05ff476edf69ed36e1cfeba3f0754c)
-  gesteld bij deze gang van zaken. De reactie van de gemeente hierop hebben wij
+  gesteld bij deze gang van zaken. De reactie van de gemeente op onze vragen
+  hebben wij
   [afgewezen](https://www.vughtparticipeert.nl/post/antwoord-waarom-verharding-en-verbreding-jagersboschlaan/321414ab323b203da397e278ad1b4219#main),
-  omdat het geen antwoord geeft op de gestelde vragen. Belangrijkste vraag is
+  omdat het geen antwoorden geeft op de gestelde vragen. Belangrijkste vraag is
   waarom deze beslissing nu wordt genomen, terwijl de verbreding en verharding
   alleen noodzakelijk is indien de reconstructie van de N65 volgens het VKA+
-  variant wordt uitgevoerd. Dit plan is nog niet definitief zolang er geen
-  antwoorden zijn op de vele ingediende zienswijzen en de waarschijnlijke
-  aansluitende procedures nog niet zijn doorlopen.
+  variant wordt uitgevoerd. Het plan voor de N65 is nog niet definitief zolang
+  er geen antwoorden zijn op de vele ingediende zienswijzen en de
+  waarschijnlijke aansluitende procedures nog niet zijn doorlopen.
 
 
   De gemeente wekt de indruk grote plannen, zoals de N65, stapsgewijs door te
-  drukken waardoor de constructieve dialoog en participatie wordt gefrustreerd.
+  drukken, waardoor de constructieve dialoog en participatie wordt gefrustreerd.
   Deze werkwijze ziet VughtParticipeert ook bij andere ontwikkelingen in de
   gemeente. Een slechte opmaat voor de beloofde participatie.
+attachment:
+  - file:
+      attachment: /uploads/200106 Antwoord van college op vraag over rekenkamer.pdf
+      name: Brief van de omwonenden aan het college n.a.v. afwijzen bezwaar
 ---
 
