@@ -36,16 +36,17 @@ content: >-
   [afgewezen](https://www.vughtparticipeert.nl/post/antwoord-waarom-verharding-en-verbreding-jagersboschlaan/321414ab323b203da397e278ad1b4219#main),
   omdat het geen antwoorden geeft op de gestelde vragen. Belangrijkste vraag is
   waarom deze beslissing nu wordt genomen, terwijl de verbreding en verharding
-  alleen noodzakelijk is indien de reconstructie van de N65 volgens het VKA+
+  alleen noodzakelijk is indien de reconstructie van de N65 volgens de VKA+
   variant wordt uitgevoerd. Het plan voor de N65 is nog niet definitief zolang
   er geen antwoorden zijn op de vele ingediende zienswijzen en de
   waarschijnlijke aansluitende procedures nog niet zijn doorlopen.
 
 
   De gemeente wekt de indruk grote plannen, zoals de N65, stapsgewijs door te
-  drukken, waardoor de constructieve dialoog en participatie wordt gefrustreerd.
-  Deze werkwijze ziet VughtParticipeert ook bij andere ontwikkelingen in de
-  gemeente. Een slechte opmaat voor de beloofde participatie.
+  drukken, waardoor de constructieve dialoog en participatie worden
+  gefrustreerd. Deze werkwijze ziet VughtParticipeert ook bij andere
+  ontwikkelingen in de gemeente. Een slechte opmaat voor de beloofde
+  participatie.
 attachment:
   - file:
       attachment: /uploads/200106 Antwoord van college op vraag over rekenkamer.pdf
