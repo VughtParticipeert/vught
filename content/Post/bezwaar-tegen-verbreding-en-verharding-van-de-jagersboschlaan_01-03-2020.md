@@ -49,7 +49,7 @@ content: >-
   participatie.
 attachment:
   - file:
-      attachment: /uploads/200106 Antwoord van college op vraag over rekenkamer.pdf
-      name: Brief van de omwonenden aan het college n.a.v. afwijzen bezwaar
+      name: Brief omwonenden n.a.v. afwijzen bezwaar en aanbesteding
+      attachment: /uploads/200229-aanbesteding-jagersboschlaan.pdf
 ---
 
