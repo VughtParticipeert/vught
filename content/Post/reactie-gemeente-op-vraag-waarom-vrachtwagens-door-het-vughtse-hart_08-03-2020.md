@@ -72,4 +72,9 @@ content: >-
 
   Om deze redenen raden wij de gemeente aan constructief en reeds in eerste
   termijn te komen tot duidelijke en volledige antwoorden.
+attachment:
+  - file:
+      name: Brief van de gemeente met de mening dat alle vragen zijn beantwoord
+      attachment: >-
+        /uploads/200218-antwoord-gemeente-2e-brief-vrachtwagens-in-de-raadhuisstraat-.pdf
 ---
