@@ -3,7 +3,7 @@ title: >-
   Opnieuw gemiste kans op ouderenhuisvesting ten gunste van dure vrije sector
   woningen
 date: 2020-04-03T20:20:13.372Z
-theme: Cultuur
+theme: Wonen
 typePost: Publicatie
 group: none
 status: 1
