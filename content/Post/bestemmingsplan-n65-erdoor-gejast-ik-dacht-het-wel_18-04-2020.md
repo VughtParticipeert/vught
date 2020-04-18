@@ -7,15 +7,12 @@ group: N65 MKBA
 status: 1
 answered: false
 content: >-
-  ## Bestemmingsplan N65 erdoor gejast? Ik dacht het wel….
-
-
-
+  
 
   ![](/uploads/n65.jpg)
 
 
-  Wij plaatsen volgende reactie op de website van PvdA-Groenlinks waar een inwoner (Jean) reageerde op de blog van Ton van der Vossen over de N65.
+  Wij plaatsen volgende reactie op de website van PvdA-GroenLinks waar een inwoner (Jean) reageerde op de blog van Ton van der Vossen over de N65.
 
 
   Beste Jean,\
