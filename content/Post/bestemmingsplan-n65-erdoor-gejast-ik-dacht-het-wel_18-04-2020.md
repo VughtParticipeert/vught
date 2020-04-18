@@ -7,15 +7,14 @@ group: N65 MKBA
 status: 1
 answered: false
 content: >-
-  
-
   ![](/uploads/n65.jpg)
 
 
-  Wij plaatsen volgende reactie op de website van PvdA-GroenLinks waar een inwoner (Jean) reageerde op de blog van Ton van der Vossen over de N65.
+  Wij plaatsten volgende reactie op de website van PvdA-GroenLinks waar een inwoner (Jean) reageerde op de blog van Ton van der Vossen over de N65.
 
 
-  Beste Jean,\
+  Beste Jean,
+
 
   Hartelijk dank voor jouw bijdrage van 11 april. Ja, deze variant is een gemiste kans en als wij niet ingrijpen zullen wij ons de komende decennia afvragen: waarom hebben wij niet de tijd genomen om óók een tunnelvariant te onderzoeken en zal PvdA-GroenLinks moeten leven met de schande dat zij met dit doordrijven hun eigen basiswaarden hebben verloochend.
 
