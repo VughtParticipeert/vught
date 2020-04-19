@@ -10,7 +10,7 @@ content: >-
   ![](/uploads/n65.jpg)
 
 
-  Wij plaatsten volgende reactie op de website van PvdA-GroenLinks waar een inwoner (Jean) reageerde op de blog van Ton van der Vossen over de N65. Helaas is deze bijdrage afgewezen door hun redactie, wat een eerlijke en open dialoog verhindert. PvdA-GroenLinks, een gemiste kans.
+  Wij plaatsten volgende reactie op de website van PvdA-GroenLinks waar een inwoner (Jean) reageerde op de blog van Ton van der Vossen over de N65. 
 
 
   Beste Jean,
