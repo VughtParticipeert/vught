@@ -1,7 +1,7 @@
 ---
 title: 'Brabants Dagblad: "Verkeersveiligheidsonderzoek Raadhuisstraat schiet
   ernstig tekort"'
-date: 2020-04-03T08:28:54.795Z
+date: 2020-04-25T08:28:00.000Z
 theme: Verkeersveiligheid
 typePost: Publicatie
 group: CPO Vrachtwagens
