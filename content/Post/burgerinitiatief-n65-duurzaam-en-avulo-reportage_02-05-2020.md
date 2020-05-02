@@ -7,6 +7,9 @@ group: N65 Uitgesteld
 status: 1
 answered: false
 content: >-
+  ![](/uploads/img_8858.jpg)
+
+
   #### Burgerinitiatief voor onderzoek naar een tunnelvariant
 
 
@@ -70,5 +73,8 @@ content: >-
   Zodat met de beschikbare energie, kennis van de situaties ter plaatse en deskundigheid, gewerkt wordt aan betere resultaten. Hiermee willen wij het energieverlies door verzet en boosheid achteraf beperken en komen tot keuzes die beter worden begrepen en geaccepteerd.
 
 
-  [Wordt lid en](<https://www.vughtparticipeert.nl/member/>) steun daarmee ons werk. Hoe meer leden, hoe effectiever de participatie!
+  [Wordt lid en](https://www.vughtparticipeert.nl/member/) steun daarmee ons werk. Hoe meer leden, hoe effectiever de participatie!
+
+
+  [Meld je aan ](https://www.vughtparticipeert.nl/newsletter#main)voor onze gratis nieuwsbrief en blijf op de hoogte.
 ---
