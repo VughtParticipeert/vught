@@ -1,6 +1,6 @@
 ---
 title: Burgerinitiatief N65 Duurzaam en Avulo reportage
-date: 2020-05-02T20:38:49.416Z
+date: 2020-05-03T05:16:14.908Z
 theme: N65 Duurzaam
 typePost: Publicatie
 group: N65 Uitgesteld
