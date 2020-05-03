@@ -34,7 +34,7 @@ content: >-
   Avulo start op 3 mei een reportage in 3 afleveringen. In deze reportage worden diverse bewonersgroepen en organisaties aan het woord gelaten. Zij leggen uit wat de voorgestelde variant voor de reconstructie N65 voor hun buurt betekent.
 
 
-  Elke aflevering wordt in principe om 16.00 uur uitgezonden en herhaald om 21.00 uur op dezelfde dag en om 12.00 uur de volgende dag.
+  Elke aflevering wordt in principe om 16.00 uur uitgezonden en herhaald om 21.00 uur op dezelfde dag en om 12.00 uur de volgende dag (4 mei schuift door naar 5 mei).
 
 
   **Aflevering 1 op zondag 3 mei 16:00 uur: Verkeer, veiligheid en alternatieven.**
