@@ -1,13 +1,14 @@
 ---
 title: Burgerinitiatief N65 Duurzaam en Avulo reportage
-date: 2020-05-02T20:38:49.416Z
+date: 2020-05-03T05:16:14.908Z
 theme: N65 Duurzaam
 typePost: Publicatie
 group: N65 Uitgesteld
 status: 1
 answered: false
 content: >-
-  ![](/uploads/img_8858.jpg)
+  ![De N65, nu nog een prachtige laan](/uploads/img_8858.jpg "De N65, nu nog een
+  prachtige laan")
 
 
   #### Burgerinitiatief voor onderzoek naar een tunnelvariant
@@ -76,5 +77,5 @@ content: >-
   [Wordt lid en](https://www.vughtparticipeert.nl/member/) steun daarmee ons werk. Hoe meer leden, hoe effectiever de participatie!
 
 
-  [Meld je aan ](https://www.vughtparticipeert.nl/newsletter#main)voor onze gratis nieuwsbrief en blijf op de hoogte.
+  [Meld je aan ](https://www.vughtparticipeert.nl/newsletter#main) voor onze gratis nieuwsbrief en blijf op de hoogte.
 ---
