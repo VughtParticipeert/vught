@@ -7,8 +7,7 @@ group: N65 Uitgesteld
 status: 1
 answered: false
 content: >-
-  ![De N65, nu nog een prachtige laan](/uploads/img_8858-1-.jpg "De N65, nu nog
-  een prachtige laan")
+  ![De N65, nu nog een prachtige laan](/uploads/img_8858-1-.jpg)
 
 
   #### Burgerinitiatief voor onderzoek naar een tunnelvariant
