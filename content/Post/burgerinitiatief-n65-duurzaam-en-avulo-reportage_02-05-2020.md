@@ -55,12 +55,6 @@ content: >-
   In deze aflevering worden verschillende meningen gegeven over de financiële gezondheid van onze gemeente en de gevolgen voor ons huishoudboekje in de komende jaren. Kiezen voor de grote financiële bijdragen die onze gemeente wil doen aan het oplossen van infrastructuur problemen van Rijkswaterstaat en ProRail, zullen een grote invloed hebben op voorzieningen als scholen, sport, cultuur, verkeersveiligheid en het sociaal domein.
 
 
-  #### Hoort zegt het voort
-
-
-  Verspreid deze aankondiging van de reportage in jouw netwerk! Zorg dat zoveel mogelijk bewoners hier weet van hebben.
-
-
   #### Dit is pas het begin
 
 
