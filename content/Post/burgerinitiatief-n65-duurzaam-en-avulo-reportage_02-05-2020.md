@@ -16,7 +16,7 @@ content: >-
   VughtParticipeert draait op volle toeren. Met het starten van het [burgerinitiatief](https://www.vughtparticipeert.nl/post/n65-besluitvorming-is-onzuiver-onvolledig-en-onverstandig/ab6d8024bdf8c7a0398f31fdc021363d) N65 Duurzaam, om een tunnelvariant te laten onderzoeken, hebben wij vele inwoners van Vught in beweging gekregen. Inmiddels zijn er meer dan 350 handtekeningen onder dit initiatief gezet en dat aantal loopt dagelijks verder op.
 
 
-  Het college geeft gehoor aan ons initiatief en wij staan op de agenda van de gemeenteraadsvergadering van 14 mei. Eerst komen wij aan het woord, daarna wordt het bestemmingsplan N65 besproken, of niet als eerst tot een onderzoek naar een tunnelvariant wordt besloten.
+  De gemeenteraad geeft gehoor aan ons initiatief en wij staan op de agenda van de gemeenteraadsvergadering van 14 mei. Eerst komen wij aan het woord, daarna wordt het bestemmingsplan N65 besproken, of niet als eerst tot een onderzoek naar een tunnelvariant wordt besloten.
 
 
   #### Participatie wordt steeds beter hoorbaar
