@@ -37,19 +37,19 @@ content: >-
   Elke aflevering wordt in principe om 16.00 uur uitgezonden en herhaald om 21.00 uur op dezelfde dag en om 12.00 uur de volgende dag.
 
 
-  **Aflevering 1 op zondag 3 mei: Verkeer, veiligheid en alternatieven.**
+  **Aflevering 1 op zondag 3 mei 16:00 uur: Verkeer, veiligheid en alternatieven.**
 
 
   Deze aflevering gaat dieper in op de gevolgen van de voorgestelde reconstructie van de N65 voor de verkeersstromen in ons dorp, de kritische locaties en de verkeersveiligheid. Tevens wordt aangeven welke alternatieven er eerst onderzocht moeten worden voordat een duurzaam besluit kan worden genomen.
 
 
-  **Aflevering 2 op dinsdag 5 mei: Natuur en Milieu.**
+  **Aflevering 2 op dinsdag 5 mei 16:00 uur: Natuur en Milieu.**
 
 
   In deze aflevering worden inwoners en organisaties aan het woord gelaten die zich zorgen maken over ons groen, onze gezondheid en de omgeving voor onze kinderen als gevolg van de voorgestelde reconstructie van de N65. Hierbij geven zij aan welke negatieve invloed deze plannen zullen hebben en op welke manier zij hiertegen weerstand zullen bieden.
 
 
-  **Aflevering 3 op woensdag 6 mei: De N65 en het gemeentelijk huishoudboekje.**
+  **Aflevering 3 op woensdag 6 mei 16:00 uur: De N65 en het gemeentelijk huishoudboekje.**
 
 
   In deze aflevering worden verschillende meningen gegeven over de financiële gezondheid van onze gemeente en de gevolgen voor ons huishoudboekje in de komende jaren. Kiezen voor de grote financiële bijdragen die onze gemeente wil doen aan het oplossen van infrastructuur problemen van Rijkswaterstaat en ProRail, zullen een grote invloed hebben op voorzieningen als scholen, sport, cultuur, verkeersveiligheid en het sociaal domein.
