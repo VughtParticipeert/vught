@@ -40,13 +40,13 @@ content: >-
   **Aflevering 1 op zondag 3 mei 16:00 uur: Verkeer, veiligheid en alternatieven.**
 
 
-  Deze aflevering gaat dieper in op de gevolgen van de voorgestelde reconstructie van de N65 voor de verkeersstromen in ons dorp, de kritische locaties en de verkeersveiligheid. Tevens wordt aangeven welke alternatieven er eerst onderzocht moeten worden voordat een duurzaam besluit kan worden genomen. Nu direct bekijken op [youtube](https://www.youtube.com/watch?v=EcFd0H8IvOU&feature=youtu.be)
+  Deze aflevering gaat dieper in op de gevolgen van de voorgestelde reconstructie van de N65 voor de verkeersstromen in ons dorp, de kritische locaties en de verkeersveiligheid. Tevens wordt aangeven welke alternatieven er eerst onderzocht moeten worden voordat een duurzaam besluit kan worden genomen. **Nu direct bekijken op [youtube](https://www.youtube.com/watch?v=EcFd0H8IvOU&feature=youtu.be).**
 
 
   **Aflevering 2 op dinsdag 5 mei 16:00 uur: Natuur en Milieu.**
 
 
-  In deze aflevering worden inwoners en organisaties aan het woord gelaten die zich zorgen maken over ons groen, onze gezondheid en de omgeving voor onze kinderen als gevolg van de voorgestelde reconstructie van de N65. Hierbij geven zij aan welke negatieve invloed deze plannen zullen hebben en op welke manier zij hiertegen weerstand zullen bieden.
+  In deze aflevering worden inwoners en organisaties aan het woord gelaten die zich zorgen maken over ons groen, onze gezondheid en de omgeving voor onze kinderen als gevolg van de voorgestelde reconstructie van de N65. Hierbij geven zij aan welke negatieve invloed deze plannen zullen hebben en op welke manier zij hiertegen weerstand zullen bieden. **Nu direct bekijken op [youtube](https://www.youtube.com/watch?v=m3uxjeEPQiQ&t=4s).**
 
 
   **Aflevering 3 op woensdag 6 mei 16:00 uur: De N65 en het gemeentelijk huishoudboekje.**
