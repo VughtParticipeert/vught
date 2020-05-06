@@ -52,7 +52,7 @@ content: >-
   **Aflevering 3 op woensdag 6 mei 16:00 uur: De N65 en het gemeentelijk huishoudboekje.**
 
 
-  In deze aflevering worden verschillende meningen gegeven over de financiële gezondheid van onze gemeente en de gevolgen voor ons huishoudboekje in de komende jaren. Kiezen voor de grote financiële bijdragen die onze gemeente wil doen aan het oplossen van infrastructuur problemen van Rijkswaterstaat en ProRail, zullen een grote invloed hebben op voorzieningen als scholen, sport, cultuur, verkeersveiligheid en het sociaal domein.
+  In deze aflevering worden verschillende meningen gegeven over de financiële gezondheid van onze gemeente en de gevolgen voor ons huishoudboekje in de komende jaren. Kiezen voor de grote financiële bijdragen die onze gemeente wil doen aan het oplossen van infrastructuur problemen van Rijkswaterstaat en ProRail, zullen een grote invloed hebben op voorzieningen als scholen, sport, cultuur, verkeersveiligheid en het sociaal domein. **Nu direct bekijken op [youtube](https://www.youtube.com/watch?v=IK4m0acY6sA).**
 
 
   #### Dit is pas het begin
