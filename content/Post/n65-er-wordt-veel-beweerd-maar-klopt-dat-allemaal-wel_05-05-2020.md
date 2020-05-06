@@ -7,19 +7,19 @@ group: N65 Uitgesteld
 status: 1
 answered: false
 content: >-
-  ![](/uploads/schermafdruk-2020-05-05-22.52.52.png)
+  ![](/uploads/schermafdruk-2020-05-06-11.40.47.png)
 
 
   Steeds meer bewonersgroepen ontdekken de negatieve gevolgen voor hun leefomgeving door de reconstructie van de N65.
 
 
-  Daarbij worden de plannen en onderzoeksrapporten nauwkeurig bestudeerd en worden steeds meer zaken ontdekt die onvolledig zijn, onjuist of in tegenspraak met gemaakte afspraken en verwachtingen. Tevens bereiden een aantal groepen bezwaarprocedures voor en zijn al begonnen met het verzamelen van deze ongerijmdheden.
+  Daarbij bestuderen zij de plannen en onderzoeksrapporten nauwkeurig en worden steeds meer zaken ontdekt die onvolledig zijn, onjuist of in tegenspraak met gemaakte afspraken en verwachtingen. Tevens bereiden een aantal groepen bezwaarprocedures voor en zijn al begonnen met het verzamelen van deze ongerijmdheden.
 
 
-  ### Wij gaan dat centraal verzamelen op N65kloptdatwel@vughtparticipeert.nl
+  ### Wij gaan die centraal verzamelen op N65kloptdatwel@vughtparticipeert.nl
 
 
-  Ook wij waren al gestart met het verzamelen van deze zaken, een paar voorbeelden:
+  Ook VughtParticipeert was al gestart met het verzamelen van deze zaken, een paar voorbeelden:
 
 
   * er is geen oplossing voor het doorgaande verkeer op de N65 tijdens de bouwfase
@@ -28,13 +28,13 @@ content: >-
 
   * er is geen rekening gehouden met de kosten voor het aanpassen van de wegen in het dorp
 
-  * Arcadis gaat uit van de verkeerde ongevallen statistieken
+  * Arcadis gaat uit van de onvolledige ongevallen statistieken
 
   * er is geen oplossing voor de verkeerstoename op de Helvoirtseweg en andere locaties
 
   * een MER rapportage is verplicht maar ontbreekt
 
-  * Vught moet veel meebetalen maar er is geen zicht op de financiële gevolgen van lenen en aflossen
+  * Vught moet veel meebetalen maar er is geen zicht op de lange termijn financiële gevolgen van lenen en aflossen
 
   * Er moeten 412 bomen worden omgehakt maar er wordt nauwelijks gecompenseerd …
 
