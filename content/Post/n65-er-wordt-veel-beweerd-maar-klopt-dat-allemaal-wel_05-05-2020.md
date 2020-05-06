@@ -41,7 +41,7 @@ content: >-
   * Er moeten 412 bomen worden omgehakt maar er wordt nauwelijks gecompenseerd …
 
 
-  In de vele discussies met bewoners horen wij steeds meer van dit soort zaken en wij willen die met iedereen en voor iedereen bij elkaar brengen. Daarvoor hebben wij het email adres[ N65kloptdatwel@vughtparticipeert.nl](mailto:N65kloptdatwel@vughtparticipeert.nl) ingericht als verzamelbak voor alle fouten, hiaten, onjuiste aannames, onvolledige analyses etc. Stuur jouw observaties en zorgen aan ons met een korte omschrijving, verwijzing naar rapport of uitspraak en reden waarom dit onjuist, onvolledig,... is.
+  In de vele discussies met bewoners horen wij steeds meer van dit soort zaken en wij willen die met iedereen en voor iedereen bij elkaar brengen. Daarvoor hebben wij het email adres [ N65kloptdatwel@vughtparticipeert.nl](mailto:N65kloptdatwel@vughtparticipeert.nl) ingericht als verzamelbak voor alle fouten, hiaten, onjuiste aannames, onvolledige analyses etc. Stuur jouw observaties en zorgen aan ons met een korte omschrijving, verwijzing naar rapport of uitspraak en reden waarom dit onjuist, onvolledig,... is.
 
 
   Wij zullen al deze meldingen rubriceren, ontdubbelen en regelmatig een actueel overzicht op onze website ter beschikking stellen. Hieruit kunnen alle bewonersgroepen en hun juristen putten bij het opstellen van bezwaren en wordt zo weinig mogelijk vergeten.
