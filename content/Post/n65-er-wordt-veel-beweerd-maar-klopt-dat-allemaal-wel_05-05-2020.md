@@ -16,6 +16,8 @@ content: >-
   Daarbij bestuderen zij de plannen en onderzoeksrapporten nauwkeurig en worden steeds meer zaken ontdekt die onvolledig zijn, onjuist of in tegenspraak met gemaakte afspraken en verwachtingen. Tevens bereiden een aantal groepen bezwaarprocedures voor en zijn al begonnen met het verzamelen van deze ongerijmdheden.
 
 
+
+
   ### Wij gaan die centraal verzamelen op N65kloptdatwel@vughtparticipeert.nl
 
 
