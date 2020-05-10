@@ -7,13 +7,11 @@ group: N65 MKBA
 status: 1
 answered: false
 content: >-
-  Als VughtParticipeert staan wij voor transparantie in de besluitvorming met
-  tijdige en adequate informatievoorziening aan bewoners. Als ik zo het
-  burgerparticipatieproces beschouw in Vught, is in ieder geval geen sprake
-  geweest van het goed informeren van burgers over de N65. De informatie was
-  vaak onvolledig, niet tijdig en zelfs misleidend. Een heel recent voorbeeld
-  van misleiding is de twee paginabrede advertentie in het Klaverblad – van onze
-  eigen belastingcenten wel te verstaan.
+  ![Participatie doe je samen, niet vanaf de kansel](/uploads/Wat zonder
+  tekst.png "Participatie doe je samen, niet vanaf de kansel")
+
+
+  Als VughtParticipeert staan wij voor transparantie in de besluitvorming met tijdige en adequate informatievoorziening aan bewoners. Als ik zo het burgerparticipatieproces beschouw in Vught, is in ieder geval geen sprake geweest van het goed informeren van burgers over de N65. De informatie was vaak onvolledig, niet tijdig en zelfs misleidend. Een heel recent voorbeeld van misleiding is de twee paginabrede advertentie in het Klaverblad – van onze eigen belastingcenten wel te verstaan.
 
 
   Zo wordt er gesproken over Vught dat geliefd is om zijn bomenrijen, terwijl voor de N65 aanleg 400 bomen worden gekapt. Daarvan komt maar een klein deel terug, dat nog lang zal moeten groeien eer het weer bomen zijn van enig formaat. Nog lachwekkender wordt het als geschreven wordt dat het beter zal gaan met de veiligheid van overstekende kinderen en ouderen, terwijl de realiteit is dat door de huidige plannen veel meer gemotoriseerd verkeer door het dorp gaat rijden. Dus neemt de veiligheid in veel woonwijken in Vught ook af.
