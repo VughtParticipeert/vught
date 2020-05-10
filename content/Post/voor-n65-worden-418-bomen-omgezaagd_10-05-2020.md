@@ -1,6 +1,6 @@
 ---
 title: Voor N65 worden 418 bomen omgezaagd, waarvan 72 monumentale
-date: 2020-05-10T12:21:59.012Z
+date: 2020-05-11T12:21:00.000Z
 theme: N65 Duurzaam
 typePost: Publicatie
 group: N65 MKBA
