@@ -47,5 +47,5 @@ content: >-
   Maaike Dautzenberg
 
 
-  VughtParticipeert
+  Voorzitter VughtParticipeert
 ---
