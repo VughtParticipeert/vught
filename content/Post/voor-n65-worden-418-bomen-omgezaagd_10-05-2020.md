@@ -11,7 +11,7 @@ content: >-
   "Ja, ook deze bomen zullen dan worden omgezaagd")
 
 
-  In het Klaverblad van 6 mei lezen wij: “De Rijksweg N65 tussen Tilburg en Den Bosch. Geliefd om zijn bomenrijen en fraaie uitzichten”.
+  In het Klaverblad van 6 mei lezen wij in de advertentie van de gemeente: “De Rijksweg N65 tussen Tilburg en Den Bosch. Geliefd om zijn bomenrijen en fraaie uitzichten”.
 
 
   Op basis van de plannen voor de reconstructie N65 wordt het uitzicht nog beter. Alle 418 bomen, waaronder 72 monumentale, worden omgezaagd. Dat staat er in het Klaverblad niet bij. Is het een halve waarheid of slechts een halve leugen?
