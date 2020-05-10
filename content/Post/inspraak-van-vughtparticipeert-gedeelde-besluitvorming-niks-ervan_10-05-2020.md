@@ -23,7 +23,7 @@ content: >-
   Zijn bewoners te laat nu? Nee, u bent keer op keer te laat. Sedert 2015 maken bewoners bezwaren. Maar u kijkt steeds de andere kant op en negeert de argumenten van bewoners keer op keer.
 
 
-  Zo creëert u uw eigen weerstand. Een dergelijke technocratische houding is echt gedateerd in deze tijd van steeds beter opgeleide en geïnformeerde burgers. In deze tijd komt u niet meer weg met het laten stemmen door bewoners eens in de zoveel tijd, en dat vervolgens te gebruiken als een soortcarte blancheom eigen ideeën uit te voeren. De burger van nu eist regie op en wil meebeslissen. Ook tussentijds.
+  Zo creëert u uw eigen weerstand. Een dergelijke technocratische houding is echt gedateerd in deze tijd van steeds beter opgeleide en geïnformeerde burgers. In deze tijd komt u niet meer weg met het laten stemmen door bewoners eens in de zoveel tijd, en dat vervolgens te gebruiken als een soort carte blanche om eigen ideeën uit te voeren. De burger van nu eist regie op en wil meebeslissen. Ook tussentijds.
 
 
   In de zorg, mijn werkveld, is men al een heel stuk verder dan het bestuur in Vught. Daar is het gebruikelijk dat artsen samen met de patiënt beslissingen nemen voor een behandeling, en dat dit gebeurt op basis van goede informatie over de voor- én de nadelen. Arts en patiënt doen dat in een proces van gedeelde besluitvorming waarbij de patiënt de laatste stem heeft. Wat zou u doen, als het u zou overkomen dat een medisch specialist u onvolledige en gekleurde informatie geeft over een behandeling die van grote invloed is op uw leven? En die zegt, och, als u er later problemen mee krijgt, dan zien we dat dan wel weer. Dan zou u toch ook woest zijn en tegen die specialist een proces aanspannen, zeker als hij dat ook nog probeert te ontkennen? Dat is precies wat hier gebeurt.
@@ -44,8 +44,5 @@ content: >-
   Ik daag u uit om díe moed op te brengen. Dan zetten wij ons met al onze energie sámen met u in, in een proces van gedeelde besluitvorming. Voor een veiliger plan. Waarmee de doelstellingen van de N65 wél worden behaald.
 
 
-  Maaike Dautzenberg
-
-
-  Voorzitter VughtParticipeert
+  Maaike Dautzenberg, Voorzitter VughtParticipeert
 ---
