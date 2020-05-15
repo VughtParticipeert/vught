@@ -7,9 +7,8 @@ group: N65 MKBA
 status: 1
 answered: false
 content: >-
-  
-
-  ![Langs de N65, zag ik de hoge bomen staan](/uploads/img_8858-1-.jpg "Langs de N65, zag ik de hoge bomen staan")
+  ![Langs de N65, zag ik de hoge bomen staan](/uploads/img_8858-1-.jpg "Langs de
+  N65, zag ik de hoge bomen staan")
 
 
   Tijdens de raadsvergadering van donderdag 14 mei was er een primeur. VughtParticipeert heeft voor de eerste keer in de gemeente Vught succesvol een burgerinitiatief gestart om een beslissing van de gemeenteraad te vragen.
@@ -58,7 +57,7 @@ content: >-
   De raadsvergadering werd op 14 mei voor de derde keer gevraagd een besluit te nemen zonder dat essentiële informatie ter beschikking is gesteld. In 2018 was bij de keuze voor VKA-variant het rapport Maatschappelijke Kosten-Baten Analyse onthouden waarin stond: NIET DOEN. Vorig jaar ging het over het besluit tot verhoging van het budget voor VKA+ waarbij essentiële verkeerscijfers niet beschikbaar waren die achteraf zeiden: NIET DOEN.
 
 
-  De 3ekeer was tijdens de raadsvergadering van 14 mei: een moderne tunnelvariant is niet onderzocht en daarmee staat essentiële informatie niet ter beschikking. Aan de vooravond van mogelijk de zwaarste economische crisis van onze generatie, werd de raad gevraagd €33 Mio te steken in regionale infrastructuur.
+  De 3e keer was tijdens de raadsvergadering van 14 mei: een moderne tunnelvariant is niet onderzocht en daarmee staat essentiële informatie niet ter beschikking. Aan de vooravond van mogelijk de zwaarste economische crisis van onze generatie, werd de raad gevraagd €33 Mio te steken in regionale infrastructuur.
 
 
   VughtParticipeert maakte duidelijk dat:
