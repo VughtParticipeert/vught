@@ -38,14 +38,14 @@ content: >-
   4. Bouwfase is duurzamer door minder grondverzet en daardoor minder stikstof depositie.
 
 
-  Waarom is dit alternatief beter voor Vught eo?
+  Waarom is dit alternatief beter voor Vught en omgeving?
 
 
   1. Tunnel scheidt doorgaand verkeer volledig van lokaal verkeer, waardoor bovenliggende structuur kan worden ingezet voor lokaal verkeer dat dan niet door de woonwijken moet rijden
 
-  2. De toename van het verkeer in onze straten blijft beperkt, dus minder ongelukken, betere leefbaarheid, minder geluidhinder, minder uitstoot en minder trillingen
+  2. De toename van het verkeer in onze straten blijft beperkt, dus minder ongelukken, minder geluidhinder, minder uitstoot, minder trillingen en betere leefbaarheid 
 
-  3. Er komt op het huidige N65 trace ruimte vrij voor verdere ontwikkeling, groenzones en veilige fiets- en wandelpaden, woningen en scholen kunnen goed en veilig worden ontsloten
+  3. Er komt op het huidige N65 tracé ruimte vrij voor verdere ontwikkeling, groenzones en veilige fiets- en wandelpaden, woningen en scholen kunnen goed en veilig worden ontsloten
 
   4. Vermindert barrière werking en verhoogt oversteekbaarheid aanzienlijk
 
@@ -54,10 +54,10 @@ content: >-
   6. Minder overlast tijdens bouw doordat aan een weghelft per keer kan worden gewerkt
 
 
-  De raadsvergadering werd op 14 mei voor de derde keer gevraagd een besluit te nemen zonder dat essentiële informatie ter beschikking is gesteld. In 2018 was bij de keuze voor VKA-variant het rapport Maatschappelijke Kosten-Baten Analyse onthouden waarin stond: NIET DOEN. Vorig jaar ging het over het besluit tot verhoging van het budget voor VKA+ waarbij essentiële verkeerscijfers niet beschikbaar waren die achteraf zeiden: NIET DOEN.
+  De raadsvergadering werd op 14 mei voor de derde keer gevraagd een besluit te nemen zonder dat essentiële informatie ter beschikking is gesteld. In 2018 was bij de keuze voor VKA-variant het rapport Maatschappelijke Kosten-Baten Analyse achter gehouden waarin stond: NIET DOEN. Vorig jaar ging het over het besluit tot verhoging van het budget voor VKA+ waarbij essentiële verkeerscijfers niet beschikbaar waren die achteraf zeiden: NIET DOEN.
 
 
-  De 3e keer was tijdens de raadsvergadering van 14 mei: een moderne tunnelvariant is niet onderzocht en daarmee staat essentiële informatie niet ter beschikking. Aan de vooravond van mogelijk de zwaarste economische crisis van onze generatie, werd de raad gevraagd €33 Mio te steken in regionale infrastructuur.
+  De 3e keer was tijdens de raadsvergadering van 14 mei: een moderne tunnelvariant is niet onderzocht en daarmee staat essentiële informatie niet ter beschikking. Aan de vooravond van mogelijk de zwaarste economische crisis van onze generatie, werd de raad van de gemeente Vught gevraagd €33 Mio te steken in regionale infrastructuur.
 
 
   VughtParticipeert maakte duidelijk dat:
@@ -67,7 +67,7 @@ content: >-
 
   * het plan vele gaten, onjuistheden, tegenstrijdigheden en onoplosbare consequenties bevat
 
-  * niets doen meer voordelen voor Vught heeft dan een duur VKA+ avontuur.
+  * niets doen voor Vught meer voordelen heeft dan een duur VKA+ avontuur.
 
 
   Bij de stemming is volgens de frontlijnen van coalitie en oppositie gestemd en het burgerinitiatief afgewezen. Daarmee heeft de gemeente Vught zich de kans ontnomen een duurzame optie te onderzoeken. Dit zal het verzet tegen het bestemmingsplan helaas alleen maar verharden en de vertraging als gevolg van procedures vergroten.
