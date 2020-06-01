@@ -13,7 +13,7 @@ content: >-
   Steeds meer bewonersgroepen ontdekken de negatieve gevolgen voor hun leefomgeving door de reconstructie van de N65.
 
 
-  Daarbij bestuderen zij de plannen en onderzoeksrapporten nauwkeurig en worden steeds meer zaken ontdekt die onvolledig zijn, onjuist of in tegenspraak met gemaakte afspraken en verwachtingen. Tevens bereiden een aantal groepen bezwaarprocedures voor en zijn al begonnen met het verzamelen van deze ongerijmdheden.
+  Daarbij bestuderen zij de plannen en onderzoeksrapporten nauwkeurig en worden steeds meer zaken ontdekt die onvolledig zijn, onjuist of in tegenspraak met gemaakte afspraken en verwachtingen. Tevens bereiden een aantal personen, bewonersgroepen en organisaties beroepsprocedures voor en zijn al begonnen met het verzamelen van deze ongerijmdheden.
 
 
 
