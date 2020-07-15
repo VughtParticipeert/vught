@@ -130,10 +130,10 @@ collections:
                 default: 1,
                 options:
                     [
-                        { label: 'Not applicable', value: 1 },
-                        { label: 'Answer is complete', value: 2 },
-                        { label: 'Answer is incomplete', value: 3 },
-                        { label: 'Answer is not sufficient', value: 4 },
+                        { label: 'Not applicable', value: '1' },
+                        { label: 'Answer is complete', value: '2' },
+                        { label: 'Answer is incomplete', value: '3' },
+                        { label: 'Answer is not sufficient', value: '4' },
                     ],
             }
           - {
