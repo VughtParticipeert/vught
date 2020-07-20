@@ -14,7 +14,7 @@ content: >-
   Tijdens de raadsvergadering van 14 mei 2020, heeft de meerderheid van de gemeenteraad gestemd voor het bestemmingsplan N65 en de verdiepte ligging van de provinciale weg.
 
 
-  Het project voor de reconstructie N65 wil een aantal essentiële doelen te bereiken. 
+  Het project voor de reconstructie N65 wil een aantal essentiële doelen bereiken. 
 
 
   ### Hoe zeker is het dat hiermee deze doelstellingen worden bereikt?
