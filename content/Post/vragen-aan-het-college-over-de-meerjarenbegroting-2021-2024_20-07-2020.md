@@ -18,5 +18,5 @@ content: >-
 attachment:
   - file:
       attachment: /uploads/200708-vragen-meerjarenbegroting-2021-2024.pdf
-      name: Vragen aan het college over de meerjarenbegroting 2021-2024
+      name: Vragen over de meerjarenbegroting 2021 -2024
 ---
