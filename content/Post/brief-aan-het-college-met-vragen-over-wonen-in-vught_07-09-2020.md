@@ -3,10 +3,16 @@ title: Brief aan het college met vragen over 'Wonen in Vught'
 date: 2020-09-07T08:14:54.812Z
 theme: Wonen
 typePost: Vraag
-group: Interne Organisatie
+group: Wonen
 status: 1
 answered: false
 content: >-
+  ![Wonen in Vught](/uploads/cpo-2019-08-09-15.29.56.png "Wonen in Vught")
+
+
+  VughtParticipeert stuurde op 18 augustus 2020 volgende brief aan het college
+
+
   Geacht College,
 
 
