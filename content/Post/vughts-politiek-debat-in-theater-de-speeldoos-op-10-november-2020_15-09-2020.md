@@ -7,7 +7,7 @@ group: none
 status: 1
 answered: false
 content: >-
-  [Vught Participeert](https://www.vughtparticipeert.nl/),
+  [VughtParticipeert](https://www.vughtparticipeert.nl/),
   [Avulo](https://www.avulo.nl/), [Theater De
   Speeldoos](https://theaterdespeeldoos.nl/) en [Huis73](https://www.huis73.nl/)
   organiseren het Vughts Politiek Debat op dinsdag 10 november 2020.
