@@ -1,3 +1,3 @@
 ---
-title: Participatie en bestuurlijke versterking
+title: Politiek debat
 ---
