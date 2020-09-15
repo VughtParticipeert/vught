@@ -1,5 +1,5 @@
 ---
-title: Vughts Politiek Debat in Theater De Speeldoos op 10 november 2020
+title: Vughts Politiek Debat op 10 november in Theater De Speeldoos
 date: 2020-09-15T19:16:31.162Z
 theme: Participatie en bestuurlijke versterking
 typePost: Publicatie
