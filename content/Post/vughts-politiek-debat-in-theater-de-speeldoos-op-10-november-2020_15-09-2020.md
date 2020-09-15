@@ -1,9 +1,9 @@
 ---
 title: Vughts Politiek Debat in Theater De Speeldoos op 10 november 2020
 date: 2020-09-15T19:16:31.162Z
-theme: Bewonerparticipatie en versterking bestuurlijke kwaliteit
+theme: Participatie en bestuurlijke versterking
 typePost: Publicatie
-group: none
+group: Participatie en bestuurlijke versterking
 status: 1
 answered: false
 content: >-
