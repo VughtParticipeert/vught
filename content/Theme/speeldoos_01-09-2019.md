@@ -1,4 +1,3 @@
 ---
-themeName: Bewonerparticipatie en versterking bestuurlijke kwaliteit
+themeName: Participatie en bestuurlijke versterking
 ---
-
