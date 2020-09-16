@@ -10,7 +10,7 @@ content: >-
   [](https://www.vughtparticipeert.nl/)
 
 
-  ![](/uploads/avulo-logo-2000px-horizontaal-transparant.png)
+  ![](/uploads/schermafbeelding-2020-09-16-om-23.19.41.png "Samenwerkende partijen")
 
 
   [VughtParticipeert](https://www.vughtparticipeert.nl/), [Avulo](https://www.avulo.nl/), [Theater De Speeldoos](https://theaterdespeeldoos.nl/) en [Huis73](https://www.huis73.nl/) organiseren het Vughts Politiek Debat op dinsdag 10 november 2020.
@@ -37,5 +37,5 @@ content: >-
   ### Zet 10 november 2020 in uw agenda
 
 
-  Wij roepen iedereen op het Vughts Politiek Debat in de agenda te zetten. Nadere informatie volgt op [www.vughtparticipeert.nl/politiekdebat10112020](http://www.vughtparticipeert.nl/politiekdebat10112020) en [registreer](https://www.vughtparticipeert.nl/newsletter#main) voor onze regelmatige nieuwsbrief.
+  Wij roepen iedereen op het Vughts Politiek Debat in de agenda te zetten. Nadere informatie volgt op [www.vughtparticipeert.nl/politiekdebat10112020](http://www.vughtparticipeert.nl/politiekdebat10112020) en [](https://www.vughtparticipeert.nl/newsletter#main)meld u aan voor onze [regelmatige nieuwsbrief](https://www.vughtparticipeert.nl/newsletter#main).
 ---
