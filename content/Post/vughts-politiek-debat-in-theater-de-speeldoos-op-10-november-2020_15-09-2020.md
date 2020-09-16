@@ -19,8 +19,6 @@ content: >-
   Doel van het debat is de belangrijkste onderwerpen binnen onze gemeente te bespreken en de posities van de verschillende politieke partijen te leren kennen. Hiermee zijn de inwoners van onze gemeente beter in staat hun mening te vormen in aanloop op de verkiezingen voor de nieuwe gemeenteraad op 18 november.
 
 
-
-
   ### Programma
 
 
@@ -30,12 +28,10 @@ content: >-
   Het Vughts Politiek Debat zal direct op Avulo worden uitgezonden en kan dus ook thuis worden gevolgd.
 
 
-
-
   ### Deelnemers
 
 
-  Voor het debat zullen de politieke partijen worden uitgenodigd om deel te nemen.
+  Voor het debat zullen alle politieke partijen worden uitgenodigd om deel te nemen.
 
 
   ### Zet 10 november 2020 in uw agenda
