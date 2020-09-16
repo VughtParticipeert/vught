@@ -3,14 +3,17 @@ title: Vughts Politiek Debat op 10 november in Theater De Speeldoos
 date: 2020-09-15T19:16:31.162Z
 theme: Participatie en bestuurlijke versterking
 typePost: Publicatie
-group: Participatie en bestuurlijke versterking
+group: Politiek debat
 status: 1
 answered: false
 content: >-
-  [VughtParticipeert](https://www.vughtparticipeert.nl/),
-  [Avulo](https://www.avulo.nl/), [Theater De
-  Speeldoos](https://theaterdespeeldoos.nl/) en [Huis73](https://www.huis73.nl/)
-  organiseren het Vughts Politiek Debat op dinsdag 10 november 2020.
+  [](https://www.vughtparticipeert.nl/)
+
+
+  ![](/uploads/avulo-logo-2000px-horizontaal-transparant.png)
+
+
+  [VughtParticipeert](https://www.vughtparticipeert.nl/), [Avulo](https://www.avulo.nl/), [Theater De Speeldoos](https://theaterdespeeldoos.nl/) en [Huis73](https://www.huis73.nl/) organiseren het Vughts Politiek Debat op dinsdag 10 november 2020.
 
 
   Doel van het debat is de belangrijkste onderwerpen binnen onze gemeente te bespreken en de posities van de verschillende politieke partijen te leren kennen. Hiermee zijn de inwoners van onze gemeente beter in staat hun mening te vormen in aanloop op de verkiezingen voor de nieuwe gemeenteraad op 18 november.
