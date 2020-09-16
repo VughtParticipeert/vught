@@ -37,5 +37,5 @@ content: >-
   ### Zet 10 november 2020 in uw agenda
 
 
-  Wij roepen iedereen op het Vughts Politiek Debat in de agenda te zetten. Nadere informatie volgt op [www.vughtparticipeert.nl/politiekdebat10112020](http://www.vughtparticipeert.nl/politiekdebat10112020) en [](https://www.vughtparticipeert.nl/newsletter#main)meld u aan voor onze [regelmatige nieuwsbrief](https://www.vughtparticipeert.nl/newsletter#main).
+  Wij roepen iedereen op het Vughts Politiek Debat in de agenda te zetten. Nadere informatie volgt, [](https://www.vughtparticipeert.nl/newsletter#main)meld u aan voor onze [regelmatige nieuwsbrief](https://www.vughtparticipeert.nl/newsletter#main).
 ---
