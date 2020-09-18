@@ -1,5 +1,5 @@
 ---
-title: Stichting N65 en Vught Participeert roepen GGD op tot onafhankelijk
+title: Stichting N65 en VughtParticipeert roepen GGD op tot onafhankelijk
   onderzoek gezondheidsrisico's N65
 date: 2020-09-18T07:25:16.187Z
 theme: N65 Duurzaam
