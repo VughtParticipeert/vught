@@ -12,7 +12,7 @@ content: >-
   verkeersgoot draagt niet bij aan onze leefbaarheid")
 
 
-  De [Stichting N65](https://www.n65.nl/) en VughtParticipeert hebben de volgende oproep gedaan aan de [GGD Hart van Brabant](https://www.ggdhvb.nl/over-de-ggd).
+  De [Stichting N65](https://www.n65.nl/) en VughtParticipeert hebben de volgende oproep gedaan aan de [GGD Hart voor Brabant](https://www.ggdhvb.nl/over-de-ggd).
 
 
   Wij roepen dringend uw hulp in om op eigen initiatief een medisch milieukundig onderzoek te starten voor het N65-reconstructie plan, waarvan de aanbestedingsprocedure recent is gestart. Wij hebben begrepen uit het interview met Peter van den Hazel in Medisch Contact 30-31, 23 juli 2020, p. 14 e.v., dat uw GGD een medisch milieukundige kan inschakelen om zelfstandig een onderzoek te starten naar de effecten op de volksgezondheid van dit plan op basis van de Wet Publieke Gezondheid uit 2008.
