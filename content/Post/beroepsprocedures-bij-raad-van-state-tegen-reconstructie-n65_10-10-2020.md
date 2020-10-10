@@ -30,5 +30,5 @@ content: >-
   Mogelijk de meest venijnige aangedragen beroepsgronden zijn die over de luchtkwaliteit, de te hoge concentratie stikstof en de waterhuishouding. Hier gelden niet alleen nationale maar ook Europese regels die ook na een besluit van de Raad van State nog steeds van toepassing zijn.
 
 
-  Kortom, het lijkt nog geen gelopen race en de onvrede is breed en hardnekkig. Het bestuur dat zonder degelijke argumentatie beroepsgronden van bewoners afwijst, versterkt de ergernis over de onzuivere besluitvorming.
+  Kortom, het lijkt nog geen gelopen race en de onvrede is breed en hardnekkig. Het gemeentebestuur dat zonder degelijke argumentatie beroepsgronden van bewoners afwijst, versterkt de ergernis over de onzuivere besluitvorming.
 ---
