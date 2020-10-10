@@ -50,7 +50,7 @@ content: >-
   #### Wat doet VP?
 
 
-  VughtParticipeert zal deze beroepsprocedures gaan ondersteunen en kan op verschillende manieren bijdragen, o.a. door het meldpunt [N65kloptdatwel](https://www.vughtparticipeert.nl/post/n65-er-wordt-veel-beweerd-maar-klopt-dat-allemaal-wel/450638084b0dccc18f68db70a482479f#main). Hier kunnen bewoners melding maken van zaken in het bestemmingsplan die onjuist, onvolledig of inconsistent zijn. De eerste meldingen zijn reeds ontvangen. Wekelijks zal VughtParticipeert een overzicht van de meldingen[](http://www.vughtparticipeert.nl) publiceren.
+  VughtParticipeert zal deze beroepsprocedures gaan ondersteunen en kan op verschillende manieren bijdragen, o.a. door het meldpunt [N65kloptdatwel](https://www.vughtparticipeert.nl/post/n65-er-wordt-veel-beweerd-maar-klopt-dat-allemaal-wel/450638084b0dccc18f68db70a482479f#main). Hier kunnen bewoners melding maken van zaken in het bestemmingsplan die onjuist, onvolledig of inconsistent zijn. De eerste meldingen zijn reeds ontvangen. Regelmatig zal VughtParticipeert actuele informartie publiceren.
 
 
   Daarnaast zal VughtParticipeert een overzicht bijhouden van alle beroepsprocedures die in voorbereiding zijn, zodat men elkaar kent en eventueel samenwerkt. Samenwerking kan bestaan uit het uitwisselen van kennis en onderzoeksresultaten. Ook het doen van generiek onderzoek naar de rechtmatigheid van het bestemmingsplan behoort tot de mogelijkheden.
