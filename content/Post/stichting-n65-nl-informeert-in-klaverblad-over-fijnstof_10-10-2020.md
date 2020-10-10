@@ -23,5 +23,9 @@ content: >-
   Haal dat verkeer, geluidsoverlast en files, maar vooral fijnstof weg uit onze woonomgeving!
 
 
-  Voor meer informatie zie [N65.nl](https://www.n65.nl/).
+  Voor meer informatie zie [N65.nl](https://www.n65.nl/) en bijlage.
+attachment:
+  - file:
+      attachment: /uploads/32196-n65-nee_ap_week-40.pdf
+      name: Klaverblad 30 september
 ---
