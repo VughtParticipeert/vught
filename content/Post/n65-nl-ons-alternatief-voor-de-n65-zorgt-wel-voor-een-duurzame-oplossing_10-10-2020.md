@@ -21,7 +21,7 @@ content: >-
   De laatste drie zijn kwalijk voor de gezondheid. Gezondheidsstudies hebben aangetoond dat er een oorzakelijk verband is tussen het wonen of naar school gaan nabij drukke wegen en het ontstaan van astma bij kinderen, het vaker voorkomen van astma en COPD of chronisch longlijden bij volwassenen, een lagere longfunctie en sterfte aan hart- en vaatziekten en longziekten, waaronder longkanker.” 
 
 
-  Hij pleit voor een alternatief traject dat in ieder geval het vrachtverkeer door het buitengebied van Vught en Helvoirt van de N65 door naar de A2 leidt.
+  Hij pleit voor een alternatief traject dat in ieder geval het vrachtverkeer door het buitengebied zuid van Vught en Helvoirt van de N65 door naar de A2 leidt.
 
 
   Voor meer informatie zie [N65.nl](https://www.n65.nl/) Het Klaverblad van 7 oktober 2020 (bijlage).
