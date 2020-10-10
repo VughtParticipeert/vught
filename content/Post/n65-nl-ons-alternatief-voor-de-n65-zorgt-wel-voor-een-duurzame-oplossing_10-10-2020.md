@@ -18,5 +18,9 @@ content: >-
   Hij pleit voor een alternatief traject dat in ieder geval het vrachtverkeer door het buitengebied van Vught en Helvoirt van de N65 door naar de A2 leidt.
 
 
-  Voor meer informatie zie Het Klaverblad van 7 oktober 2020.
+  Voor meer informatie zie Het Klaverblad van 7 oktober 2020 (bijlage).
+attachment:
+  - file:
+      attachment: /uploads/schermafbeelding-2020-10-10-om-15.41.18.png
+      name: Klaverblad 7 oktober
 ---
