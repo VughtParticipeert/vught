@@ -11,7 +11,7 @@ content: >-
   Nee")
 
 
-  Onze gemeente staat voor de belangrijkste keuze van deze eeuw, waarom laten wij ons onder druk zetten, waarom mogen wij niet de tijd nemen om betere en toekomstvaste opties uit te werken? Opties met echte verkeers- veiligheid en minder dodelijk fijnstof.
+  Onze gemeente staat voor de belangrijkste keuze van deze eeuw, waarom laten wij ons onder druk zetten, waarom mogen wij niet de tijd nemen om betere en toekomstvaste opties uit te werken? Opties met echte verkeersveiligheid en minder dodelijk fijnstof.
 
 
   Iedereen snapt dat zelfs een elektrische vrachtwagen die nul uitstoot heeft, evenveel fijnstof neer laat komen in de wijde omgeving door de turbulentie achter de vrachtwagen.
@@ -23,5 +23,9 @@ content: >-
   Haal dat verkeer, geluidsoverlast en files, maar vooral fijnstof weg uit onze woonomgeving!
 
 
-  Voor meer innformatie zie [N65.nl](https://www.n65.nl/).
+  Voor meer informatie zie [N65.nl](https://www.n65.nl/) of lees het artikel (bijlage).
+attachment:
+  - file:
+      attachment: /uploads/n65-nee_ap_week-40.pdf
+      name: N65 in Het Klaverblad 30 september 2020
 ---
