@@ -18,7 +18,7 @@ content: >-
   Bos heeft zich met ter zake deskundigen op de literatuur en onderzoekresultaten over fijnstof gestort en is tot de conclusie gekomen dat de meetresultaten waarmee Rijkswaterstaat werkt discutabel zijn. “Fijnstof bestaat uit 4 componenten: Stikstof (NOx) -dat is onbelangrijk voor gezondheid-, fijnstof PM10, fijnstof PM1 en roet (black smoke)."
 
 
-  De laatste drie zijn kwalijk voor de gezondheid. Gezondheidsstudies hebben aangetoond dat er een oorzakelijk verband is tussen het wonen of naar school gaan nabij drukke wegen en het ontstaan van astma bij kinderen, het vaker voorkomen van astma en COPD of chronisch longlijden bij volwassenen, een lagere longfunctie en sterfte aan hart- en vaatziekten en longziekten, waaronder longkanker.” 
+  "De laatste drie zijn kwalijk voor de gezondheid. Gezondheidsstudies hebben aangetoond dat er een oorzakelijk verband is tussen het wonen of naar school gaan nabij drukke wegen en het ontstaan van astma bij kinderen, het vaker voorkomen van astma en COPD of chronisch longlijden bij volwassenen, een lagere longfunctie en sterfte aan hart- en vaatziekten en longziekten, waaronder longkanker.” 
 
 
   Hij pleit voor een alternatief traject dat in ieder geval het vrachtverkeer door het buitengebied zuid van Vught en Helvoirt van de N65 door naar de A2 leidt.
