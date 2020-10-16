@@ -1,5 +1,5 @@
 ---
-title: 30+ Beroepsprocedures bij Raad van State tegen reconstructie N65
+title: 30 Beroepsprocedures bij Raad van State tegen reconstructie N65
 date: 2020-10-10T12:19:00.753Z
 theme: N65 Duurzaam
 typePost: Publicatie
@@ -12,7 +12,7 @@ content: >-
   voor doorgaand verkeer?")
 
 
-  Inmiddels zijn er meer dan 30 beroepsprocedures aangemeld bij de Raad van State. Deze procedures komen van inwoners, bedrijven en belangenorganisaties uit alle delen van onze gemeente. Alhoewel ieder beroep een eigen insteek heeft, zijn er duidelijk gemeenschappelijke beroepsgronden.
+  30 Beroepsprocedures zijn aangemeld bij de Raad van State. Deze procedures komen van inwoners, bedrijven en belangenorganisaties uit alle delen van onze gemeente. Alhoewel ieder beroep een eigen insteek heeft, zijn er duidelijk gemeenschappelijke beroepsgronden.
 
 
   De meest genoemde beroepsgrond is die van de verkeersveiligheid. Een groot aantal partijen betwijfelt of de beloofde veiligheid zal ontstaan voor het doorgaand verkeer. Bovendien vinden zij dat deze niet opweegt tegen de overduidelijke toegenomen onveiligheid binnen de bebouwde kom.
