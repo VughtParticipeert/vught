@@ -35,5 +35,5 @@ content: >-
 attachment:
   - file:
       attachment: /uploads/20201110-stellingen-politiek-debat.pdf
-      name: 18 Stellingen voor politiek debat 10 november 2020
+      name: "18 Stellingen voor politiek debat "
 ---
