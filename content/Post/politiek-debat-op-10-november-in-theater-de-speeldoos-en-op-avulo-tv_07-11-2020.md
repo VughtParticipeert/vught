@@ -31,6 +31,9 @@ content: >-
 
 
   Na afloop van het debat zullen de standpunten van de partijen op de stellingen worden gepubliceerd. Hiermee willen wij een bijdrage leveren aan een goede informatievoorziening zodat inwoners van de gemeente Vught (Helvoirt, Cromvoirt en Vught) zich kunnen voorbereiden op hun keuze bij de aanstaande gemeenteraadsverkiezingen.
+
+
+  ![](/uploads/samenwerkingsverband-politiek-debat.png)
 attachment:
   - file:
       attachment: /uploads/20201110-stellingen-politiek-debat.pdf
