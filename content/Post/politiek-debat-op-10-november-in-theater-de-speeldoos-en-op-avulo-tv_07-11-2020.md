@@ -12,24 +12,24 @@ content: >-
   debat wordt georganiseerd 
 
 
-  Wij organiseren het politiek debat om de inwoners te informeren en de politieke partijen optimaal de kans geven te laten zien waar zij voor staan. Uniek aan dit debat is dat vragen van bewoners centraal staan en worden voorgelegd in de vorm van stellingen. Dit debat is voor en door bewoners georganiseerd.
+  Wij organiseren het politiek debat om de inwoners te informeren en de politieke partijen optimaal de kans geven te laten zien waar zij voor staan. Uniek aan dit debat is dat vragen van bewoners centraal staan en worden voorgelegd in de vorm van stellingen. Dit debat is voor en door bewoners georganiseerd. Wij zijn het samenwerkingsverband tussen VughtParticipeert, Avulo, Theater de Speeldoos en Huis73.
 
 
-  Alle politieke partijen zullen daar vertegenwoordigd zijn en onder leiding van twee onafhankelijke moderatoren met elkaar in debat gaan. Voorafgaande aan het debat zijn18 stellingen geformuleerd waarover de partijen hun standpunten hebben bepaald en kunnen toelichten en verdedigen.
+  Alle politieke partijen zullen daar vertegenwoordigd zijn en onder leiding van twee onafhankelijke moderatoren met elkaar in debat gaan. Voorafgaande aan het debat zijn 18 stellingen (zie bijlage) geformuleerd waarover de partijen hun standpunten hebben bepaald en kunnen toelichten en verdedigen.
 
 
   Twee onafhankelijke moderatoren zullen het debat leiden: Bart Eigeman (voormalig wethouder in Den Bosch) en Jan Peels (freelance journalist en media-allrounder). Aan het begin van het debat krijgen alle partijen de gelegenheid zich kort voor te stellen.
 
 
-  De onderwerpen die aan de orde zullen komen zijn Wonen en Voorzieningen, Verkeer en Veiligheid, Gezonde en schone Lucht en Natuurbehoud, Burgerparticipatie, Financieën en transparante Besluitvorming.
+  De onderwerpen die aan de orde zullen komen zijn Wonen en Voorzieningen, Verkeer en Veiligheid, Gezonde en schone Lucht en Natuurbehoud, Burgerparticipatie, Financiën en transparante Besluitvorming.
 
 
-  In verband met de RIVM-richlijnen zal het debat als een besloten bijeenkomst worden georganiseerd en zal er geen publiek aanwezig zijn. Het debat zal direct worden uitgezonden op Avulo-TV en op hun Live-stream.
+  In verband met de RIVM-richtlijnen zal het debat als een besloten bijeenkomst worden georganiseerd en zal er geen publiek aanwezig zijn. Het debat zal direct worden uitgezonden op Avulo-TV en op hun [Live-stream](https://www.avulo.nl/live-tv).
 
 
 
 
-  ![](/uploads/ralph-ravi-kayden-wwjeicqu9pi-unsplash.jpg)
+  ![Politiek Debat via Avulo-TV en Live-tream](/uploads/ralph-ravi-kayden-wwjeicqu9pi-unsplash.jpg "Politiek Debat via Avulo-TV en Live-tream")
 attachment:
   - file:
       attachment: /uploads/20201110-stellingen-politiek-debat.pdf
