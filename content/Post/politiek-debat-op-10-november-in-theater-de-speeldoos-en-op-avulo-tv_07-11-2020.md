@@ -7,8 +7,12 @@ group: Politiek debat
 status: 1
 answered: false
 content: >-
-  Op dinsdag 10 november vanaf 20:00 h wordt in Theater de Speeldoos het
-  Politiek Debat 2020 gehouden in aanloop op de gemeenteraadsverkiezingen. 
+  ![Politiek Debat via Avulo-TV en
+  Live-tream](/uploads/ralph-ravi-kayden-wwjeicqu9pi-unsplash.jpg "Politiek
+  Debat via Avulo-TV en Live-tream")
+
+
+  Op dinsdag 10 november vanaf 20:00 h wordt in Theater de Speeldoos het Politiek Debat 2020 gehouden in aanloop op de gemeenteraadsverkiezingen. 
 
 
   Wij organiseren het politiek debat om de inwoners te informeren en de politieke partijen optimaal de kans geven te laten zien waar zij voor staan. Uniek aan dit debat is dat vragen van bewoners centraal staan en worden voorgelegd in de vorm van stellingen. Dit debat is voor en door bewoners georganiseerd. Wij zijn het samenwerkingsverband tussen [VughtParticipeert](https://www.vughtparticipeert.nl/), [Avulo](https://www.avulo.nl/), [Theater de Speeldoos](https://theaterdespeeldoos.nl/) en [Huis73](https://www.huis73.nl/).
@@ -27,11 +31,6 @@ content: >-
 
 
   Na afloop van het debat zullen de standpunten van de partijen op de stellingen worden gepubliceerd. Hiermee willen wij een bijdrage leveren aan een goede informatievoorziening zodat inwoners van de gemeente Vught (Helvoirt, Cromvoirt en Vught) zich kunnen voorbereiden op hun keuze bij de aanstaande gemeenteraadsverkiezingen.
-
-
-
-
-  ![Politiek Debat via Avulo-TV en Live-tream](/uploads/ralph-ravi-kayden-wwjeicqu9pi-unsplash.jpg "Politiek Debat via Avulo-TV en Live-tream")
 attachment:
   - file:
       attachment: /uploads/20201110-stellingen-politiek-debat.pdf
