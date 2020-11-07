@@ -32,6 +32,6 @@ content: >-
   ![](/uploads/ralph-ravi-kayden-wwjeicqu9pi-unsplash.jpg)
 attachment:
   - file:
-      attachment: /uploads/20201103-thema-s-en-stellingen-politiek-debat-vughtparticipeert-10-nov.-2020.pdf
-      name: 18 Stellingen voor het politiek debat
+      attachment: /uploads/20201110-stellingen-politiek-debat.pdf
+      name: 18 Stellingen voor politiek debat 10 november 2020
 ---
