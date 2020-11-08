@@ -27,7 +27,7 @@ content: >-
   De onderwerpen die aan de orde zullen komen zijn Wonen en Voorzieningen, Verkeer en Veiligheid, Gezonde en schone Lucht en Natuurbehoud, Burgerparticipatie, Financiën en transparante Besluitvorming.
 
 
-  In verband met de RIVM-richtlijnen zal het debat als een besloten bijeenkomst worden georganiseerd en zal er geen publiek aanwezig zijn. Het debat zal direct worden uitgezonden op Avulo-TV en op hun [Live-stream](https://www.avulo.nl/live-tv).
+  In verband met de RIVM-richtlijnen zal het debat als een besloten bijeenkomst worden georganiseerd en zal er geen publiek aanwezig zijn. Het debat zal live worden uitgezonden op Avulo TV (Ziggo kanaal 37, KPN kanaal 1303), via onze [live-stream](https://www.avulo.nl/live-tv), Facebookpagina en het Avulo YouTube-kanaal.
 
 
   Na afloop van het debat zullen de standpunten van de partijen op de stellingen worden gepubliceerd. Hiermee willen wij een bijdrage leveren aan een goede informatievoorziening zodat inwoners van de gemeente Vught (Helvoirt, Cromvoirt en Vught) zich kunnen voorbereiden op hun keuze bij de aanstaande gemeenteraadsverkiezingen.
