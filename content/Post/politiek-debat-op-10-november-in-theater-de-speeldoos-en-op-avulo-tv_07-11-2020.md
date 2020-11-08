@@ -24,7 +24,7 @@ content: >-
   Twee onafhankelijke moderatoren zullen het debat leiden: Bart Eigeman (voormalig wethouder in Den Bosch) en Jan Peels (freelance journalist en media-allrounder). Aan het begin van het debat krijgen alle partijen de gelegenheid zich kort voor te stellen.
 
 
-  De onderwerpen die aan de orde zullen komen zijn Wonen en Voorzieningen, Verkeer en Veiligheid, Gezonde en schone Lucht en Natuurbehoud, Burgerparticipatie, Financiën en transparante Besluitvorming.
+  De onderwerpen die aan de orde zullen komen zijn Wonen en Voorzieningen, Verkeer en Veiligheid, Gezonde en schone Lucht en Natuurbehoud, Burgerparticipatie, Financiën en transparante Besluitvorming. Prangende vragen van bewoners zullen de revue passeren en partijen zullen worden uitgedaagd duidelijk te maken waar ze voor staan.
 
 
   In verband met de RIVM-richtlijnen zal het debat als een besloten bijeenkomst worden georganiseerd en zal er geen publiek aanwezig zijn. Het debat zal live worden uitgezonden op Avulo TV (Ziggo kanaal 37, KPN kanaal 1303), via onze [live-stream](https://www.avulo.nl/live-tv), Facebookpagina en het Avulo YouTube-kanaal.
