@@ -39,7 +39,7 @@ content: >-
   Gemeentebelangen bevestigde de noodzaak van “*onafhankelijk, specialistisch, verdiepend, controleren onderzoek*”. Verbazingwekkend was echter de mening dat ook een slapende rekenkamer bijdraagt aan de kwaliteit en transparantie van gemeentelijk bestuur. 
 
 
-  Het besluit om de rekenkamer slapend te maken betekent dat “deze ieder moment kan worden geactiveerd”. Dat is echter in tegenspraak met de onafhankelijkheid, want zo besluit de raad wanneer de waakhond moet worden gewekt. Dan is het ook ‘begrijpelijk’ dat voor een slapende rekenkamer geen budget hoeft te worden gereserveerd. Dat maakt het activeren van een rekenkamer zonder budget niet eenvoudiger. 
+  Het besluit om de rekenkamer slapend te maken betekent dat “*deze ieder moment kan worden geactiveerd*”. Dat is echter in tegenspraak met de onafhankelijkheid, want zo besluit de raad wanneer de waakhond moet worden gewekt. Dan is het ook ‘begrijpelijk’ dat voor een slapende rekenkamer geen budget hoeft te worden gereserveerd. Dat maakt het activeren van een rekenkamer zonder budget niet eenvoudiger. 
 
 
   Gemeentebelangen stelt: “*Overigens is een besluit (voor een actieve rekenkamer) van de Ministerraad geen wet.*”
@@ -93,7 +93,7 @@ content: >-
   VVD is van mening dat een rekenkamer(commissie) “*van toegevoegde waarde kan zijn in het openbaar bestuur*”  en “*er zijn echter alternatieven*”. Als voorbeeld wordt genoemd een onderzoek naar de Speeldoos uitgevoerd door een onafhankelijk bureau. 
 
 
-  De VVD was in 2015 voorstander “om enkele raadsleden te benoemen tot leden van de rekenkamer”. Deze mening mag gelden voor een rekenkamercommissie, niet voor een rekenkamer, hier mogen uitsluitend externe (niet politieke) leden deelnemen. 
+  De VVD was in 2015 voorstander “*om enkele raadsleden te benoemen tot leden van de rekenkamer*”. Deze mening mag gelden voor een rekenkamercommissie, niet voor een rekenkamer, hier mogen uitsluitend externe (niet politieke) leden deelnemen. 
 
 
   Het slapend maken van de rekenkamer was vanwege: “*Er werden onderzoeken geleverd die in een lade belandden en waar verder niets mee werd gedaan*”. De VVD is van mening dat een slapende rekenkamer zonder budget altijd kan worden gewekt en van budget voorzien als de raad dat zou wensen. Echter daardoor is de rekenkamer niet onafhankelijk en kan ook geen ongevraagd advies geven. Omdat de wet ter voorkoming van een slapende rekenkamer nog niet van kracht is hoeft deze volgens de VVD nog niet actief te worden gemaakt of van budget te worden voorzien.
