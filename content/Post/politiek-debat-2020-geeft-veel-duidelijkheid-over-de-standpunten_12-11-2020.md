@@ -15,7 +15,7 @@ content: >-
   In Theater de Speeldoos, helaas zonder publiek, hebben de 6 partijen standpunten kunnen innemen over een groot aantal stellingen. Deze stellingen waren het resultaat van een grote hoeveelheid bewonersvragen over diverse onderwerpen zoals Wonen en Voorzieningen, Verkeer en Veiligheid, Gezonde en schone Lucht en Natuurbehoud, Burgerparticipatie, Financiën en transparante Besluitvorming.
 
 
-  Voorafgaand aan het debat zijn alle partijen gevraagd over 18 stellingen hun standpunten in te nemen. Alleen Gemeentebelangen en VVD waren niet bereid deze vooraf bekend te maken. Per stelling werden de standpunten gepresenteerd en konden de partijen hun standpunten toelichten. Het resultaat van het debat leverde het volgende overzicht op:
+  Voorafgaand aan het debat zijn alle partijen gevraagd over 18 stellingen hun standpunten in te nemen. Alleen Gemeentebelangen en VVD waren niet bereid deze vooraf bekend te maken. Per stelling werden de standpunten gepresenteerd en konden de partijen hun standpunten toelichten. Het debat leverde het volgende overzicht van standpunten op:
 
 
   ![](/uploads/verkiezingswijzer-vught-2020.png)
