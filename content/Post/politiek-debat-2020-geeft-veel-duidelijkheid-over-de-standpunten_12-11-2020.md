@@ -41,7 +41,7 @@ content: >-
   ![Kieswijzer gemeenteraadsverkiezingen 2020 Gemeente Vught](/uploads/partijstandpunten-gemeenteraadsverkiezingen-2020-vught.png "Kieswijzer gemeenteraadsverkiezingen 2020 Gemeente Vught")
 
 
-  In het bovenstaande kieswijzer ziet u de antwoorden op alle stellingen, voor zover de VVD en Gemeentebelangen tijdens het debat hun standpunt kenbaar hebben gemaakt. Deze kieswijzer kan u helpen uw stem aan de voor u juiste partij te geven.
+  In het bovenstaand overzicht ziet u de antwoorden op alle stellingen, voor zover de VVD en Gemeentebelangen tijdens het debat hun standpunt kenbaar hebben gemaakt. Dit overzicht kan u helpen uw stem aan de voor u juiste partij te geven.
 
 
   Het debat kwam tot stand in een samenwerkingsverband tussen VughtParticipeert, Avulo TV, Huis73 en Theater de Speeldoos.
