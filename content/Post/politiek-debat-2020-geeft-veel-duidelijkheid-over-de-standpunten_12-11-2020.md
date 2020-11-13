@@ -13,7 +13,7 @@ content: >-
   leven. 
 
 
-  De bewonersvragen zijn vertaald in 18 stellingen verdeeld over de thema’s: ‘wonen & voorzieningen’, ‘verkeer & verkeersveiligheid’ (inclusief de N65), ‘gezonde & schone lucht en natuurbehoud’, ‘burgerparticipatie’ en ‘financiën & transparante besluitvorming’. Voorafgaand aan het debat is aan alle partijen gevraagd standpunten in te nemen over de 18 stellingen. Alleen Gemeentebelangen en VVD waren niet bereid deze vooraf bekend te maken. Tijdens het debat konden de partijen hun standpunt toelichten. 
+  De bewonersvragen waren vertaald in 18 stellingen verdeeld over de thema’s: ‘wonen & voorzieningen’, ‘verkeer & verkeersveiligheid’ (inclusief de N65), ‘gezonde & schone lucht en natuurbehoud’, ‘burgerparticipatie’ en ‘financiën & transparante besluitvorming’. Voorafgaand aan het debat is aan alle partijen gevraagd standpunten in te nemen over de 18 stellingen. Alleen Gemeentebelangen en VVD waren niet bereid deze vooraf bekend te maken. Tijdens het debat konden de partijen hun standpunt toelichten. 
 
 
   * Over 3 stellingen waren de partijen het in ieder geval eens: De noodzaak van meer burgerparticipatie, ook voor jongeren, en de wens daar concreter invulling aan te geven in Vught.
@@ -35,7 +35,8 @@ content: >-
     * VVD en gemeentebelangen vinden dat het feit dat dit rapport op een website van Rijkswaterstaat te vinden was, voldoende.
     * CDA, SP en D66 vinden dat dit rapport actief vooraf aan de raad had moeten worden gestuurd toen het basisbesluit over de huidige plannen een aantal jaren terug, werd genomen.
 
-      Dat leverde het volgende overzicht op:
+  Dat leverde het volgende overzicht op:
+
 
   ![](/uploads/schermafbeelding-2020-11-13-om-15.12.20.png)
 
