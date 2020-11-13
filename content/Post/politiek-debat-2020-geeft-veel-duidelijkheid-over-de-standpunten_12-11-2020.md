@@ -38,7 +38,7 @@ content: >-
   Dat leverde het volgende overzicht op:
 
 
-  ![](/uploads/kieswijzer-gemeenteraadsverkiezingen-2020-vught-2.png)
+  ![Kieswijzer gemeenteraadsverkiezingen 2020 Gemeente Vught](/uploads/kieswijzer-gemeenteraadsverkiezingen-2020-vught.png "Kieswijzer gemeenteraadsverkiezingen 2020 Gemeente Vught")
 
 
   In het bovenstaande kieswijzer ziet u de antwoorden op alle stellingen, voor zover de VVD en Gemeentebelangen tijdens het debat hun standpunt kenbaar hebben gemaakt. Deze kieswijzer kan u helpen uw stem aan de voor u juiste partij te geven.
