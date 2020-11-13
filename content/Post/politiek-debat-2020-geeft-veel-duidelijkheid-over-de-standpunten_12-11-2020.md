@@ -50,7 +50,7 @@ content: >-
   Wilt u precies weten wat de toelichtingen waren van de partijen? Het debat is door Avulo TV direct uitgezonden en is hier [terug te kijken](https://www.youtube.com/watch?v=HDzXWk-Oyk0&feature=youtu.be).
 
 
-  PS Aan de politieke partijen, als u van mening bent dat uw standpunten niet goed worden weergegeven of u wilt uw standpunten herzien, kunt u dat melden bij secretaris@vughtparticipeert.nl, dan actualiseren wij dit overzicht.
+  PS Aan de politieke partijen, als u van mening bent dat uw standpunten niet goed worden weergegeven of u wilt uw standpunten herzien, kunt u dat melden bij [secretaris@vughtparticipeert.nl](secretaris@vughtparticipeert.nl), dan actualiseren wij dit overzicht.
 attachment:
   - file:
       attachment: /uploads/partijstandpunten-gemeenteraadsverkiezingen-2020-vught.pdf
