@@ -7,29 +7,48 @@ group: Politiek debat
 status: 1
 answered: false
 content: >-
-  Tijdens het politiek debat op dinsdag 10 november hebben alle partijen de
-  gelegenheid gekregen zich te positioneren en hun programma te meten met hun
-  rivalen.
+  Tijdens het door VughtParticipeert geïnitieerde politiek debat op dinsdag 10
+  november, hebben alle partijen de gelegenheid gekregen hun standpunten kenbaar
+  te maken over vragen en kwesties die onder de inwoners van de gemeente Vught
+  leven. 
 
 
-  In Theater de Speeldoos, helaas zonder publiek, hebben de 6 partijen standpunten kunnen innemen over een groot aantal stellingen. Deze stellingen waren het resultaat van een grote hoeveelheid bewonersvragen over diverse onderwerpen zoals Wonen en Voorzieningen, Verkeer en Veiligheid, Gezonde en schone Lucht en Natuurbehoud, Burgerparticipatie, Financiën en transparante Besluitvorming.
+  De bewonersvragen zijn vertaald in 18 stellingen verdeeld over de thema’s: ‘wonen & voorzieningen’, ‘verkeer & verkeersveiligheid’ (inclusief de N65), ‘gezonde & schone lucht en natuurbehoud’, ‘burgerparticipatie’ en ‘financiën & transparante besluitvorming’. Voorafgaand aan het debat is aan alle partijen gevraagd standpunten in te nemen over de 18 stellingen. Alleen Gemeentebelangen en VVD waren niet bereid deze vooraf bekend te maken. Tijdens het debat konden de partijen hun standpunt toelichten. 
 
 
-  Voorafgaand aan het debat zijn alle partijen gevraagd over 18 stellingen hun standpunten in te nemen. Alleen Gemeentebelangen en VVD waren niet bereid deze vooraf bekend te maken. Per stelling werden de standpunten gepresenteerd en konden de partijen hun standpunten toelichten. Het debat leverde het volgende overzicht van standpunten op:
+  * Over 3 stellingen waren de partijen het in ieder geval eens: De noodzaak van meer burgerparticipatie, ook voor jongeren, en de wens daar concreter invulling aan te geven in Vught.
+
+  * Dit betekent in ieder geval dat bewoners in een vroeg stadium - dus al vanaf de ideefase en eerste planfase - actief worden betrokken bij projecten die van invloed zijn op hun woonomgeving.
+
+  * De noodzaak van snelheidsremmende maatregelen in 30km straten binnen de woonkernen van de gemeente Vught. Uiteraard is hiermee nog niet duidelijk hoe de partijen aan de bovenstaande punten concreet invulling willen geven.
+
+  * Verdeeld waren de meningen over de N65 en transparante besluitvorming, en met name:
+
+    * De noodzaak om de huidige plannen voor de reconstructie van de N65 te heroverwegen vanwege de negatieve bijeffecten (o.a. forse verkeerstoename binnen Vught). Gemeentebelangen, de VVD en PvdA-GroenLinks willen niet heroverwegen. 
+    * CDA, D66 en SP vinden dat er op zijn minst flink bijgesteld en aangepast moet worden. Voor deze aanpassingen moeten volgens hen Rijkswaterstaat en de Provincie extra bijdragen, omdat de N65 vooral gaat om een betere verkeersdoorstroom op een provinciale weg.
+    * Het CDA, D66 en de SP vinden dat de toerit bij Craijenstein naar de Helvoirtseweg open moet blijven en de toerit bij de Olmenlaan dicht, Gemeentebelangen, de VVD en PvdA-GroenLinks vinden daarentegen dat de toerit bij Craijenstein wél afgesloten moet worden. 
+    * Gemeentebelangen en VVD zijn van mening dat de Olmenlaan open moet blijven, dus conform het huidige bestemmingsplan. Afwijkend aan de mening van deze partijen vindt PvdA-GroenLinks dat Olmenlaan dicht mag.
+  * Over de noodzaak van een onafhankelijke Rekenkamer in Vught, die de doelmatigheid en maatschappelijke bijeffecten van besluiten van het bestuur onderzoekt in het kader van transparante besluitvorming, waren de verschillen groot. Het CDA, D66 en de SP en PvdA-GroenLinks vinden onafhankelijke Rekenkamer noodzakelijk en de VVD en Gemeentebelangen niet.
+
+  * Ook over het tijdig beschikbaar stellen van de negatieve economische evaluatie van het huidige plan, de zogeheten Maatschappelijke Kosten en Baten Analyse (MKBA), waren er duidelijke verschillen:
+
+    * VVD en gemeentebelangen vinden dat het feit dat dit rapport op een website van Rijkswaterstaat te vinden was, voldoende.
+    * CDA, SP en D66 vinden dat dit rapport actief vooraf aan de raad had moeten worden gestuurd toen het basisbesluit over de huidige plannen een aantal jaren terug, werd genomen.
+
+      Dat leverde het volgende overzicht op:
+
+  ![](/uploads/schermafbeelding-2020-11-13-om-15.12.20.png)
 
 
-  ![](/uploads/verkiezingswijzer-vught-2020.png)
+  In het bovenstaande kieswijzer ziet u de antwoorden op alle stellingen, voor zover de VVD en Gemeentebelangen tijdens het debat hun standpunt kenbaar hebben gemaakt. Deze kieswijzer kan u helpen uw stem aan de voor u juiste partij te geven.
 
 
-  Dit overzicht biedt de kiezer bij de gemeenteraadsverkiezingen volgende week een goed inzicht in de posities van de verschillende partijen. Sommige posities van partijen zijn helaas onbekend, omdat deze niet vooraf beschikbaar zijn gesteld. Alle partijen bevestigen de stelling: Vanaf 2021 worden bewoners in een vroeg stadium - dus al vanaf de ideefase en eerste planfase - actief betrokken bij projecten die van invloed zijn op hun woonomgeving. 
+  Het debat kwam tot stand in een samenwerkingsverband tussen VughtParticipeert, Avulo TV, Huis73 en Theater de Speeldoos.
 
 
-  Daar zullen sommige partijen blijkbaar nog aan moeten wennen.
-
-
-  Het debat is door Avulo TV direct uitgezonden en is hier [terug te kijken](https://www.youtube.com/watch?v=HDzXWk-Oyk0&feature=youtu.be).
+  Wilt u precies weten wat de toelichtingen waren van de partijen? Het debat is door Avulo TV direct uitgezonden en is hier [terug te kijken](https://www.youtube.com/watch?v=HDzXWk-Oyk0&feature=youtu.be).
 attachment:
   - file:
-      attachment: /uploads/verkiezingswijzer-vught-2020.png
-      name: De verkiezingswijzer Vught 2020
+      attachment: /uploads/kieswijzer-gemeenteraadsverkiezingen-2020-gemeente-vught.pdf
+      name: Kieswijzer gemeenteraadsverkiezingen 2020 Gemeente Vught
 ---
