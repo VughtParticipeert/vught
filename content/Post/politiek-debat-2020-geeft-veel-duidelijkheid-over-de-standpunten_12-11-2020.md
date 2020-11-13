@@ -53,6 +53,6 @@ content: >-
   PS Aan de politieke partijen, als u van mening bent dat uw standpunten niet goed worden weergegeven of u wilt uw standpunten herzien, kunt u dat melden bij secretaris@vughtparticipeert.nl, dan actualiseren wij dit overzicht.
 attachment:
   - file:
-      attachment: /uploads/kieswijzer-gemeenteraadsverkiezingen-2020-gemeente-vught.pdf
-      name: Kieswijzer gemeenteraadsverkiezingen 2020 Gemeente Vught
+      attachment: /uploads/partijstandpunten-gemeenteraadsverkiezingen-2020-vught.pdf
+      name: Partijstandpunten gemeenteraadsverkiezingen 2020 Vught
 ---
