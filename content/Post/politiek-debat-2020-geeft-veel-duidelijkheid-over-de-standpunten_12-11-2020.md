@@ -37,7 +37,7 @@ content: >-
 
       Dat leverde het volgende overzicht op:
 
-  ![](/uploads/verkiezingswijzer-vught-2020.png)
+  ![](/uploads/schermafbeelding-2020-11-13-om-15.12.20.png)
 
 
   In het bovenstaande kieswijzer ziet u de antwoorden op alle stellingen, voor zover de VVD en Gemeentebelangen tijdens het debat hun standpunt kenbaar hebben gemaakt. Deze kieswijzer kan u helpen uw stem aan de voor u juiste partij te geven.
@@ -49,6 +49,6 @@ content: >-
   Wilt u precies weten wat de toelichtingen waren van de partijen? Het debat is door Avulo TV direct uitgezonden en is hier [terug te kijken](https://www.youtube.com/watch?v=HDzXWk-Oyk0&feature=youtu.be).
 attachment:
   - file:
-      attachment: /uploads/verkiezingswijzer-vught-2020.png
-      name: De verkiezingswijzer Vught 2020
+      attachment: /uploads/kieswijzer-gemeenteraadsverkiezingen-2020-gemeente-vught.pdf
+      name: Kieswijzer gemeenteraadsverkiezingen 2020 Gemeente Vught
 ---
