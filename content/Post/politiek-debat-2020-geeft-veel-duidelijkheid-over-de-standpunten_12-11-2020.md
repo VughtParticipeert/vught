@@ -1,6 +1,6 @@
 ---
 title: Politiek Debat 2020 geeft veel duidelijkheid over de standpunten van partijen
-date: 2020-11-13T14:22:09.871Z
+date: 2020-11-15T08:07:53.304Z
 theme: Participatie en bestuurlijke versterking
 typePost: Publicatie
 group: Politiek debat
