@@ -1,5 +1,5 @@
 ---
-title: "'Dodelijk' rapport voor nieuwe N65"
+title: "'Dodelijk' rapport over de verkeersveiligheid na reconstructie N65"
 date: 2020-11-10T16:46:42.499Z
 theme: N65 Duurzaam
 typePost: Publicatie
