@@ -1,5 +1,5 @@
 ---
-title: "'Dodelijk' rapport over de verkeersveiligheid na reconstructie N65"
+title: "'Dodelijk' rapport over de verkeers- veiligheid na reconstructie N65"
 date: 2020-11-10T16:46:42.499Z
 theme: N65 Duurzaam
 typePost: Publicatie
@@ -10,7 +10,7 @@ content: >-
   ![](/uploads/img_8858-1-.jpg)
 
 
-  De reconstructie van de N65 moet een belangrijke bijdrage leveren aan de verkeersveiligheid. Nieuw onderzoek laat echter zien dat het ontwerp van de oprit bij de Vijverbosweg richting ’s-Hertogenbosch zeer waarschijnlijk tot ongelukken en daarmee files zal leiden. Dit omdat de oprit te kort is, het invoegen onoverzichtelijk en de oprit onverbiddelijk eindigt tegen een harde wand. Ruimte voor verbetering hiervan is er niet.
+  De reconstructie van de N65 moet een belangrijke bijdrage leveren aan de verkeersveiligheid. Nieuw onderzoek (bijgaand) laat echter zien dat het ontwerp van de oprit bij de Vijverbosweg richting ’s-Hertogenbosch zeer waarschijnlijk tot ongelukken en daarmee files zal leiden. Dit omdat de oprit te kort is, het invoegen onoverzichtelijk en de oprit onverbiddelijk eindigt tegen een harde wand. Ruimte voor verbetering hiervan is er niet.
 
 
   Citaat uit het rapport: “De combinatie van beperkt zicht en korte invoegstrook leidt tot piekbelastingen van het waarnemingsvermogen en de mentale capaciteit van de weggebruikers. Vooral het cumuleren hiervan met de niet-vergevingsgezinde omgeving (geen correctieruimte, betonnen wand) maakt dat hier sprake is van een zeer hoog, zo al niet onaanvaardbaar risico. Dit risico is slechts af te wenden met het vlakker doen verlopen van het betreffende traject van de N65 en een aanzienlijke verlenging van de invoegstrook.”
