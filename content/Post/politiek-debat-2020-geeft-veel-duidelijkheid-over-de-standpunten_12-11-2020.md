@@ -38,7 +38,7 @@ content: >-
   Dat leverde het volgende overzicht op:
 
 
-  ![Kieswijzer gemeenteraadsverkiezingen 2020 Gemeente Vught](/uploads/partijstandpunten-gemeenteraadsverkiezingen-2020-vught.png "Kieswijzer gemeenteraadsverkiezingen 2020 Gemeente Vught")
+  ![Kieswijzer gemeenteraadsverkiezingen 2020 Gemeente Vught](/uploads/partijstandpunten-gemeenteraadsverkiezingen-2020-vught-2.png "Kieswijzer gemeenteraadsverkiezingen 2020 Gemeente Vught")
 
 
   In het bovenstaand overzicht ziet u de antwoorden op alle stellingen, voor zover de VVD en Gemeentebelangen tijdens het debat hun standpunt kenbaar hebben gemaakt. Dit overzicht kan u helpen uw stem aan de voor u juiste partij te geven.
@@ -53,6 +53,6 @@ content: >-
   PS Aan de politieke partijen, als u van mening bent dat uw standpunten niet goed worden weergegeven of u wilt uw standpunten herzien, kunt u dat melden bij [secretaris@vughtparticipeert.nl](secretaris@vughtparticipeert.nl), dan actualiseren wij dit overzicht.
 attachment:
   - file:
-      attachment: /uploads/partijstandpunten-gemeenteraadsverkiezingen-2020-vught.pdf
+      attachment: /uploads/partijstandpunten-gemeenteraadsverkiezingen-2020-vught-3.pdf
       name: Partijstandpunten gemeenteraadsverkiezingen 2020 Vught
 ---
