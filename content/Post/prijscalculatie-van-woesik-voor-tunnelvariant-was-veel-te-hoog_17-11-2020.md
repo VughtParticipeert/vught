@@ -11,7 +11,7 @@ content: >-
   nog?](/uploads/img_8858-1-.jpg)
 
 
-  VughtParticipeert bracht in mei dit jaar meer dan 500 handtekeningen bijeen om een onderzoek naar een tunnelvariant te bepleiten. De week daarvoor had wethouder van Woesik snel een prijscalculatie voor een tunnelvariant laten maken, waaruit zou blijken dat deze tenminste €400 miljoen zou gaan kosten.
+  VughtParticipeert bracht in mei dit jaar meer dan 400 handtekeningen bijeen om een onderzoek naar een tunnelvariant te bepleiten. De week daarvoor had wethouder van Woesik snel een prijscalculatie voor een tunnelvariant laten maken, waaruit zou blijken dat deze tenminste €400 miljoen zou gaan kosten.
 
 
   Nader onderzoek van deze calculatie laat zien dat hierbij is uitgegaan van op- en afritten bij de Vijverbosweg en Helvoirtsewegin in de tunnel. Dit leidt ertoe dat de tunnel niet 2x2 rijstroken moest bevatten maar 2x3, mogelijk zelfs 2x4, omdat in- en uitvoegen in een gesloten tunnel niet is toegestaan. Niet alleen wordt de tunnel daardoor 2 tot 2,5 keer duurder, maar ook veel breder, waardoor er naast de tunnel minder ruimte overblijft voor herontwikkeling, maar ook de schade aan de bomen, tuinen en gebouwen langs de N65 vele malen groter zal zijn.
