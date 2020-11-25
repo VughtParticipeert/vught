@@ -7,9 +7,10 @@ group: Politiek debat
 status: 1
 answered: false
 content: >-
-  Participatie en transparantie zijn essentieel voor een goed bestuur. Alle
-  partijen hebben tijdens de politieke debatten zich daarvoor in meer of mindere
-  mate uitgesproken.
+  ![](/uploads/schermafbeelding-2020-11-25-om-14.05.33.png)
+
+
+  Participatie en transparantie zijn essentieel voor een goed bestuur. Alle partijen hebben tijdens de politieke debatten zich daarvoor in meer of mindere mate uitgesproken.
 
 
   Nu was participatie ook al een belofte van de huidige coalitie, alleen daar is helaas weinig van terecht gekomen. Niet alleen konden geen structurele stappen worden gezet, ook moest te vaak worden vastgesteld dat het gebrek aan participatie en transparantie leidde tot onaangename besluitsverrassingen en mistige argumentaties. Deze gevallen hebben het onbehagen van de inwoners gevoed en de frustratie door de ‘achterkamertjespolitiek’ versterkt.
@@ -36,7 +37,7 @@ content: >-
   Verfrissend is het voorstel van Rutger Jans (CDA), gesteund door Fons Potters (D66) dat informateur Bert Pauli niet alleen bij de politieke partijen, maar ook bij bewonersorganisaties te rade zou moeten gaan, om te horen hoe zij denken. Want dát is ook burgerparticipatie. Politieke partijen moeten immers niet alleen met elkaar kunnen samenwerken, maar ook met bewonersorganisaties.
 
 
-  ### Tenslotte
+  Tenslotte
 
 
   VughtParticipeert heeft in het eerste jaar van haar bestaan laten zien dat zij een actieve rol wil en kan spelen. Tot nu toe helaas vaak bij het vaststellen dat participatie en transparantie afwezig waren. Hopelijk in de toekomst in een samenwerkingsmodel.
@@ -46,7 +47,4 @@ content: >-
 
 
   Zodat met de energie, bruikbare kennis en betrokkenheid van de bewoners, als het gaat om hun leefomgeving, gewerkt wordt aan betere resultaten. Hiermee willen wij het energieverlies door verzet en boosheid achteraf, beperken en komen tot keuzes die beter worden begrepen en geaccepteerd.
-
-
-  ![](/uploads/schermafbeelding-2020-11-25-om-14.05.33.png)
 ---
