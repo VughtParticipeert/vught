@@ -22,7 +22,9 @@ content: >-
   Met de omgevingswet in aantocht, waarmee de plicht wordt vastgelegd de inwoners in een zo vroeg mogelijk stadium te betrekken, ruim voor de uitwerking van plannen en het doen van toezeggingen, zal de gemeente een begin moeten maken met het publiceren van alle lopende zaken die nu nog in de achterkamertjes worden besproken.
 
 
-  ###### De kiezer heeft gesproken
+
+
+  ### De kiezer heeft gesproken
 
 
   Analyses van de verkiezingscijfers laten duidelijk zien dat D66 en CDA de absolute winnaars zijn met beiden een flinke zetelwinst van respectievelijk 3 en 2 extra raadszetels. Gemeentebelangen verliezen net als de SP ieder 1 zetel. PvdA-GL heeft ook flink wat stemmenverlies maar behoudt wel de 4 zetels. De VVD heeft een kleine stemmenwinst.
@@ -37,7 +39,9 @@ content: >-
   Verfrissend is het voorstel van Rutger Jans (CDA), gesteund door Fons Potters (D66) dat informateur Bert Pauli niet alleen bij de politieke partijen, maar ook bij bewonersorganisaties te rade zou moeten gaan, om te horen hoe zij denken. Want dát is ook burgerparticipatie. Politieke partijen moeten immers niet alleen met elkaar kunnen samenwerken, maar ook met bewonersorganisaties.
 
 
-  Tenslotte
+
+
+  ### Tenslotte
 
 
   VughtParticipeert heeft in het eerste jaar van haar bestaan laten zien dat zij een actieve rol wil en kan spelen. Tot nu toe helaas vaak bij het vaststellen dat participatie en transparantie afwezig waren. Hopelijk in de toekomst in een samenwerkingsmodel.
