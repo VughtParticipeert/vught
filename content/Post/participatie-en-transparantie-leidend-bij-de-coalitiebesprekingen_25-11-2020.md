@@ -1,6 +1,6 @@
 ---
 title: Participatie en transparantie leidend bij de coalitiebesprekingen
-date: 2019-11-25T12:50:00.000Z
+date: 2020-11-25T20:42:10.668Z
 theme: Participatie en bestuurlijke versterking
 typePost: Publicatie
 group: Politiek debat
