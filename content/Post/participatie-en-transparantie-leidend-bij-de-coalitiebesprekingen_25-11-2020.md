@@ -22,7 +22,7 @@ content: >-
   Met de omgevingswet in aantocht, waarmee de plicht wordt vastgelegd de inwoners in een zo vroeg mogelijk stadium te betrekken, ruim voor de uitwerking van plannen en het doen van toezeggingen, zal de gemeente een begin moeten maken met het publiceren van alle lopende zaken die nu nog in de achterkamertjes worden besproken.
 
 
-  ### De kiezer heeft gesproken
+  ###### De kiezer heeft gesproken
 
 
   Analyses van de verkiezingscijfers laten duidelijk zien dat D66 en CDA de absolute winnaars zijn met beiden een flinke zetelwinst van respectievelijk 3 en 2 extra raadszetels. Gemeentebelangen verliezen net als de SP ieder 1 zetel. PvdA-GL heeft ook flink wat stemmenverlies maar behoudt wel de 4 zetels. De VVD heeft een kleine stemmenwinst.
