@@ -20,7 +20,7 @@ content: >-
   Deze VVA is opgesteld conform alle vigerende voorschriften door de gecertificeerde Ver­keersveilig­heid­auditor Rijkswegennet op verzoek van de Provincie Noord-Brabant. Uit deze rapportage blijkt dat er diverse veiligheidsrisico’s bestaan waarvan een aantal niet zijn meegenomen in de voorstellen. 
 
 
-  De woordvoerder van de gemeente stelde recent in het Brabants Dagblad: 'De weg voldoet aan de eisen op het gebied van verkeersveiligheid.' Deze uitspraak is absoluut onwaar. Niet alleen het onderzoek in opdracht van Stichting Comité N65 naar de risico’s van het invoegen vanaf de Vijverbosweg in de richting Den Bosch is gevaarlijk, nu blijken en nog meer veiligheidsrisico’s te bestaan. 
+  De woordvoerder van de gemeente stelde recent in het Brabants Dagblad: 'De weg voldoet aan de eisen op het gebied van verkeersveiligheid.' Deze uitspraak is absoluut niet waar. Niet alleen het onderzoek in opdracht van Stichting Comité N65 naar de risico’s van het invoegen vanaf de Vijverbosweg in de richting Den Bosch is gevaarlijk, nu blijken en nog meer veiligheidsrisico’s te bestaan. 
 
 
   Wij hebben al eerder moeten vaststellen dat de gemeenteraad en daarmee de inwoners van Vught bij de besluitvorming over de N65 meerdere keren voor de gek zijn gehouden. Werd eerst het MKBA-rapport (Maatschappelijke Kosten-Baten Analyse), met een duidelijk negatief advies, 2 jaar onder tafel gehouden. Vervolgens werd de gemeenteraad gevraagd een besluit te nemen 2 weken voordat de verkeersanalyses lieten zien dat het verkeer in het dorp dramatisch zou toenemen. De derde keer nu blijkt dat de calculatie van de tunnelvariant is gebaseerd op een veel duurder dan noodzakelijke verkeerskundige oplossing.
