@@ -66,7 +66,7 @@ content: >-
   D66 bevestigt dat de rekenkamer een belangrijke taak heeft, in het bijzonder wat betreft de “*kaderstellende en controlerende*” taken. 
 
 
-  D66 heeft tegen een amendement om de rekenkamercommissie samen te stellen uit de fractievoorzitters, gestemd. Het amendement is toch aangenomen met als gevolg dat de rekenkamercommissie bestond uit de fractievoorzitters van GB,VVD en CDA. Doordat de (toenmalige) fractievoorzitters van GB en CDA inmiddels iets anders zijn gaan doen, zit alleen de VVD in de rekenkamercommissie.
+  D66 heeft tegen een amendement gestemd om de rekenkamercommissie samen te stellen uit de fractievoorzitters Het amendement is toch aangenomen met als gevolg dat de rekenkamercommissie bestond uit de fractievoorzitters van GB,VVD en CDA. Doordat de (toenmalige) fractievoorzitters van GB en CDA inmiddels iets anders zijn gaan doen, zit alleen de VVD in de rekenkamercommissie.
 
 
   D66 ziet naast een taak voor een rekenkamer ook “*burgerparticipatie als een mogelijkheid de gemeenteraad te ondersteunen, juist bij de grote projecten die lopen*”.
