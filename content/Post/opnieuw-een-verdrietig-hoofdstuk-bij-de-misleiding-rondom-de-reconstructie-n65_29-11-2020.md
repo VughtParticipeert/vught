@@ -38,7 +38,7 @@ content: >-
   VughtParticipeert is neutraal behalve als het gaat om participatie, transparantie en zuivere besluitvorming. Wij ondersteunen transparantie en participatie en strijden tegen onzuivere besluitvorming. De gang van zaken rondom de N65 is een triest voorbeeld van falende transparantie en onzuivere besluitvorming.
 
 
-  Voor details verwijzen wij naar bijgaand VVA rapport en de responsenota van drs. Cees Wildervank in opdracht van Stichting Comité N65 Ondergronds Helvoirt.
+  Voor details verwijzen wij naar bijgaand VVA rapport en de responsnota van drs. Cees Wildervank in opdracht van Stichting Comité N65 Ondergronds Helvoirt.
 attachment:
   - file:
       attachment: /uploads/19027-audit-vva1-n65-vka-definitief_vdbaan.pdf
