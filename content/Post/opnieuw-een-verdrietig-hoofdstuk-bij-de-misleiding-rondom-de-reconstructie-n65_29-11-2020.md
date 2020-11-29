@@ -11,7 +11,7 @@ content: >-
   tot reconstructie N65 maakt het niet veiliger")
 
 
-  Aan de serie van misleidingen moeten wij helaas nog een hoofdstuk toevoegen, nu blijkt dat de verplichte “Verkeersveiligheid analyse N65”, niet beschikbaar is gesteld aan de gemeenteraad bij hun besluitvorming voor de reconstructie N65 op 14 mei 2020.
+  Aan de serie van misleidingen moeten wij helaas nog een hoofdstuk toevoegen, nu blijkt dat de “Verkeersveiligheid analyse N65”, niet beschikbaar is gesteld aan de gemeenteraad bij hun besluitvorming voor de reconstructie N65 op 14 mei 2020.
 
 
   Een van doelstellingen van de reconstructie N65 is het verbeteren van de verkeersveiligheid. Daarom is het achterhouden van deze veiligheidsanalyse (VVA) onaanvaardbaar.
