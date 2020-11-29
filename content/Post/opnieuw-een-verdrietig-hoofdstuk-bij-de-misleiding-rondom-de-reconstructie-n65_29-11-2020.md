@@ -45,5 +45,5 @@ attachment:
       name: Verkeersveiligheid analyse N65 RWS
   - file:
       attachment: /uploads/201127-responsnota-verkeersveiligheid.pdf
-      name: Analyse van de verkeersveiligheid
+      name: Responsenota verkeersveiligheid
 ---
