@@ -1,7 +1,7 @@
 ---
 title: Gemeente Vught en VughtParticipeert hebben tunnelvisie, open brief aan
   het college
-date: 2020-12-01T09:09:26.225Z
+date: 2020-12-01T09:19:30.230Z
 theme: N65 Duurzaam
 typePost: Publicatie
 group: none
