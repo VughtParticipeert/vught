@@ -1,5 +1,5 @@
 ---
-title: 30 Beroepsprocedures bij Raad van State tegen reconstructie N65
+title: Meer dan 30 Beroepsprocedures bij Raad van State tegen reconstructie N65
 date: 2020-10-10T12:19:00.753Z
 theme: N65 Duurzaam
 typePost: Publicatie
