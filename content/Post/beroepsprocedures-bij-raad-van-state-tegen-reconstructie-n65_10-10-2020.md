@@ -12,7 +12,7 @@ content: >-
   voor doorgaand verkeer?")
 
 
-  30 Beroepsprocedures zijn aangemeld bij de Raad van State. Deze procedures komen van inwoners, bedrijven en belangenorganisaties uit alle delen van onze gemeente. Alhoewel ieder beroep een eigen insteek heeft, zijn er duidelijk gemeenschappelijke beroepsgronden.
+  Meer dan 30 beroepsprocedures zijn aangemeld bij de Raad van State. Deze procedures komen van inwoners, bedrijven en belangenorganisaties uit alle delen van onze gemeente. Alhoewel ieder beroep een eigen insteek heeft, zijn er duidelijk gemeenschappelijke beroepsgronden.
 
 
   De meest genoemde beroepsgrond is die van de verkeersveiligheid. Een groot aantal partijen betwijfelt of de beloofde veiligheid zal ontstaan voor het doorgaand verkeer. Bovendien vinden zij dat deze niet opweegt tegen de overduidelijke toegenomen onveiligheid binnen de bebouwde kom.
