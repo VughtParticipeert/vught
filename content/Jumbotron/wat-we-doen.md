@@ -1,6 +1,6 @@
 ---
-title: Vughts Politiek Debat op 10 november in Theater de Speeldoos
-link: https://www.vughtparticipeert.nl/theme/participatie-en-bestuurlijke-versterking/06c6d1637c11ca1988466061eb26b1d5/#main
+title: Een beter alternatief voor de reconstructie N65 / open brief aan de politiek
+link: https://www.vughtparticipeert.nl/post/een-beter-alternatief-voor-de-reconstructie-n65-open-brief-aan-de-politiek/fec2ca2792da99858cda440977461b4e#main
 index: 2
 image: /uploads/Wat zonder tekst.png
 ---
