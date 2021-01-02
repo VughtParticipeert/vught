@@ -12,7 +12,7 @@ content: >-
   Victory Boogie Woogie tunnel ")
 
 
-  Zoals beloofd hebben Stichting Comité N65 en VughtParticipeert een alternatieve calculatie laten maken voor een tunnel voor doorgaand verkeer. Hieruit blijkt dat het mogelijk is voor hetzelfde budget een tunnel te bouwen in plaats van een halfopen verkeersgoot (zie bijlage).
+  Zoals beloofd hebben VughtParticipeert en Stichting Comité N65 een alternatieve calculatie laten maken voor een tunnel voor doorgaand verkeer. Hieruit blijkt dat het mogelijk is voor hetzelfde budget een tunnel te bouwen in plaats van een halfopen verkeersgoot (zie bijlage).
 
 
   De voordelen van een gesloten eenvoudige tunnel met 2 x 2 rijstroken zijn enorm: géén geluidshinder en luchtvervuiling, scheiding van doorgaand en lokaal verkeer, én niet het minst ook een volledige aansluiting bij de Kennedylaan-Helvoirtseweg, zodat het lokale wegennet niet belast wordt. Aanvullende kosten nodig voor aanpassing van de Helvoirtseweg en andere wegen in woonwijken zijn dus overbodig anders dan het geval is in het VKA+ plan. Deze kosten spaart de gemeente uit. 
