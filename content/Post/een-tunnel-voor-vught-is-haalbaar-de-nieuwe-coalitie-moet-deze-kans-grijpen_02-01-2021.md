@@ -24,7 +24,7 @@ content: >-
   Wat schetst onze verbijstering dat wij dit najaar moesten ontdekken dat er op géén enkele wijze sprake was van een eenvoudige tunnel met 2 x 2 rijstroken. Het ingeschakelde ingenieursbureau heeft namelijk als uitgangspunt genomen dat de beide aansluitingen van Boslaan en Kennedylaan in de tunnel zouden moeten plaatsvinden. Dit uitgangspunt heeft verstrekkende gevolgen. 
 
 
-  De veiligheidswet voor tunnels verbiedt dat een tunnel voorziet in een situatie dat van rijstrook gewisseld moet worden. Het gevolg is dat elke aansluiting haar eigen rijstrook moet houden in de tunnelbuis. Daar het verkeer vanuit Tilburg dan wel Den Bosch ook dient te kunnen afslaan richting Vught, zonder ander verkeer te moeten kruisen, moeten voor dit afslaande verkeer ook aparte rijstroken worden gegenereerd. 
+  De veiligheidswet voor tunnels verbiedt dat een tunnel voorziet in een situatie dat van rijstrook gewisseld moet worden. Het gevolg is dat elke aansluiting haar eigen rijstrook moet houden in de tunnelbuis. Daar het verkeer vanuit Tilburg dan wel Den Bosch ook dient te kunnen afslaan richting Vught, zonder ander verkeer te moeten kruisen, moeten voor dit afslaande verkeer ook aparte rijstroken worden gegenereerd (zie bijlage). 
 
 
   U kunt zich voorstellen dat wij onaangenaam verrast zijn door deze vertekening van de realiteit. Inwoners zijn onvolledig en onjuist geïnformeerd. Het is aan de gemeenteraad en mogelijk de Raad van State, hierover een eigen oordeel te vellen.
@@ -36,9 +36,12 @@ content: >-
   Wij roepen de nieuwe coalitie dan ook op om afstand te nemen van de plannen om de ‘Reconstructie N65’ op basis van de VKA+ variant uit te voeren en met ons nu eindelijk eens op constructieve wijze in overleg te treden voor een duurzame reconstructie. In het belang van alle betrokken partijen en inwoners van Vught. 
 
 
-  PS bijgaande beeld is geleend van de tunnel die op dit moment wordt gebouwd in [Den Haag](https://landschappartners.nl/portfolio/rotterdamsebaan-den-haag/). Tunnels worden inmiddels op vele plaatsen gebouwd, daar waar veel doorgaand verkeer dwars door woonkernen moet. Waarom niet in Vught?
+  PS bijgaand beeld is geleend van de tunnel die op dit moment wordt gebouwd in [Den Haag](https://landschappartners.nl/portfolio/rotterdamsebaan-den-haag/). Tunnels worden inmiddels op vele plaatsen gebouwd, daar waar veel doorgaand verkeer dwars door woonkernen moet. Waarom niet in Vught?
 attachment:
   - file:
       attachment: /uploads/201230-investeringskosten.lunettentunnel-rondweg-helvoirt.vs5.pdf
       name: Volledige calculatie van de tunnel
+  - file:
+      attachment: /uploads/20201201-tunnelontwerpen-met-en-zonder-afritten.pdf
+      name: Misleidende calculatiebasis voor 'eenvoudige' tunnel
 ---
