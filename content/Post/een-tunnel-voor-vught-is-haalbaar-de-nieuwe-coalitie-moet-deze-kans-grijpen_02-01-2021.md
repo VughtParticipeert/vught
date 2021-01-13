@@ -44,4 +44,7 @@ attachment:
   - file:
       attachment: /uploads/20201201-tunnelontwerpen-met-en-zonder-afritten.pdf
       name: Misleidende calculatiebasis voor 'eenvoudige' tunnel
+  - file:
+      name: Brief van de gemeente d.d. 17-12-2020 in reactie op tunnelcalculatie
+      attachment: /uploads/201223-antwoord-gemeente-op-tunnelcalculatie-.pdf
 ---
