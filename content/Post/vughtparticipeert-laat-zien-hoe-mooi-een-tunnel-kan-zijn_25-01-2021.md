@@ -36,4 +36,10 @@ content: >-
 
 
   Maar wij gaan door en zullen de tunnel bij de Raad van State bepleiten. Help ons daarbij en steun ons met uw lidmaatschap en donatie voor verkeersveiligheidsonderzoeken die onze zaak bij de Raad van State versterken.
+
+
+  Samenvattend:
+
+
+  ![](/uploads/n65-samenvatting.png)
 ---
