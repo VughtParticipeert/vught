@@ -24,13 +24,11 @@ content: >-
   Liever hadden wij een geheel verdiept tunnel gehad, maar daarvoor is (nog) geen budget. Maar laat 1 ding duidelijk zijn: ook als gedeeltelijke landtunnel is dit voorstel 100 keer beter dan de verkeersgoot. De ruimte boven N65 is weer van ons.
 
 
-  De voordelen van een gesloten eenvoudige tunnel met 2 x 2 rijstroken zijn enorm: géén geluidshinder en luchtvervuiling, scheiding van doorgaand en lokaal verkeer, én niet het minst ook een volledige aansluiting bij de J.F. Kennedylaan-Helvoirtseweg, zodat het lokale wegennet niet belast wordt. Aanvullende kosten nodig voor aanpassing van de Helvoirtseweg en andere wegen in woonwijken zijn dus overbodig anders dan het geval is in het VKA+ plan. Deze kosten spaart de gemeente uit.\
+  De voordelen van een gesloten eenvoudige tunnel met 2 x 2 rijstroken zijn enorm: géén geluidshinder en luchtvervuiling, scheiding van doorgaand en lokaal verkeer, én niet het minst ook een volledige aansluiting bij de J.F. Kennedylaan-Helvoirtseweg, zodat het lokale wegennet niet belast wordt. Aanvullende kosten nodig voor aanpassing van de Helvoirtseweg en andere wegen in woonwijken zijn dus overbodig anders dan het geval is in het VKA+ plan. Deze kosten spaart de gemeente uit.
 
-  \
 
-  Nu de nieuwe coalitie zich heeft neergelegd bij het oude plan, richten wij ons met inwoners op de Raad van State. 31 Beroepsprocedures laten zien hoeveel onvrede er is onder inwoners en bedrijven. Uit diverse zaken blijkt gebrek aan participatie, misleiding, onbehoorlijk bestuur en kortzichtigheid. De Raad van State zal hierover een beslissing moeten nemen, tot dan is niets zeker.\
+  Nu de nieuwe coalitie zich heeft neergelegd bij het oude plan, richten wij ons met inwoners op de Raad van State. 31 Beroepsprocedures laten zien hoeveel onvrede er is onder inwoners en bedrijven. Uit diverse zaken blijkt gebrek aan participatie, misleiding, onbehoorlijk bestuur en kortzichtigheid. De Raad van State zal hierover een beslissing moeten nemen, tot dan is niets zeker.
 
-  \
 
   Desalniettemin doen Provincie en Rijkswaterstaat alsof de regels van onze samenleving voor hen niet gelden en denderen door met de aanbesteding van dit project. Daarmee intimideren zij onze gemeenteraad en maken zij veel kosten die bij een afwijzing door de Raad van State direct moeten worden afgeschreven.
 
@@ -41,5 +39,5 @@ content: >-
   Samenvattend:
 
 
-  ![](/uploads/n65-samenvatting.png)
+  ![Welke variant vervult de doelstellingen?](/uploads/n65-samenvatting-2.png "Samenvatting van doelstellingen")
 ---
