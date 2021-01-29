@@ -16,6 +16,12 @@ content: >-
 
 
   Via deze [link](https://www.youtube.com/watch?v=1kgZL-oHYpM&t=4722s) kunt u de video-registratie hiervan bekijken. De bijdrage van VughtParticipeert loopt van minuut 22 tot en met 34.
+
+
+  Bij het inspreken is uitvoerig uitgelegd dat de tunnelvariant de beoogde doelstellingen wel bereikt, waarbij het huidige plan daar ernstig tekort schiet. De bijgaande presentatie vertelt het gehele verhaal. De samenvatting ziet er als volgt uit.
+
+
+  ![](/uploads/210128-samenvatting-bereikte-doelen-reconstructie-n65.png)
 attachment:
   - file:
       attachment: /uploads/210128-toekomstvast-n65-lunettentunnel.presentatie.vs04.pdf
