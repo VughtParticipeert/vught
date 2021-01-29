@@ -1,6 +1,6 @@
 ---
-title: VughtParticipeert ligt de tunnelvariant N65 toe in de Commissie Ruimte op
-  28 januari 2021
+title: VughtParticipeert licht de tunnelvariant N65 toe in de Commissie Ruimte
+  op 28 januari 2021
 date: 2021-01-29T14:24:04.107Z
 theme: N65 Duurzaam
 typePost: Publicatie
