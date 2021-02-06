@@ -13,7 +13,7 @@ content: >-
   In aanloop op de behandeling van het burgerinitiatief 'N65 Duurzaam' tijdens de gemeenteraadsvergadering op 14 mei vorig jaar, heeft de wethouder een calculatie laten maken om aan te tonen dat een tunnel onbetaalbaar zou zijn.
 
 
-  Calculaties van neutrale experts laten een onverklaarbaar verschil in de kosten zien, waarbij de calculatie van de wethouder bijna tweemaal zo hoog is. Daarom heeft VughtParticipeert verschillende keren om nadere informatie over de tunnelcalculatie van de wethouder gevraagd. Nadat deze vragen tweemaal niet of ontwijkende werden beantwoord, is besloten een beroep te doen op de wet openbaarheid van bestuur (WOB). Dit verzoek is alsvolgt:
+  Calculaties van neutrale experts laten een onverklaarbaar verschil in de kosten zien, waarbij de calculatie van de wethouder bijna tweemaal zo hoog is. Daarom heeft VughtParticipeert verschillende keren om nadere informatie van de wethouder gevraagd. Nadat deze vragen tweemaal niet of ontwijkend werden beantwoord, is besloten een beroep te doen op de wet openbaarheid van bestuur (WOB). Dit verzoek is alsvolgt:
 
 
   *Geacht college,*
