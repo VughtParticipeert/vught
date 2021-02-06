@@ -81,12 +81,12 @@ content: >-
   Onze vereniging zet zich in voor transparantie, participatie en zuivere besluitvorming. Bij de ‘Reconstructie N65’ zijn wat betreft deze aspecten diverse problemen geïdentificeerd en gepubliceerd. In het bijzonder over schone lucht en fijnstof wordt veel beloofd, worden vele onwaarheden gesproken en diverse wetten overtreden.
 
 
-  VughtParticipeert heeft dit pamflet geschreven om inwoners van de gemeente Vught bewust te maken van de plannen die gemeente, provincie en RWS hebben en de gevolgen voor de leefbaarheid. Tevens is dit pamflet gericht op regionale en nationale bestuurders en politici zodat zij zich realiseren welke verantwoordelijkheid zij dragen bij het gedogen of bestrijden van deze manier van besturen.
+  VughtParticipeert heeft bijgaande oproep geschreven om inwoners van de gemeente Vught bewust te maken van de plannen die gemeente, provincie en RWS hebben en de gevolgen voor de leefbaarheid. Tevens is deze oproep gericht op regionale en nationale bestuurders en politici zodat zij zich realiseren welke verantwoordelijkheid zij dragen bij het gedogen of bestrijden van deze manier van besturen.
 
 
   Help ons hierbij en steun ons met uw lidmaatschap en donatie. Aanmelden kan op onze website [www.VughtParticipeert.nl](http://www.VughtParticipeert.nl), donaties ontvangen wij graag op **NL77 RABO 0348 0459 21 t.n.v. Vereniging VughtParticipeert.**
 attachment:
   - file:
-      name: Pamflet 'Schone lucht' voor bestuurders en politici
-      attachment: /uploads/210202-pamflet-fijnstof-7.pdf
+      attachment: /uploads/210205-oproep-tegen-fijnstof.pdf
+      name: Oproep tegen fijnstof voor bewoners, bestuurders en politici
 ---
