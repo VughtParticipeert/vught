@@ -25,10 +25,10 @@ content: >-
   #### Hoe werken wij?
 
 
-  Wij hebben geen kantoor, werkt iedereen vanuit huis en maken wij veel gebruik van email en telefoon. Onder normale omstandigheden ontmoeten wij op openbare locaties zoals DePetrus of we boeken een vergaderruimte. De laatste maandag van iedere maand hebben wij een informele bijeenkomst om 20:00 h. Dat is het moment om te overleggen, bij te praten en elkaar beter te leren kennen. 
+  Wij hebben geen kantoor,  iedereen werkt vanuit huis en wij maken veel gebruik van email, telefoon en Zoom. Onder normale omstandigheden ontmoeten wij op openbare locaties zoals DePetrus of we boeken een vergaderruimte. De laatste maandag van iedere maand hebben wij een informele bijeenkomst om 20:00 h. Dat is het moment om te overleggen, bij te praten en elkaar beter te leren kennen. 
 
 
-  In verband met de coronacrisis zijn deze mogelijkheden opgeschort.
+  In verband met de coronacrisis zijn een aantal van deze mogelijkheden opgeschort.
 
 
   Doe mee en help onze gemeente nog mooier en beter te maken. Meld je op info@vughtparticipeert.nl of op onze website.
