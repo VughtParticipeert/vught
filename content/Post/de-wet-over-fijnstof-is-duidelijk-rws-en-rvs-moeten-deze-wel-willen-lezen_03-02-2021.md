@@ -87,6 +87,6 @@ content: >-
   Help ons hierbij en steun ons met uw lidmaatschap en donatie. Aanmelden kan op onze website [www.VughtParticipeert.nl](http://www.VughtParticipeert.nl), donaties ontvangen wij graag op **NL77 RABO 0348 0459 21 t.n.v. Vereniging VughtParticipeert.**
 attachment:
   - file:
-      attachment: /uploads/210205-oproep-tegen-fijnstof.pdf
-      name: Oproep tegen fijnstof voor bewoners, bestuurders en politici
+      name: Oproep tegen fijnstof aan inwoners, bestuurders en polici
+      attachment: /uploads/210205-oproep-tegen-fijnstof-aan-inwoners-bestuurders-en-politici.pdf
 ---
