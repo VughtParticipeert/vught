@@ -38,7 +38,7 @@ content: >-
   In tegenstelling tot de doelstelling van de reconstructie levert dit plan geen duurzame oplossing, niet voor de leefbaarheid van de inwoners van Vught maar ook niet voor Provincie en RWS, die voor eeuwig met een flessenhals ter hoogte van Vught moeten leren leven. En dat terwijl duurzaamheid een van de doelstellingen was.
 
 
-  ### Naleven van bestaande wetgeving
+  ### Niet naleven van bestaande wetgeving
 
 
   Europese en Nederlandse wetgeving over fijnstof worden willens en wetens genegeerd. Dit geldt niet alleen bij de reconstructie van de N65, maar is een staande praktijk bij RWS. Hiermee begint deze misstand een bestuurlijke dwaling te worden vergelijkbaar met de stikstof en kinderopvangtoeslag affaires. Ook hier hebben instanties lange tijd consequent wetgeving omzeild, gesanctioneerd door instanties die namens de burger zouden moeten waken voor de correcte naleving van de wetten.
