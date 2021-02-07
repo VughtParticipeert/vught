@@ -38,7 +38,7 @@ content: >-
   In tegenstelling tot de doelstelling van de reconstructie levert dit plan geen duurzame oplossing, niet voor de leefbaarheid van de inwoners van Vught maar ook niet voor Provincie en RWS, die voor eeuwig met een flessenhals ter hoogte van Vught moeten leren leven. En dat terwijl duurzaamheid een van de doelstellingen was.
 
 
-  ### Naleven van bestaande wetgeving
+  ### Niet naleven van bestaande wetgeving
 
 
   Europese en Nederlandse wetgeving over fijnstof worden willens en wetens genegeerd. Dit geldt niet alleen bij de reconstructie van de N65, maar is een staande praktijk bij RWS. Hiermee begint deze misstand een bestuurlijke dwaling te worden vergelijkbaar met de stikstof en kinderopvangtoeslag affaires. Ook hier hebben instanties lange tijd consequent wetgeving omzeild, gesanctioneerd door instanties die namens de burger zouden moeten waken voor de correcte naleving van de wetten.
@@ -53,7 +53,7 @@ content: >-
   Al deze zaken zijn pijnlijk nauwkeurig gedocumenteerd en aan de Raad van State voorgelegd. Op hun oordeel zouden wij kunnen wachten. Het is nu aan u als bestuurder, politicus en rechter om uw bestuurlijke verantwoordelijk te nemen en niet langer weg te kijken en te gedogen en zo mogelijk nog voor de zitting van de RvS aan de noodrem te trekken. Voor details over het gedoogde [overtreden](https://www.vughtparticipeert.nl/post/de-wet-over-fijnstof-is-duidelijk-rws-en-rv-s-moeten-deze-wel-willen-lezen/c9a8100a6b31a74c67e1815971e01718#main) van de fijnstof wetgeving, [onzuivere](https://www.vughtparticipeert.nl/post/gemeente-vught-en-vught-participeert-hebben-tunnelvisie-open-brief-aan-de-gemeenteraad/6ff8208266465999a74ded0c7e60d3f1#main) besluitvorming en alternatief in de vorm van een [tunnel](https://www.vughtparticipeert.nl/post/vught-participeert-laat-zien-hoe-mooi-een-tunnel-kan-zijn/7e3bf15a24d0d047454ba2579d594eeb#main), verwijzen wij naar de bijlage en onze [website](https://www.vughtparticipeert.nl/).
 
 
-  Het is voor bestuurders en politici veel geloofwaardiger en duurzamer om moed te tonen, ook 5 minuten voor 12, en een ontspoorde besluitvorming te heroverwegen en deze bestuurlijke dwaling te stoppen. De toekomst zal uw moed belonen want eerlijk duurt het langst.
+  Het is voor bestuurders en politici veel geloofwaardiger en duurzamer om moed te tonen, ook 5 minuten voor 12, een ontspoorde besluitvorming te heroverwegen en deze bestuurlijke dwaling te stoppen. De toekomst zal uw moed belonen want eerlijk duurt het langst.
 
 
   ### Vereniging VughtParticipeert
