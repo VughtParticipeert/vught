@@ -29,11 +29,11 @@ content: >-
   ### Aanmelden voor de nieuwsbrief
 
 
-  Ook zijn de leden verzocht zich [aan te melden](https://www.vughtparticipeert.nl/newsletter#main) voor de nieuwsbrief. De nieuws brief is ook voor niet leden en kent inmiddels een grote groep ontvangers met zowel bewoners als bestuurders en politici.
+  Ook zijn de leden verzocht zich [aan te melden](https://www.vughtparticipeert.nl/newsletter#main) voor de nieuwsbrief. De nieuwsbrief is ook voor niet leden en kent inmiddels een grote groep ontvangers met zowel inwoners als bestuurders en politici.
 
 
   ### Uitnodiging van het gemeentebestuur
 
 
-  VughtParticipeert heeft de uitnodiging van het gemeentebestuur voor een eerste kennismaking met plezier aangenomen. Deze kennismaking vindt plaats als onderdeel van de eerste 100 dagen orientatie van de nieuwe coalitie. VughtParticipeert zal tijdens deze bijeenkomst haar kernwaarden inbrengen: transparantie, participatie en zuivere besluitvorming. Het coalitieakkoord wekt wat deze aspecten betreft hoge verwachtingen. Wij zullen u op de hoogte houden van de ontwikkelingen.
+  VughtParticipeert heeft de uitnodiging van het gemeentebestuur voor een eerste kennismaking met plezier aangenomen. Deze kennismaking vindt plaats als onderdeel van de eerste 100 dagen oriëntatie van de nieuwe coalitie. VughtParticipeert zal tijdens deze bijeenkomst haar kernwaarden inbrengen: transparantie, participatie en zuivere besluitvorming. Het coalitieakkoord wekt wat deze aspecten betreft hoge verwachtingen. Wij zullen u op de hoogte houden van de ontwikkelingen.
 ---
