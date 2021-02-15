@@ -17,7 +17,7 @@ content: >-
   Na iets meer dan 1 jaar sinds de geboorte eind 2019, heeft VughtParticipeert haar eerste Algemene Ledenvergadering (ALV) gehouden. De ALV vond plaats via Zoom als gevolg van de beperkingen door het coronavirus.
 
 
-  Tijdens de ALV zijn 2 nieuwe bestuursleden benoemd: Nelly Theunissen-Zwartjes en Frans Bos. Nelly wordt de nieuwe secretaris en Frans penningmeester. In verband met het vertrek van Maaike Dautzenberg, wordt Philip Helmer de nieuwe voorzitter. Maaike Dautzenberg heeft te kennen gegeven na een vliegende en succesvolle start van de vereniging zich weer op haar professionele carrière te willen concentreren. 
+  Tijdens de ALV zijn 2 nieuwe bestuursleden benoemd: Nelly Theunissen-Zwartjes en Frans Bos. Nelly wordt de nieuwe secretaris en Frans penningmeester. In verband met het vertrek van Maaike Dautzenberg, wordt Philip Helmer de nieuwe voorzitter. 
 
 
   ### Lid brengt lid
