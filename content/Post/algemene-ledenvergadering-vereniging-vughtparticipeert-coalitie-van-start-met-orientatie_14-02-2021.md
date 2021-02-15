@@ -29,7 +29,7 @@ content: >-
   ### Aanmelden voor de nieuwsbrief
 
 
-  Ook zijn de leden verzocht zich [aan te melden](https://www.vughtparticipeert.nl/newsletter#main) voor de nieuwsbrief. De nieuws brief is ook voor niet leden en kent inmiddels een grote groep ontvangers met zowel bewoners als bestuurders en politici.
+  Ook zijn de leden verzocht zich [aan te melden](https://www.vughtparticipeert.nl/newsletter#main) voor de nieuwsbrief. De nieuwsbrief is ook voor niet leden en kent inmiddels een grote groep ontvangers met zowel bewoners als bestuurders en politici.
 
 
   ### Uitnodiging van het gemeentebestuur
