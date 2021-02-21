@@ -9,8 +9,8 @@ answered: false
 content: >-
   Op 20 februari was VughtParticipeert te gast bij Avulo TV. Nelly Theunissen en
   Philip Helmer gaven hun zienswijze op de ontwikkelingen tijdens en na de
-  gemeenteraadsverkiezingen en het nieuwe coalitieakkoord. Ook lopende zaken als
-  de reconstructie van de N65 kwamen aan de orde.
+  gemeenteraadsverkiezingen en het nieuwe coalitieakkoord. Ook lopende zaken
+  zoals de reconstructie van de N65 kwamen aan de orde.
 
 
   \
