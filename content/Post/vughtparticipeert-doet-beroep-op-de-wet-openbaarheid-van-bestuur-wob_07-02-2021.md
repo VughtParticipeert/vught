@@ -1,6 +1,6 @@
 ---
 title: VughtParticipeert doet beroep op de Wet Openbaarheid van Bestuur (WOB)
-date: 2021-02-07T20:32:59.179Z
+date: 2021-02-21T13:56:22.480Z
 theme: N65 Duurzaam
 typePost: Publicatie
 group: N65 MKBA
