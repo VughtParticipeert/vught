@@ -1,6 +1,6 @@
 ---
 title: VughtParticipeert geeft interview voor Avulo TV over het coalitieakkoord
-date: 2021-02-21T14:12:13.749Z
+date: 2021-02-21T14:54:29.538Z
 theme: VughtParticipeert in de media
 typePost: Publicatie
 group: Interne Organisatie
