@@ -1,5 +1,5 @@
 ---
-title: "# VughtParticipeert geeft interview voor Avulo TV over het coalitieakkoord"
+title: VughtParticipeert geeft interview voor Avulo TV over het coalitieakkoord
 date: 2021-02-21T14:12:13.749Z
 theme: VughtParticipeert in de media
 typePost: Publicatie
