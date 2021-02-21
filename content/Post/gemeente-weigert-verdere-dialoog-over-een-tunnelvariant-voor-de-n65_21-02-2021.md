@@ -1,6 +1,6 @@
 ---
 title: Gemeente weigert verdere dialoog over een tunnelvariant voor de N65
-date: 2021-02-21T14:16:33.667Z
+date: 2021-02-21T14:45:00.000Z
 theme: N65 Duurzaam
 typePost: Publicatie
 group: N65 MKBA
