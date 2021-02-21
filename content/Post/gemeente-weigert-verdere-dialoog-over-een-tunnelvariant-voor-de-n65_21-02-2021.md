@@ -11,7 +11,8 @@ content: >-
   gemeente de tunnelvariant in een constructieve dialoog te vergelijken met de
   halfopen verkeersgoot. Helaas heeft de gemeente deze uitnodiging opnieuw
   afgewezen en laat daarmee zien dat zij niet wenst te kijken naar een variant
-  die het belang van de inwoners dient, naast het belang van Rijkswaterstaat.
+  die het belang van de inwoners dient, niet alleen het belang van
+  Rijkswaterstaat.
 
 
   Ook geeft de gemeente geen inhoudelijke reactie op onze vragen en verwijst naar enkele onvolkomenheden in de calculatie van de Lunettentunnel. In een contructieve dialoog hadden wij deze onvolkomenheden kunnen kwantificeren en vergelijken met de voordelen van de tunnelvariant wat betreft leefbaarheid en gezondheidswinst tegenover de calculatie van de gemeente waarin verzuimd is de kosten voor het aanpassen van het onderliggend wegennet en de kosten die gemaakt worden voor de N65 als onderdeel van project PHS (Programma Hoogfrequent Spoor) te betrekken.
