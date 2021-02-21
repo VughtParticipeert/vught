@@ -7,7 +7,7 @@ group: N65 MKBA
 status: "1"
 answered: false
 content: >-
-  Op 27 januari heeft VughtParticipeert opnieuw de hand uitgestoken om met de
+  Op 28 januari heeft VughtParticipeert opnieuw de hand uitgestoken om met de
   gemeente de tunnelvariant in een constructieve dialoog te vergelijken met de
   halfopen verkeersgoot. Helaas heeft de gemeente deze uitnodiging opnieuw
   afgewezen en laat daarmee zien dat zij niet wenst te kijken naar een variant
@@ -15,7 +15,10 @@ content: >-
   Rijkswaterstaat.
 
 
-  Ook geeft de gemeente geen inhoudelijke reactie op onze vragen en verwijst naar enkele onvolkomenheden in de calculatie van de Lunettentunnel. In een contructieve dialoog hadden wij deze onvolkomenheden kunnen kwantificeren en vergelijken met de voordelen van de tunnelvariant wat betreft leefbaarheid en gezondheidswinst tegenover de calculatie van de gemeente waarin verzuimd is de kosten voor het aanpassen van het onderliggend wegennet en de kosten die gemaakt worden voor de N65 als onderdeel van project PHS (Programma Hoogfrequent Spoor) te betrekken.
+  Ook geeft de gemeente geen inhoudelijke reactie op onze vragen en verwijst naar enkele verschilpunten in de calculatie van de Lunettentunnel. In een constructieve dialoog hadden wij deze verschilpunten kunnen kwantificeren en vergelijken met de voordelen van de tunnelvariant wat betreft leefbaarheid en gezondheidswinst. Dat had een volledige vergelijking opgeleverd met de calculatie van de gemeente, waarin verzuimd is de kosten voor het aanpassen van het onderliggend wegennet en de kosten die gemaakt worden voor de N65 als onderdeel van project PHS (Programma Hoogfrequent Spoor) te betrekken. 
+
+
+  Ook hier houdt de gemeenten vast aan haar selectieve waarheid.
 attachment:
   - file:
       name: Antwoord van de gemeente op verzoek tot verdere dialoog
