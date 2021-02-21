@@ -13,7 +13,5 @@ content: >-
   zoals de reconstructie van de N65 kwamen aan de orde.
 
 
-  \
-
   [Zie interview ...](https://www.youtube.com/watch?v=weuJ5mjcX2c)
 ---
