@@ -11,7 +11,7 @@ content: >-
   inzage in de tunnelcalculatie")
 
 
-  VughtParticipeert heeft een sterk vermoeden dat de calculatie van wethouder van Woesik voor het realiseren van een tunnel ter waarde van €412 miljoen, veel te hoog is. Mogelijk was deze calculatie bedoeld om de gemeenteraad te beinvloeden bij de behandeling van het burgerinitiatief op 14 mei 2020. Het burgerinitatief had als doel een tunnelvariant voor de N65 te laten onderzoeken. Deze buitensporig hoge calculaite heeft de gemeenteraad beinvloed waardoor het verzoek werd afgewezen.  Inmiddels hebben andere calculaties laten zien dat een tunnel kan worden gerealiseerd voor minder dan de helft van dat bedrag. Vandaar bijgaand WOB-verzoek:
+  VughtParticipeert heeft een sterk vermoeden dat de [calculatie van wethouder van Woesik](https://www.vughtparticipeert.nl/post/prijscalculatie-van-woesik-voor-tunnelvariant-was-veel-te-hoog/08c64e4987f4111b7f67154a5f67620d#main) voor het realiseren van een tunnel ter waarde van €412 miljoen, veel te hoog is. Mogelijk was deze calculatie bedoeld om de gemeenteraad te beinvloeden bij de behandeling van het burgerinitiatief op 14 mei 2020. Het burgerinitiatief had als doel een tunnelvariant voor de N65 te laten onderzoeken. Deze buitensporig hoge calculaite heeft de gemeenteraad beinvloed waardoor het verzoek werd afgewezen.  Inmiddels hebben andere calculaties laten zien dat een tunnel kan worden gerealiseerd voor minder dan de helft van dat bedrag. Vandaar bijgaand WOB-verzoek:
 
 
   Geacht college,
