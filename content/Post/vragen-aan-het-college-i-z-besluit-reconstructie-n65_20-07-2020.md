@@ -4,8 +4,8 @@ date: 2020-07-20T08:20:56.924Z
 theme: N65 Duurzaam
 typePost: Vraag
 group: Verkeer
-status: 1
-answered: false
+status: "4"
+answered: true
 content: >-
   ![N65 doelstellingen](/uploads/n65-doelstellingen.png "Doelstellingen aan de
   basis van de reconstructie N65")
