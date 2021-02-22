@@ -1,5 +1,5 @@
 ---
-title: Brief aan het college met vragen over 'Wonen in Vught'
+title: Vraag aan het college over 'Wonen in Vught'
 date: 2020-09-07T08:14:54.812Z
 theme: Wonen
 typePost: Vraag
