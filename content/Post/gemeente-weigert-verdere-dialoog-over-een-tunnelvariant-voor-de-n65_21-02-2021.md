@@ -2,10 +2,10 @@
 title: Gemeente weigert verdere dialoog over een tunnelvariant voor de N65
 date: 2021-02-21T14:45:00.000Z
 theme: N65 Duurzaam
-typePost: Publicatie
+typePost: Antwoord
 group: N65 MKBA
 status: "1"
-answered: false
+answered: true
 content: >-
   Op 28 januari heeft VughtParticipeert opnieuw de hand uitgestoken om met de
   gemeente de tunnelvariant in een constructieve dialoog te vergelijken met de
