@@ -1,5 +1,5 @@
 ---
-title: Waarom heeft de gemeente Vught geen rekenkamer?
+title: "Antwoord: Waarom heeft de gemeente Vught geen rekenkamer?"
 date: 2020-11-10T16:09:14.599Z
 theme: Financien
 typePost: Antwoord
