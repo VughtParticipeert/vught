@@ -4,7 +4,7 @@ date: 2020-02-01T13:59:52.361Z
 theme: Financien
 typePost: Vraag
 group: Financien 2020-1
-status: "2"
+status: "1"
 answered: true
 content: >-
   Onderstaande vragen zijn voorgelegd aan de 6 politieke partijen in de
