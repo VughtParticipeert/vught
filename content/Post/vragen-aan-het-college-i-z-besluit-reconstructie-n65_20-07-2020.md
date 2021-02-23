@@ -4,7 +4,7 @@ date: 2020-07-20T08:20:56.924Z
 theme: N65 Duurzaam
 typePost: Vraag
 group: Verkeer
-status: "4"
+status: "1"
 answered: false
 content: >-
   ![N65 doelstellingen](/uploads/n65-doelstellingen.png "Doelstellingen aan de
