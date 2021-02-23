@@ -1,5 +1,6 @@
 ---
-title: Waarom is de MKBA N65 niet tijdig aan de gemeenteraad ter beschikking gesteld?
+title: "Vraag: Waarom is de MKBA N65 niet tijdig aan de gemeenteraad ter
+  beschikking gesteld?"
 date: 2019-11-17T22:10:00.000Z
 theme: Verkeersveiligheid
 typePost: Vraag
