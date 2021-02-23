@@ -4,7 +4,7 @@ date: 2019-11-25T22:00:00.000Z
 theme: Financien
 typePost: Vraag
 group: Rekenkamer
-status: "2"
+status: "1"
 answered: true
 content: >-
   ![](/uploads/schermafdruk-2019-11-25-23.03.12.png "Rekenkamer")
