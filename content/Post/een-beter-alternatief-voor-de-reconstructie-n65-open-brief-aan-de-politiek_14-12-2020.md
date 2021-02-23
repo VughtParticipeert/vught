@@ -2,10 +2,10 @@
 title: Een beter alternatief voor de reconstructie N65 / open brief aan de politiek
 date: 2020-12-14T08:13:50.244Z
 theme: N65 Duurzaam
-typePost: Vraag
+typePost: Publicatie
 group: N65 MKBA
 status: 1
-answered: true
+answered: false
 content: >-
   ![Lunettentunnel voor de N65 bij Vught](/uploads/lunettentunnel.png
   "Lunettentunnel voor de N65 bij Vught")
