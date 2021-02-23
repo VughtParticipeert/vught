@@ -5,7 +5,7 @@ date: 2020-01-02T07:15:01.998Z
 theme: N65 Duurzaam
 typePost: Antwoord
 group: N65 MKBA
-status: 4
+status: "4"
 answered: false
 content: >-
   Geacht College van de gemeente Vught, 
