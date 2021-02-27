@@ -26,5 +26,5 @@ content: >-
   Op dit moment lopen er 31 beroepsprocedures  bij de Raad van State tegen het plan voor de verkeersgoot. Recentelijk heeft de provincie zelf moeten vaststellen dat haar berekeningen wat betreft stikstof niet kloppen en moeten worden overgedaan. Het is dus allerminst zeker dat het plan van de gemeente bij de aanstaande beroepsprocedures zal worden goedgekeurd.
 
 
-  Dus nu is het moment om uw stem te laten horen door deze [petitie](https://www.vughtparticipeert.nl/post/vught-participeert-laat-zien-hoe-mooi-een-tunnel-kan-zijn/7e3bf15a24d0d047454ba2579d594eeb) van 17 bezorgde ouders in Vught te ondertekenen. Onderteken en stuur de link naar de petitie door naar uw familie en vrienden. Alle inwoners van de gemeente Vught worden meegeteld, 1 per adres.
+  Dus nu is het moment om uw stem te laten horen door deze [petitie](https://www.vughtparticipeert.nl/post/burgeroproep-tot-het-tekenen-van-petitie-tunnel-n65-vught-moet-onderzocht-worden/32a6c599e2b32520d833fc70e30bc988#main) van 17 bezorgde ouders in Vught te ondertekenen. Onderteken en stuur de link naar de petitie door naar uw familie en vrienden. Alle inwoners van de gemeente Vught worden meegeteld, 1 per adres.
 ---
