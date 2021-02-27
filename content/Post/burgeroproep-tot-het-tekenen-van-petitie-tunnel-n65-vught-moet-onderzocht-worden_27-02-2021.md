@@ -1,15 +1,17 @@
 ---
-title: "Burgeroproep tot het tekenen van petitie: Tunnel N65 Vught moet
+title: "Burgeroproep tot het tekenen van petitie:      Tunnel N65 Vught moet
   onderzocht worden"
 date: 2021-02-27T10:29:24.407Z
 theme: N65 Duurzaam
 typePost: Publicatie
-group: none
+group: N65 MKBA
 status: 1
 answered: false
 content: >-
-  Deze [oproep tot het ondertekenen](https://doodle.com/poll/7t2657m53p9zfyc8)
-  van de petitie bevelen wij van harte aan.
+  ![](/uploads/petitie-n65-vught-moet-onderzocht-worden.png)
+
+
+  Deze [oproep tot het ondertekenen](https://doodle.com/poll/7t2657m53p9zfyc8) van de petitie bevelen wij van harte aan.
 
 
   Vorige jaar organiseerde VughtParticipeert een [burgerinitiatief](https://www.vughtparticipeert.nl/post/coalitie-gaat-met-zijn-rug-naar-de-tunnel-staan/b543072ba9179a59a86d4b274a9ab8ed) om de gemeenteraad te overtuigen om de mogelijkheid van een tunnel te onderzoeken voor de reconstructie van de N65. De oude coalitie wees dit verzoek af en volhardde in het plan voor een verkeersgoot.
@@ -24,8 +26,5 @@ content: >-
   Op dit moment lopen er 31 beroepsprocedures  bij de Raad van State tegen het plan voor de verkeersgoot. Recentelijk heeft de provincie zelf moeten vaststellen dat haar berekeningen wat betreft stikstof niet kloppen en moeten worden overgedaan. Het is dus allerminst zeker dat het plan van de gemeente bij de aanstaande beroepsprocedures zal worden goedgekeurd.
 
 
-  Dus nu is het moment om uw stem te laten horen door deze petitie van 17 bezorgde ouders in Vught te ondertekenen:
-
-
-  ![](/uploads/petitie-n65-vught-moet-onderzocht-worden.png)
+  Dus nu is het moment om uw stem te laten horen door deze [petitie](https://www.vughtparticipeert.nl/post/vught-participeert-laat-zien-hoe-mooi-een-tunnel-kan-zijn/7e3bf15a24d0d047454ba2579d594eeb) van 17 bezorgde ouders in Vught te ondertekenen:
 ---
