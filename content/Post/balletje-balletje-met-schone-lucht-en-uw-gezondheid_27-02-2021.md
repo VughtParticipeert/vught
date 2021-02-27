@@ -25,8 +25,8 @@ content: >-
   Enkele van deze partijen hebben zelfs geëist dat de werkzaamheden aan dit project moeten worden stilgelegd omdat dit project wetten en regels overtreedt en haar doelen niet gaat bereiken. Volgende week dienen de eerste voorlopige voorzieningen.
 
 
-  Overigens is het zo dat als een voorlopige voorziening is aangevraagd de werkzaamheden moeten worden stilgelegd, totdat de zaak is voorgekomen en een ooordeel in geveld. Stoïcijns zijn echter gemeente, provincie en Rijkswaterstaat doorgegaan, waarbij zelfs de aanbesteding al in een vergevorderd stadium is. Hoe is het mogelijk dat wij in een land als Nederland, met een goede bestuurlijke organisatie, telkens worden geconfronteerd met dit gedrag van de overheid. 
+  Overigens is het zo dat als een voorlopige voorziening is aangevraagd de werkzaamheden moeten worden stilgelegd, totdat de zaak is voorgekomen en een ooordeel is geveld. Stoïcijns zijn echter gemeente, provincie en Rijkswaterstaat doorgegaan, waarbij zelfs de aanbesteding al in een vergevorderd stadium is. Hoe is het mogelijk dat wij in een land als Nederland, met een goede bestuurlijke organisatie, telkens worden geconfronteerd met dit gedrag van de overheid. 
 
 
-  En als straks de Raad van State dit plan vernietigt, zullen gemeente, provincie en Rijkswaterstaat moord en brand schreeuwen, want er zijn al zoveel kosten gemaakt. Ja, van u en mijn belastinggeld.
+  En als straks de Raad van State dit plan vernietigt, zullen gemeente, provincie en Rijkswaterstaat moord en brand schreeuwen, want er zijn al zoveel kosten gemaakt. Ja, van uw en mijn belastinggeld.
 ---
