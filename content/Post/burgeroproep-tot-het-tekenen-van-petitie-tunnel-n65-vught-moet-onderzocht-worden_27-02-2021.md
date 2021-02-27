@@ -11,7 +11,7 @@ content: >-
   ![](/uploads/petitie-n65-vught-moet-onderzocht-worden.png)
 
 
-  Deze [oproep tot het ondertekenen](https://doodle.com/poll/7t2657m53p9zfyc8) van de petitie bevelen wij van harte aan.
+  17 Bezorgde ouders uit Vught met jonge kinderen hebben het initiatief genomen voor een petitie. Deze [oproep tot het ondertekenen](https://doodle.com/poll/7t2657m53p9zfyc8) daarvan bevelen wij van harte aan.
 
 
   Vorige jaar organiseerde VughtParticipeert een [burgerinitiatief](https://www.vughtparticipeert.nl/post/coalitie-gaat-met-zijn-rug-naar-de-tunnel-staan/b543072ba9179a59a86d4b274a9ab8ed) om de gemeenteraad te overtuigen om de mogelijkheid van een tunnel te onderzoeken voor de reconstructie van de N65. De oude coalitie wees dit verzoek af en volhardde in het plan voor een verkeersgoot.
