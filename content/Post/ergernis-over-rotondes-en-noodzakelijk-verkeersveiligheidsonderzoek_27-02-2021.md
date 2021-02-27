@@ -7,7 +7,7 @@ group: N65 MKBA
 status: 1
 answered: false
 content: >-
-  ![](/uploads/bd-ergernis-over-wildgroei-aan-rotondes.png)
+  ![](/uploads/bd-ergernis-over-wildgroei-aan-rotondes-2.png)
 
 
   In het Brabants Dagblad lazen wij over de [ergernis](https://www.bd.nl/auto/ergernis-over-wildgroei-aan-rotondes-hoe-heeft-iemand-dit-kunnen-bedenken~a1fb27bd/) van rotondes. In Vught kunnen wij daarover meepraten en over de files bij Hotel van der Valk is de discussie nog zeker niet ten einde. Daar worden mogelijk fly-overs voor fietsers gebouwd, voor hun veiligheid maar vooral om het verkeer beter te laten doorstromen.
