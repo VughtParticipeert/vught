@@ -10,7 +10,7 @@ content: >-
   ![](/uploads/bd-ergernis-over-wildgroei-aan-rotondes.png)
 
 
-  In het Brabants Dagblad lazen wij over de [ergernis](https://www.bd.nl/auto/ergernis-over-wildgroei-aan-rotondes-hoe-heeft-iemand-dit-kunnen-bedenken~a1fb27bd/) van rotondos. In Vught kunnen wij daarover meepraten en over de files bij Hotel van der Valk is de discussie nog zeker niet ten einde. Daar worden mogelijk fly-overs voor fietsers gebouwd, voor hun veiligheid maar vooral om het verkeer beter te laten doorstromen.
+  In het Brabants Dagblad lazen wij over de [ergernis](https://www.bd.nl/auto/ergernis-over-wildgroei-aan-rotondes-hoe-heeft-iemand-dit-kunnen-bedenken~a1fb27bd/) van rotondes. In Vught kunnen wij daarover meepraten en over de files bij Hotel van der Valk is de discussie nog zeker niet ten einde. Daar worden mogelijk fly-overs voor fietsers gebouwd, voor hun veiligheid maar vooral om het verkeer beter te laten doorstromen.
 
 
   De reconstructie van de N65 gaat ons met nog twee van dit soort hoofdpijndossiers verrijken. Zowel bij de Vijverbosweg-Boslaan als bij de Helvoirtseweg-JF Kennedylaan komen ovondes waar dorpsverkeer en fietsers met voorrang worden gecombineerd met op- en afritten van de N65. Een zeer gevaarlijke oplossing waarbij toekomstige teleurstellingen zoals bij Hotel van der Valk niet kunnen worden opgelost met fly-overs. 
