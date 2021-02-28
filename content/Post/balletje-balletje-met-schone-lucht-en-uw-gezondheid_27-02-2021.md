@@ -10,10 +10,10 @@ content: >-
   ![](/uploads/brabant-tekent-het-schone-lucht-akkoord.png)
 
 
-  Hartverwarmend als wij lezen dat de provincie Brabant, en binnenkort ook de gemeente Vught, het [schone lucht akkoord](https://www.brabant.nl/actueel/nieuws/milieu/2020/het-schone-lucht-akkoord) heeft getekend. In 2030, dat is al in 9 jaar, 50% gezondheidswinst. Dan hebben zij zeker het plan voor de reconstructie van de N65 over het hoofd gezien.
+  Hartverwarmend als wij lezen dat de provincie Brabant, en binnenkort ook de gemeente Vught, het [schone lucht akkoord](https://www.brabant.nl/actueel/nieuws/milieu/2020/het-schone-lucht-akkoord) heeft getekend. In 2030, dat is al over 9 jaar, 50% gezondheidswinst. Dan hebben zij zeker het plan voor de reconstructie van de N65 over het hoofd gezien.
 
 
-  Voor wie het nog niet wist: de N65 wordt gereconstrueerd om vele doelen te bereiken, zoals verbetering van de luchtkwaliteit, maar blijft een open verkeersgoot die door het wegnemen van de stoplichten duizenden voertuigen per dag extra door ons dorp zal loodsen. Zo veel meer dat de provincie haar stikstofcalculatie moet overdoen omdat met deze groei geen rekening was gehouden.
+  Voor wie het nog niet wist: de N65 wordt gereconstrueerd om vele doelen te bereiken, zoals verbetering van de luchtkwaliteit, maar blijft een open verkeersgoot die door het wegnemen van de stoplichten in Helvoirt en Vught duizenden voertuigen per dag extra door onze dorpen zal loodsen. Zo veel meer dat de provincie haar stikstofcalculatie moet overdoen omdat met deze groei geen rekening was gehouden.
 
 
   Dus met de rechterhand tovert de overheid een prachtig schone lucht akkoord uit de hoge hoed zodat u niet let op de linkerhand waarmee de reconstructie van N65 wordt doorgedrukt.
@@ -25,7 +25,7 @@ content: >-
   Enkele van deze partijen hebben zelfs geëist dat de werkzaamheden aan dit project moeten worden stilgelegd omdat dit project wetten en regels overtreedt en haar doelen niet gaat bereiken. Volgende week dienen de eerste voorlopige voorzieningen.
 
 
-  Overigens is het zo dat als een voorlopige voorziening is aangevraagd de werkzaamheden moeten worden stilgelegd, totdat de zaak is voorgekomen en een ooordeel is geveld. Stoïcijns zijn echter gemeente, provincie en Rijkswaterstaat doorgegaan, waarbij zelfs de aanbesteding al in een vergevorderd stadium is. Hoe is het mogelijk dat wij in een land als Nederland, met een goede bestuurlijke organisatie, telkens worden geconfronteerd met dit gedrag van de overheid. 
+  Overigens is het zo dat als een voorlopige voorziening is aangevraagd de werkzaamheden moeten worden stilgelegd, totdat de zaak is voorgekomen en een oordeel is geveld. Stoïcijns zijn echter gemeente, provincie en Rijkswaterstaat doorgegaan, waarbij zelfs de aanbesteding al in een vergevorderd stadium is. Hoe is het mogelijk dat wij in een land als Nederland, met een goede bestuurlijke organisatie, telkens worden geconfronteerd met dit gedrag van de overheid. 
 
 
   En als straks de Raad van State dit plan vernietigt, zullen gemeente, provincie en Rijkswaterstaat moord en brand schreeuwen, want er zijn al zoveel kosten gemaakt. Ja, van uw en mijn belastinggeld.
