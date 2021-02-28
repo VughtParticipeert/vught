@@ -28,5 +28,5 @@ content: >-
   Stoïcijns zijn echter gemeente, provincie en Rijkswaterstaat doorgegaan, waarbij zelfs de aanbesteding al in een vergevorderd stadium is. Hoe is het mogelijk dat wij in een land als Nederland, met een goede bestuurlijke organisatie, telkens worden geconfronteerd met dit gedrag van de overheid. 
 
 
-  En als straks de Raad van State dit plan vernietigt, zullen gemeente, provincie en Rijkswaterstaat moord en brand schreeuwen, want er zijn al zoveel kosten gemaakt. Ja, van uw en mijn belastinggeld.
+  En als straks de Raad van State dit plan vernietigt, zullen gemeente, provincie en Rijkswaterstaat moord en brand schreeuwen, want er zijn al zoveel kosten gemaakt. Ja, van uw en ons belastinggeld.
 ---
