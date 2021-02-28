@@ -19,7 +19,7 @@ content: >-
   Deze problemen zijn er dan voor altijd, zodat de wens om door de reconstructie van de N65 de verkeersveiligheid te verhogen niet zal worden ingelost. Ook de wens om de doorstroming op de N65 te verbeteren is in gevaar omdat verkeer op de afritten fietsers voorrang moet verlenen waardoor files op de afritten ontstaan die wel eens zo lang kunnen zijn dat deze tot op de hoofdrijbaan staan. Dan is ook de wens voor een verbeterde doorstroming op de N65 een illusie geworden, waarvoor geen oplossing bestaat anders dan afbreken en opnieuw beginnen.
 
 
-  Bij het ontwerp van de verkeersgoot met 2 ovondes is nooit onderzocht wat de wisselwerking is van autoverkeer en fietsers. Wie wel eens heeft moeten wachten op een stroom overstekende scholieren weet dat dit tijdens de spits wel eens heel lang kan duren.
+  Bij het ontwerp van de verkeersgoot met ovondes is nooit onderzocht wat de wisselwerking is van autoverkeer en fietsers. Wie wel eens heeft moeten wachten op een stroom overstekende scholieren weet dat dit tijdens de spits wel eens heel lang kan duren.
 
 
   Daarom heeft VughtParticipeert opdracht gegeven de verkeersveiligheid en de doorstroming bij deze ovondes te laten modelleren en doorrekenen. Onderzoek dat wij van een zorgzame overheid mogen verwachten, maar waarbij VughtParticipeert, net zoals bij de calculatie van het tunnelalternatief, helaas moet bijspringen. 
