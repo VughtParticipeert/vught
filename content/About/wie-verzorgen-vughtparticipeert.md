@@ -4,11 +4,12 @@ index: 3
 ---
 ![](/uploads/schermafdruk-2019-09-23-22.52.27.png)
 
-De vereniging VughtParticipeert (VP) is opgericht door een aantal betrokken inwoners:
+De Vereniging VughtParticipeert is opgericht door een aantal betrokken inwoners. Het bestuur is alsvolgt samengesteld:
 
-* Maaike Dautzenberg (voorzitter)
-* Frank de Koning (penningmeester)
-* Philip Helmer (secretaris)
+* Nelly Theunissen-Zwartjes (secretaris)
+* Frank de Koning (ledenadministratie)
+* Frans Bos (penningmeester)
+* Philip Helmer (voorzitter)
 
 De bestuursleden geloven in de kracht van burgers en hebben geleerd dat vele lokale problemen niet links en niet rechts zijn. Met luisteren, openheid en wederzijds respect kan veel worden bereikt en zijn oplossingen in de regel duurzamer. 
 
@@ -16,7 +17,7 @@ Graag dragen wij bij aan de samenwerking tussen inwoners en bestuurders, zonder 
 
 Naast het bestuur werken diverse inwoners mee. De inwoners zijn per onderwerp georganiseerd en zijn hierin deskundig, ervaren of ter plaatse betrokken.
 
-VP staat open voor iedereen die een bijdrage wil leveren. Bijdragen kan bestaan uit actief meewerken aan bepaalde onderwerpen, het beschikbaar maken van informatie of het voorstellen van vragen die door VP publiekelijk kunnen worden gesteld. 
+VughtParticipeert staat open voor iedereen die een bijdrage wil leveren. Bijdragen kunnen bestaan uit actief meewerken aan bepaalde onderwerpen, het beschikbaar maken van informatie of het voorstellen van vragen die door VughtParticipeert publiekelijk kunnen worden gesteld. 
 
 Inwoners kiezen er zelf voor of zij hun deelname bekend maken of niet. Dat stelt iedereen in staat in vertrouwen en mogelijk anoniem mee te werken. 
 
