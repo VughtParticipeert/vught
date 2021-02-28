@@ -12,6 +12,4 @@ Onze leefomgeving wordt beïnvloed door regionale en nationale ontwikkelingen. D
 
 VughtParticipeert informeert de inwoners over wat er speelt en ondersteunt bewoners hierbij te participeren. Daarbij kiezen wij onderwerpen die meer aandacht nodig hebben en werken wij ook samen met organisaties en bewonersgroepen die al actief betrokken zijn.
 
-VughtParticipeert heeft geen politieke kleur en wil slechts bijdragen aan een goede informatievoorziening. Objectieve informatie is het beginpunt van discussie, meningsvorming en moet leiden tot gebalanceerde en duurzame besluitvorming en verkiezingen.
-
-Wij zijn politiek onafhankelijk en staan voor transparantie, participatie en zuivere besluitvorming.
+VughtParticipeert heeft geen politieke kleur en wil slechts bijdragen aan transparantie, participatie en zuivere besluitvorming. Objectieve informatie is het beginpunt van discussie, meningsvorming en moet leiden tot gebalanceerde en duurzame besluitvorming en verkiezingen.
