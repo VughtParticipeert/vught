@@ -23,7 +23,7 @@ content: >-
   ![](/uploads/n65-samenvatting-2.png)
 
 
-  Op dit moment lopen er 31 beroepsprocedures  bij de Raad van State tegen het plan voor de verkeersgoot. Recentelijk heeft de provincie zelf moeten vaststellen dat haar berekeningen wat betreft stikstof niet kloppen en moeten worden overgedaan. Het is dus allerminst zeker dat het plan van de gemeente bij de aanstaande beroepsprocedures zal worden goedgekeurd.
+  Op dit moment lopen er 31 beroepsprocedures bij de Raad van State tegen het plan voor de verkeersgoot. Recentelijk heeft de provincie zelf moeten vaststellen dat haar berekeningen wat betreft stikstof niet kloppen en moeten worden overgedaan. Het is dus allerminst zeker dat het plan van de gemeente bij de aanstaande beroepsprocedures zal worden goedgekeurd.
 
 
   Dus nu is het moment om uw stem te laten horen door deze [petitie](https://doodle.com/poll/7t2657m53p9zfyc8) van 17 bezorgde ouders in Vught te ondertekenen. Onderteken en stuur de link naar de petitie door naar uw familie en vrienden. Alle inwoners van de gemeente Vught worden meegeteld, 1 per adres.
