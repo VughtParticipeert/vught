@@ -4,7 +4,7 @@ date: 2019-12-04T22:32:14.019Z
 theme: Verkeersveiligheid
 typePost: Vraag
 group: Jagersboschlaan
-status: 4
+status: "1"
 answered: true
 content: >-
   ![](/uploads/schermafdruk-2019-12-04-23.37.17.png)
