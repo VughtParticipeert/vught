@@ -54,15 +54,6 @@ content: >-
   ![De tunnel bereikt de 6 doelstellingen wel](/uploads/doelstellingen-n65-reconstructie.png "Doelstellingen N65")
 
 
-  ### Onbehoorlijk bestuur en handreiking
-
-
-  VughtParticipeert trekt de conclusie dat er sprake is van kwade wil en onbehoorlijk bestuur, en dat een eenvoudige N65 tunnel wel degelijk een realistische optie is. Met de WOB-stukken in de hand wordt dit feit eindelijk bevestigd. 
-
-
-  VughtParticipeert zal het gemeentebestuur om opheldering vragen en aandringen op een hernieuwd onderzoek naar een tunnel. De gemeente kan daarbij gebruik maken van het voorwerk dat door VughtParticipeert is gedaan in samenwerking met Stichting Comité N65.
-
-
   ### Op de rem trappen
 
 
