@@ -7,7 +7,9 @@ group: N65 reconstructie en haar 6 doelstellingen
 status: 1
 answered: false
 content: >-
-  ![](/uploads/schermafbeelding-2021-01-02-om-22.43.20.png)
+  ![Impressie van hoe een tunnel er bij Vught uit zou kunnen
+  zien](/uploads/schermafbeelding-2021-01-02-om-22.43.20.png "Victory Boogie
+  Woogie Tunnel")
 
 
   De gemeenteraad van Vught is bewust onjuist geïnformeerd en de bewoners van Vught zijn misleid. Tot die conclusie komt VughtParticipeert na lezing van de gemeentelijke stukken die boven tafel gekomen zijn na een WOB-procedure. “Als je de ambtelijke stukken onder ogen krijgt is het in één oogopslag duidelijk dat de feiten opzettelijk verdraaid zijn. Verbijsterend dat dit gebeurt in ons land.” 
