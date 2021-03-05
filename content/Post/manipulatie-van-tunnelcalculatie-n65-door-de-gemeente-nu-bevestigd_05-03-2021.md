@@ -63,12 +63,6 @@ content: >-
   VughtParticipeert zal het gemeentebestuur om opheldering vragen en aandringen op een hernieuwd onderzoek naar een tunnel. De gemeente kan daarbij gebruik maken van het voorwerk dat door VughtParticipeert is gedaan in samenwerking met Stichting Comité N65.
 
 
-  ### Oproep van de Raad van State
-
-
-  VughtParticipeert zal deze onverkwikkelijke bevindingen overhandigen aan de Raad van State, waar nu al ruim dertig beroepsschriften liggen, o.a. over onbehoorlijk bestuur. Op de zitting op 2 maart gaf de staatsraad aan dat het de gemeenteraad volledig vrij staat haar plannen te heroverwegen in overleg met de bewoners. Het is onjuist te veronderstellen, zo benadrukte de staatsraad, dat de gemeente daarmee moet wachten totdat de Raad van State haar uitspraak heeft gedaan. VughtParticipeert gaat ervan uit dat de oproep van de staatsraad niet aan dovemansoren besteed is en is bereid haar bijdrage te leveren om te komen tot een duurzame oplossing die aan alle doelen realiseert. Ter vergelijking:
-
-
   ### Op de rem trappen
 
 
