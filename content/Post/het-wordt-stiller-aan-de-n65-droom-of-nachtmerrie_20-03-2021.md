@@ -30,9 +30,8 @@ content: >-
   Maar: Het is nog niet te laat! De Voorzieningenrechter van de Raad van State heeft vorige week een opening geboden aan ons gemeentebestuur. Nu is het eerst de beurt aan het CDA en D66 om in aktie te komen. Deze partijen hebben duidelijke verkiezingsbeloften gedaan en krijgen alsnog een kans om daarvoor te knokken. Maar ook voor de lokale partij GroenLinks die zich vorige week nog uitsprak voor een eerlijk en daadkrachtig klimaatbeleid. De negatieve gevolgen van het huidige N65-plan kunnen daartoe toch echt niet worden gerekend.
 
 
-  Veel inwoners van onze gemeente kijken met spanning of onze bestuurders over het vermogen en de bereidheid beschikken om een verkeerde beslissing te herstellen.\
+  Veel inwoners van onze gemeente kijken met spanning of onze bestuurders over het vermogen en de bereidheid beschikken om een verkeerde beslissing te herstellen.
 
-  \
 
   Jeanne van Laanen-Mulders
 ---
