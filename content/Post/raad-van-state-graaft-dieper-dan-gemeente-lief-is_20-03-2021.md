@@ -49,7 +49,7 @@ content: >-
   ### Spagaat voor de gemeente
 
 
-  De komende maanden zullen verschillende partijen goed in de gaten houden dat er geen onomkeerbare zaken ter hand worden genomen. Zo nodig zal opnieuw een voorlopige voorziening worden aangevraagd om werkzaamheden stil te leggen, mocht dat toch het geval blijken. Waarbij inmiddels moet worden vastgesteld dat dit zo zijn beperkingen heeft. De verbreding en verharding van de Jagersboschlaan kon hiermee niet worden voorkomen.
+  De komende maanden zullen verschillende partijen goed in de gaten houden dat er geen onomkeerbare zaken ter hand worden genomen. Zo nodig zal opnieuw een voorlopige voorziening worden aangevraagd om werkzaamheden stil te leggen, mocht dat toch het geval blijken. Waarbij inmiddels moet worden vastgesteld dat dit zo zijn beperkingen heeft. De verbreding en verharding van de Jagersboschlaan kon hiermee niet worden voorkomen. Overigens loopt over de openstelling van de Jagersboschlaan voor doorgaand gemotoriseerd verkeer parallel nog een beroepsprocedure bij de RvS.
 
 
   Tevens hebben diverse partijen aangekondigd aanvullende informatie en onderzoeksresultaten aan de RvS te zullen aanbieden. Zo lopen er nog onderzoeken naar de verkeersveiligheid van de geplande ovondes en een tweede WOB-verzoek om meer details boven tafel te krijgen over de misleidende tunnelcalculatie. Ook zal aandacht worden gevraagd voor de veiligheidsrisico’s van de oprit bij de Vijverboslaan en het verzuim de verplichte Code Participatie te hanteren.
