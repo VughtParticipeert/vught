@@ -47,7 +47,7 @@ content: >-
   ### Conclusie
 
 
-  Waar de burger moet kunnen rekenen op bestuur en politici die de belangen van de bevolking primair stellen, hebben wij hier te maken met verantwoordelijken die gedogen dat zinloze investeringen worden gedaan, onzuivere besluitvorming plaatsvindt en de wet moet voeten wordt getreden. 
+  Waar de burger moet kunnen rekenen op bestuur en politici die de belangen van de bevolking primair stellen, hebben wij hier te maken met verantwoordelijken die gedogen dat zinloze investeringen worden gedaan, onzuivere besluitvorming plaatsvindt en de wet met voeten wordt getreden. 
 
 
   Al deze zaken zijn pijnlijk nauwkeurig gedocumenteerd en aan de Raad van State voorgelegd. Op hun oordeel zouden wij kunnen wachten. Het is nu aan u als bestuurder, politicus en rechter om uw bestuurlijke verantwoordelijk te nemen en niet langer weg te kijken en te gedogen en zo mogelijk nog voor de zitting van de RvS aan de noodrem te trekken. Voor details over het gedoogde [overtreden](https://www.vughtparticipeert.nl/post/de-wet-over-fijnstof-is-duidelijk-rws-en-rv-s-moeten-deze-wel-willen-lezen/c9a8100a6b31a74c67e1815971e01718#main) van de fijnstof wetgeving, [onzuivere](https://www.vughtparticipeert.nl/post/gemeente-vught-en-vught-participeert-hebben-tunnelvisie-open-brief-aan-de-gemeenteraad/6ff8208266465999a74ded0c7e60d3f1#main) besluitvorming en alternatief in de vorm van een [tunnel](https://www.vughtparticipeert.nl/post/vught-participeert-laat-zien-hoe-mooi-een-tunnel-kan-zijn/7e3bf15a24d0d047454ba2579d594eeb#main), verwijzen wij naar de bijlage en onze [website](https://www.vughtparticipeert.nl/).
