@@ -10,7 +10,7 @@ content: >-
   ![](/uploads/n65.jpg)
 
 
-  De Raad van State (RvS) heeft uitspraak gedaan over de voorlopige voorzieningen en is daarbij een stuk verder gegaan door op diverse bewaren inhoudelijk te reageren. Weliswaar zijn de verzoeken afgewezen, maar de RvS heeft de gemeente en provincie een stevige lijst aan huiswerkopdrachten meegegeven. 
+  De Raad van State (RvS) heeft uitspraak gedaan over de voorlopige voorzieningen en is daarbij een stuk verder gegaan door op diverse bezwaren inhoudelijk te reageren. Weliswaar zijn de verzoeken afgewezen, maar de RvS heeft de gemeente en provincie een stevige lijst aan huiswerkopdrachten meegegeven. 
 
 
   Op diverse onderdelen heeft de RvS vastgesteld dat het ontwerp en de onderliggende rapporten onvoldoende zijn. Overigens zijn hierbij nog niet alle onderwerpen besproken, diverse bezwaren waren te groot om nu voldoende te kunnen overzien. Hiermee heeft de RvS meer gedaan dan alleen maar te besluiten over de voorlopige voorziening, maar heeft zij alvast een schot voor de boeg gegeven voor de definitieve zitting, eind dit jaar.
