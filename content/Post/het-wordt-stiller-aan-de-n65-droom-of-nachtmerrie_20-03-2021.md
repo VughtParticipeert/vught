@@ -21,7 +21,7 @@ content: >-
   Wanneer zal dat zijn? Direct nadat de kettingzagen zijn uitgeknetterd om 418 bomen om te zagen? Of direct nadat de aannemers de nieuwe snelweg hebben aangelegd? Misschien als er nog eens duizenden voertuigen extra per dag door ons dorp sluipen? Ja het wordt stiller nadat de vogels geen boom meer hebben gevonden om in te gaan zitten fluiten. 
 
 
-  Waar is de stuurgroep gebleven die onder leiding stond van voormalig wethouder van Den Bosch, Bart Eigeman, die in 2009 van de N65 “de mooiste weg van Brabant” wilde maken? Waar zijn de bestuurders die toen zeiden: “De weg moet passen in de ambities om de groene zone tussen de Kempen, Loonse en Drunense Duinen, het Groene Woud en de Maas te herstellen?” Het zijn vooral deze bestuurders die stiller zijn geworden.
+  Waar is de stuurgroep gebleven die onder leiding stond van voormalig wethouder van Den Bosch, Bart Eigeman, in 2009 van de N65 “de mooiste weg van Brabant” wilde maken? Waar zijn de bestuurders die toen zeiden: “De weg moet passen in de ambities om de groene zone tussen de Kempen, Loonse en Drunense Duinen, het Groene Woud en de Maas te herstellen?” Het zijn vooral deze bestuurders die stiller zijn geworden.
 
 
   Wat is er gebeurd met de intentie om de nieuwe N65 verdiept aan te leggen, want een mooie weg toont het landschap, aldus de toelichting? Dezelfde vraag kun je ook stellen aan onze burgemeester die aan het begin van de onderhandelingen met Rijkswaterstaat en de Provincie zich uitdrukkelijk voor een tunnel heeft uitgesproken. In die fase bleken de kosten daarvan te hoog, maar met de technologische ontwikkelingen van de laatste jaren kan dat nu geen breekpunt meer zijn zoals ook elders wordt aangetoond.
