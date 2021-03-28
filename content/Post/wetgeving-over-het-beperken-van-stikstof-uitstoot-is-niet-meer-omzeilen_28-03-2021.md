@@ -1,5 +1,5 @@
 ---
-title: Wetgeving over het beperken van stikstof uitstoot is niet meer omzeilen
+title: Wetgeving over het beperken van stikstof uitstoot is niet meer te omzeilen
 date: 2021-03-28T12:10:33.298Z
 theme: N65 Duurzaam
 typePost: Publicatie
