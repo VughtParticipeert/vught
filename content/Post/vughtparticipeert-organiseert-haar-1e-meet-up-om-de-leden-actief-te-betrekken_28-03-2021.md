@@ -16,10 +16,10 @@ content: >-
   Tijdens deze virtuele bijeenkomst kunnen leden discussiëren over de onderwerpen en prioriteiten voor participatie. De discussie zal worden ingeleid door de voorzitter die de participatie strategie en de actuele onderwerpen zal toelichten.
 
 
-  Het werkmodel van VughtParticipeert is gebaseerd op betrokkenheid van inwoners die willen samenwerken met andere inwoners en gebruik maken van de mogelijhkeden die de vereniging kan bieden zoals vragen aan gemeentebestuur, publiciteit en juridische ondersteuning.
+  Het werkmodel van VughtParticipeert is gebaseerd op betrokkenheid van inwoners die willen samenwerken met andere inwoners en gebruik maken van de mogelijkheden die de vereniging kan bieden zoals vragen aan gemeentebestuur, publiciteit en juridische ondersteuning.
 
 
-  Alle leden van de vereniging zijn welkom en zullen een persoonlijke uitnodiging ontvangen. Wie nog geen lid is en toch wil deelnemen kan zich aanmelden en €10,= contributie betalen voor 5 april. 
+  Alle leden van de vereniging zijn welkom en zullen een persoonlijke uitnodiging ontvangen. Wie nog geen lid is en toch wil deelnemen kan zich [aanmelden](https://www.vughtparticipeert.nl/member#main) en €10,= contributie betalen voor 5 april. 
 
 
   De resultaten van de meet-up zullen op onze site worden gepubliceerd.
