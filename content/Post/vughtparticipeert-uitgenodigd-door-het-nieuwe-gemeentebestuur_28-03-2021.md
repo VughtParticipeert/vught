@@ -7,6 +7,9 @@ group: Interne Organisatie
 status: 1
 answered: false
 content: >-
+  ![](/uploads/schermafbeelding-2020-11-25-om-14.05.33.png)
+
+
   ### Uitnodiging van het gemeentebestuur
 
 
