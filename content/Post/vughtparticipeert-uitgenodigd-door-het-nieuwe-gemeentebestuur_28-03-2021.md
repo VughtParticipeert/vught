@@ -10,9 +10,6 @@ content: >-
   ![](/uploads/schermafbeelding-2020-11-25-om-14.05.33.png)
 
 
-  ### Uitnodiging van het gemeentebestuur
-
-
   Zoals in het coalitieakkoord is vastgelegd, wil het nieuwe gemeentebestuur in de eerste 100 dagen kennis maken met diverse bewoners, (belangen)verenigingen en bedrijven. VughtParticipeert heeft deze uitnodiging aangenomen en vrijdag 26 maart kwamen wij bij elkaar. Van VughtParticipeert waren Nelly Theunissen en Philip Helmer aanwezig, het gemeentebestuur was voltallig.
 
 
