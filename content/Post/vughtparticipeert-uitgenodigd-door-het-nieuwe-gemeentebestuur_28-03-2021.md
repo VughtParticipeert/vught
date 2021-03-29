@@ -25,7 +25,7 @@ content: >-
   Tijdens de bijeenkomst is de kans besproken in de toekomst constructiever samen te werken. VughtParticipeert juicht dit zeker toe, maakt tegelijkertijd duidelijk dat gemaakte fouten in het verleden hiermee niet plotseling zijn verdwenen. Lopende WOB-verzoeken en beroepszaken zullen consequent worden voortgezet en afgerond.
 
 
-  Al met al beoordeelt VughtParticipeert de participatie met het gemeentebestuur positief en heeft zich bereid verklaard hieraan constructief mee te werken.
+  Al met al beoordeelt VughtParticipeert de participatie met het gemeentebestuur positief en heeft VughtParticipeert zich bereid verklaard hieraan constructief mee te werken.
 attachment:
   - file:
       attachment: /uploads/210312-participatie-strategie-vp.pdf
