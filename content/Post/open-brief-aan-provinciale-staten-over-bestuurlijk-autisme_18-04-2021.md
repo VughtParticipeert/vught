@@ -11,15 +11,13 @@ content: >-
   straks dwars door het dorp")
 
 
-  Onderstaande brief is zondag 18 april 2021 aan gedeputeerde Christophe van der Maat gestuurd
+  Onderstaande brief is zondag 18 april 2021 aan gedeputeerde Christophe van der Maat gestuurd.
 
 
+  **Betreft**: Statenmededeling Stikstofberekeningen en proces reconstructie N65
 
 
-  Betreft: Statenmededeling Stikstofberekeningen en proces reconstructie N65
-
-
-  Datum: 18 april 2021
+  **Datum**: 18 april 2021
 
 
   Geachte heer van der Maat,
