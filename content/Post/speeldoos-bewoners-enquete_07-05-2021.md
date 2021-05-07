@@ -1,5 +1,5 @@
 ---
-title: Speeldoos Bewoners Enquête
+title: Theater de Speeldoos organiseert Bewoners Enquête
 date: 2021-05-07T19:58:14.893Z
 theme: Cultuur
 typePost: Publicatie
