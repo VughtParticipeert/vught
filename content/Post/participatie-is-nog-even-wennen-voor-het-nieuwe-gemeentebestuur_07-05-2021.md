@@ -1,6 +1,6 @@
 ---
 title: Participatie is nog even wennen voor het nieuwe gemeentebestuur
-date: 2021-05-07T19:48:21.586Z
+date: 2021-05-07T20:27:26.548Z
 theme: Participatie en bestuurlijke versterking
 typePost: Publicatie
 group: Interne Organisatie
