@@ -22,7 +22,7 @@ content: >-
   VughtParticipeert beveelt deze [enquête](https://survey.alchemer.com/s3/6306919/onderzoekdespeeldoos) van harte aan, zodat u zich kunt uitspreken over de toekomst van Theater de Speeldoos en cultuur in onze gemeente.
 attachment:
   - file:
-      name: "Klaverblad: Reactie wethouder op enquêtet Theater de Speeldoos"
+      name: "Klaverblad: Reactie wethouder op enquête Theater de Speeldoos"
       attachment: /uploads/kb-210505-reactie-wethouder-enquete-speeldoos.png
   - file:
       name: "Klaverblad: Voorstel van bewoners samen met Theater aan de Parade"
