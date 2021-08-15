@@ -12,7 +12,7 @@ content: >-
   "Meer verkeersveiligheid op de N65 met behoud van bomen")
 
 
-  Veel ongelukken vinden plaats op provinciale wegen en de mooie bomenrijen daarlangs zijn een deel van dit probleem. Vaak moeten bomen wijken om de verkeersveiligheid te vergroten. Ook waar geleiderails werd geplaatst, moeten bomen wijken voor het grondwerk en de noodzaak leidingen langs de wegen te verleggen.
+  Veel ongelukken vinden plaats op provinciale wegen waar soms mooie bomenrijen een deel van het probleem zijn. Vaak moeten bomen wijken om de verkeersveiligheid te vergroten. Ook waar geleiderails werd geplaatst, moeten bomen wijken voor het grondwerk en de noodzaak leidingen langs de wegen te verleggen.
 
 
   Dat is nu mogelijk verleden tijd. BAM Infra en partners hebben een [geleiderail](https://www.baminfra.nl/innovaties/minder-dodelijke-slachtoffers-n-wegen) ontwikkeld die schuin onder de weg wordt verankerd (zie artist impression), waardoor bomen kunnen blijven staan en kabels in de grond niet hoeven te worden verlegd.
