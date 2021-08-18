@@ -1,6 +1,6 @@
 ---
 title: Verkeersveiligheidsonderzoek legt ernstige ontwerpfouten N65 bloot
-date: 2021-08-18T20:22:07.930Z
+date: 2021-08-18T20:55:28.784Z
 theme: N65 Duurzaam
 typePost: Publicatie
 group: Verkeer
