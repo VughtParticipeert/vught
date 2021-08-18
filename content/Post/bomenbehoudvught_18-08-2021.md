@@ -1,9 +1,9 @@
 ---
 title: BomenBehoudVught
-date: 2021-08-18T20:31:41.588Z
-theme: Participatie en bestuurlijke versterking
+date: 2021-08-18T19:31:41.588Z
+theme: Leefbaarheid, Groen en Bomen
 typePost: Publicatie
-group: Wonen
+group: Groen en Bomen
 status: 1
 answered: false
 content: >-
