@@ -35,5 +35,5 @@ content: >-
   De belangrijkste conclusie uit het onderzoek is:
 
 
-  De intensiteiten waarmee wordt gerekend in de ontwerpnota zijn aantoonbaar onjuist en onvolledig. Op grond van deze conclusie is doorgaan met het voorliggende ontwerp bestuurlijk zeer onzorgvuldig. Nogmaals moet worden benadrukt dat congestie op en onveiligheid van de rotondes niet meer gerepareerd kunnen worden na uitvoering van dit ontwerp
+  "De intensiteiten waarmee wordt gerekend in de ontwerpnota zijn aantoonbaar onjuist en onvolledig. Op grond van deze conclusie is doorgaan met het voorliggende ontwerp bestuurlijk zeer onzorgvuldig. Nogmaals moet worden benadrukt dat congestie op en onveiligheid van de rotondes niet meer gerepareerd kunnen worden na uitvoering van dit ontwerp."
 ---
