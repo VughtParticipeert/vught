@@ -9,7 +9,7 @@
 			
 		</p>
 
-		<div class="disclaimer dislaimer-one">
+		<div class="disclaimer disclaimer-one">
 			<p>
 				Bedankt voor het aanmelden als lid bij de Vereniging VughtParticipeert. Om de kosten voor onze organisatie te dekken, vragen wij om een kleine jaarlijkse bijdrage van €10,= per jaar per huishouden. Zodra wij dit bedrag hebben ontvangen op bankrekening NL77 RABO 0348 0459 21 t.n.v. Vereniging VughtParticipeert, zullen wij u inschrijven in ons ledenbestand. Deze bijdrage is voor de periode tot 1 januari 2023.  		
 			</p>
@@ -202,7 +202,7 @@ export default {
 .disclaimer {
 	margin-top: 2rem;
 
-	a {
+	& >>> a {
 		display: inline-flex;
 		overflow: hidden;
 		position: relative;
@@ -226,7 +226,7 @@ export default {
 		}
 	}
 
-	p {
+	& >>> p {
 		margin-top: 1rem;
 
 		&:first-of-type {
