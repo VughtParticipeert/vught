@@ -6,8 +6,14 @@
 		<!-- Like the disclaimer below, this one should be dynamic loaded. -->
 		<!-- However for a quick fix, this has been hard coded.  -->
 		<p class="disclaimer">
-			<p>Bedankt voor het aanmelden als lid bij de Vereniging VughtParticipeert. Om de kosten voor onze organisatie te dekken, vragen wij om een kleine jaarlijkse bijdrage van €10,= per jaar per huishouden. Zodra wij dit bedrag hebben ontvangen op bankrekening NL77 RABO 0348 0459 21 t.n.v. Vereniging VughtParticipeert, zullen wij u inschrijven in ons ledenbestand. Deze bijdrage is voor de periode tot 1 januari 2023.  </p>
+			
 		</p>
+
+		<div class="disclaimer">
+			<p>
+				Bedankt voor het aanmelden als lid bij de Vereniging VughtParticipeert. Om de kosten voor onze organisatie te dekken, vragen wij om een kleine jaarlijkse bijdrage van €10,= per jaar per huishouden. Zodra wij dit bedrag hebben ontvangen op bankrekening NL77 RABO 0348 0459 21 t.n.v. Vereniging VughtParticipeert, zullen wij u inschrijven in ons ledenbestand. Deze bijdrage is voor de periode tot 1 januari 2023.  		
+			</p>
+		</div>
 
 		<form
 			name="member"
@@ -101,7 +107,7 @@
 			</p>
 		</form>
 
-		<p class="disclaimer" v-html="disclaimer"></p>
+		<div class="disclaimer" v-html="disclaimer"></div>
 	</article>
 </template>
 
