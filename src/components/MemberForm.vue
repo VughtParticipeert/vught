@@ -2,6 +2,13 @@
 	<!-- Include the script that builds the page and powers Netlify CMS -->
 	<article class="container-form">
 		<h1 class="title">Vul gegevens in</h1>
+
+		<!-- Like the disclaimer below, this one should be dynamic loaded. -->
+		<!-- However for a quick fix, this has been hard coded.  -->
+		<p class="disclaimer">
+			<p>Bedankt voor het aanmelden als lid bij de Vereniging VughtParticipeert. Om de kosten voor onze organisatie te dekken, vragen wij om een kleine jaarlijkse bijdrage van €10,= per jaar per huishouden. Zodra wij dit bedrag hebben ontvangen op bankrekening NL77 RABO 0348 0459 21 t.n.v. Vereniging VughtParticipeert, zullen wij u inschrijven in ons ledenbestand. Deze bijdrage is voor de periode tot 1 januari 2023.  </p>
+		</p>
+
 		<form
 			name="member"
 			method="POST"
@@ -210,6 +217,14 @@ export default {
 
 		&:hover:after {
 			transform: translateX(100%);
+		}
+	}
+
+	p {
+		margin-top: 1rem;
+
+		&:first-of-type {
+			margin-top: 0;
 		}
 	}
 }
