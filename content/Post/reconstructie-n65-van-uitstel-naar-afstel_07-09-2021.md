@@ -7,8 +7,7 @@ group: N65 Uitgesteld
 status: 1
 answered: false
 content: >-
-  ![Een veilige, schone en duurzame oplossing](/uploads/n65_sfeerbeeld.jpg "Een
-  veilige, schone en duurzame oplossing")
+  ![](/uploads/n65_sfeerbeeld.jpg)
 
 
   [](<>)Opnieuw lezen wij dat de Provincie geen oplossing heeft gevonden voor het stikstofprobleem bij de reconstructie van de N65 [(Brabants Dagblad 14-08-21)](https://www.bd.nl/den-bosch-vught/nog-geen-oplossing-voor-stikstofprobleem-n65-bam-infra-kan-nog-niet-aan-de-slag~a298a5d1/). Het probleem is blijkbaar zo groot dat men de gunning van het project aan BAM Infra heeft uitgesteld. Hiertoe hadden wij in april al [opgeroepen](https://www.vughtparticipeert.nl/post/stikstofberekening-n65-toont-grote-overschrijding-maar-provinciale-staten-dendert-door/4b7f4512ca4dbec1192e84f05e4b79aa).
