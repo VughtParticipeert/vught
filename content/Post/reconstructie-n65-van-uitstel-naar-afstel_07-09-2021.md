@@ -16,7 +16,7 @@ content: >-
   [](<>)Het stikstofprobleem in het kort. De stikstofbelasting was berekend met een incompleet model (AERIUS). Daarnaast was geen rekening gehouden met de geplande toename van het verkeer. Dus een reconstructie van de N65 in gang zetten om de doorstroming te verbeteren en dan geen rekening houden met de ongewenste gevolgen daarvan. Dat is wel heel erg slordig.
 
 
-  Maar dit is niet het enige probleem voor de N65 reconstructie. Naast stikstof zijn er grote zorgen over de verkeersveiligheid van het ontwerp, gezondheidsrisico’s voor omwonenden door fijnstof, misleidende kostencalculatie voor een tunnel, onbetrouwbare onderbouwing van de verkeerstoename als gevolg van de aanzuigende werking en het frustreren van een maatschappelijk en juridisch aanvaardbare oplossing
+  Maar dit is niet het enige probleem voor de N65 reconstructie. Naast stikstof zijn er grote zorgen over de verkeersveiligheid van het ontwerp, gezondheidsrisico’s voor omwonenden door fijnstof, misleidende kostencalculatie voor een tunnel, onbetrouwbare onderbouwing van de verkeerstoename als gevolg van de aanzuigende werking en het frustreren van een maatschappelijk en juridisch aanvaardbare oplossing.
 
 
   ### Verkeersveiligheid van het ontwerp
@@ -40,7 +40,7 @@ content: >-
   Nee, helaas niet. Op vele fronten schiet het model tekort. Resuspensie van fijnstof (het opnieuw opwerpen door het langsrijdend verkeer van fijnstof dat zich al op de weg bevindt) zit niet in het AERIUS model. Ook de bij het model behorende metingen laten stelselmatig onbegrijpelijke meetwaarden zien. Tot bijna 10% van de meetwaarden zijn op meerdere meetlocaties negatief. Dat zou dan inhouden dat bij die meetpunten fijnstof verdwijnt naar een onbekende “bestemming elders”.
 
 
-  [](<>)Niet alleen ‘verdwijnt’ hier dus fijnstof, maar door negatieve waarden op te tellen bij positieve waarden, worden de positieve waarden significant lager en lijkt er in de officiële rapportage veel minder fijnstof te zijn dan er in werkelijkheid is. Balletje, balletje met onze gezondheid.
+  [](<>)Niet alleen ‘verdwijnt’ hier dus fijnstof, maar door negatieve waarden op te tellen bij positieve waarden, worden de positieve waarden significant lager en lijkt er in de officiële rapportage veel minder fijnstof te zijn dan er in werkelijkheid zou zijn. Balletje, balletje met onze gezondheid.
 
 
   ### Misleidende kostencalculatie voor een tunnel
