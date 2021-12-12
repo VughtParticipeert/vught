@@ -7,9 +7,9 @@ group: Verkeer
 status: 1
 answered: false
 content: >-
-  
-
-  ![Verkeersveiligheid als belangrijke doelstelling](/uploads/bd-ergernis-over-wildgroei-aan-rotondes-2.png "Niet meer ovondes en onveiligheid")
+  ![Verkeersveiligheid als belangrijke
+  doelstelling](/uploads/bd-ergernis-over-wildgroei-aan-rotondes-2.png "Niet
+  meer ovondes en onveiligheid")
 
 
   Tijdens de zitting van de Raad van State (RvS) in april dit jaar heeft de raadsheer de gemeente expliciet gevraagd aan te tonen dat de plannen voor de N65 ‘niet in betekenende mate’ zouden leiden tot een verslechtering van de verkeerssituatie in het dorp. In het bijzonder gaat het hier om de problemen die verwacht mogen worden op de Helvoirtseweg en de zijwegen Voorst tot Voorststraat, Olmenlaan en Heikantstraat.
@@ -27,7 +27,7 @@ content: >-
   Wij worden dus in 2 megaprojecten gestort zonder dat wij weten wat de gevolgen op het verkeer in Vught tijdens en na de realisatie zijn. Het Mobiliteitsplan is gestart zonder zekerheid over de reconstructievorm N65. Dat is boksen in het donker.
 
 
-  VughtParticipeert (VP) heeft daarom het gemeentebestuur geïnformeerd dat zij het participatiemodel toejuicht, maar het tijdstip als zeer ongunstig beschouwt. Om deze reden neemt VP niet deel; het is onhandig nu veel werk te verzetten uitgaand van de reconstructie van de N65 op basis van de VKA+ variant, als die straks van tafel moet.
+  VughtParticipeert (VP) heeft daarom het gemeentebestuur geïnformeerd dat zij het participatiemodel toejuicht, maar het tijdstip voor het Mobiliteitsplan als zeer ongunstig beschouwt. Om deze reden neemt VP niet deel; het is onhandig nu veel werk te verzetten uitgaand van de reconstructie van de N65 op basis van de VKA+ variant, als die straks van tafel moet.
 
 
   Om toch vooruit te komen werkt VP mee aan een geheel onafhankelijk verkeersveiligheidsrapport voor geheel Vught. Dit rapport zal begin januari aan de RvS worden overhandigd en zal ook een antwoord zijn op het verweerschrift van de gemeente. Tijdens het onderzoek naar de toekomstige verkeersveiligheid hebben wij inmiddels moeten vaststellen dat de beloofde verbetering van de verkeersveiligheid door de reconstructie van de N65 met zekerheid niet zal worden bereikt.
