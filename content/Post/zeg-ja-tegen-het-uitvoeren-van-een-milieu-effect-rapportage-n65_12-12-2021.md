@@ -29,5 +29,5 @@ content: >-
   Dames en heren gemeenteraadsleden, wij hebben u gekozen om een onafhankelijke rol te spelen en het college te controleren. Uw rol is uw stem te laten horen die u ook op straat, in de winkel en op de sportvereniging kunt uitleggen. Zeggen “dat is de partijlijn” is ongeloofwaardig.
 
 
-  Dus neem donderdag tijdens de raadsvergadering uw verantwoordelijkheid en zie dit als een herkansing voor uw positie zoals u die innam tijdens de raadsvergadering in mei 2020, waarin het burgerinitiatief van meer dan 500 inwoners om nader onderzoek van de reconstructie N65 vroeg. Laat zien dat ook u van mening bent dat dit gestuntel maar eens afgelopen moet zijn.
+  Dus neem donderdag tijdens de raadsvergadering uw verantwoordelijkheid en zie dit als een herkansing voor uw positie zoals u die innam tijdens de raadsvergadering in mei 2020, waarin het burgerinitiatief van meer dan 500 inwoners vroeg om nader onderzoek van de reconstructie N65. Laat zien dat ook u van mening bent dat dit gestuntel maar eens afgelopen moet zijn.
 ---
