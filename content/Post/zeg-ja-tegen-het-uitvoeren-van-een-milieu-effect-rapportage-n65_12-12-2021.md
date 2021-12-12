@@ -7,8 +7,8 @@ group: N65 Procedures Raad van State
 status: 1
 answered: false
 content: >-
-  ![Milieu Effect Rapportage is essentieel](/uploads/lunettentunnel.png "Tunnel
-  als goed alternatief")
+  ![Milieu Effect Rapportage is essentieel](/uploads/img_8858-1-.jpg "Tunnel als
+  goed alternatief")
 
 
   Al jaren roepen burgers en belangengroepen op om een Milieu Effect Rapportage (MER) te laten uitvoeren en nu ligt er een uitgelezen kans. Zowel de gemeente Vught als de gemeente Haaren hebben in het verleden procedurele fouten gemaakt.
