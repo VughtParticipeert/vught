@@ -1,6 +1,6 @@
 ---
 title: Gemeentebestuur, hou op met het verspreiden van foutieve informatie
-date: 2021-12-12T17:08:46.588Z
+date: 2021-12-12T16:08:46.588Z
 theme: N65 Duurzaam
 typePost: Publicatie
 group: Verkeer
