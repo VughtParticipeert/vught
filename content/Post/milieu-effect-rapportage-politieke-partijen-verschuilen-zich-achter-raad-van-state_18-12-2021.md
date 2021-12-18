@@ -21,7 +21,7 @@ content: >-
   Opnieuw blijkt hoe moeilijk het is als kleine gemeente om dit soort grote projecten uit te voeren. Al jaren voeren de Provincie en Rijkswaterstaat de feitelijke regie over dit project, terwijl de gemeente mag tekenen bij het kruisje en vooral ‘mag’ meebetalen.
 
 
-  Meebetalen om een probleem voor de Provincie en Rijkswaterstaat (doorstroming op de N65) op te lossen en vervolgens te worden opgescheept met meer verkeer, meer geluidsoverlast, meer luchtvervuiling en meer verkeersonveiligheid in het dorp. En daarvoor €23 miljoen bijbetalen, alleen maar om de schijn op te houden dat dit plan voor Vught ‘goed’ zou zijn.
+  Meebetalen om een probleem voor de Provincie en Rijkswaterstaat (doorstroming op de N65) op te lossen en vervolgens in het dorp te worden opgescheept met meer verkeer, meer geluidsoverlast, meer luchtvervuiling en meer verkeersonveiligheid. En daarvoor €23 miljoen bijbetalen, alleen maar om de schijn op te houden dat dit plan voor Vught ‘goed’ zou zijn.
 
 
   Het is overduidelijk dat de gemeente zich aan dit project heeft vertild. Hier zien wij de beperkingen van ons lokale bestuursmodel. Grote infrastructuurprojecten zijn te complex om te laten besluiten door gemeenteraadsleden die dit, naast hun vaste baan, erbij moeten doen. Daarbij moeten zij steeds vaker vertrouwen op adviezen van externe specialisten, die niet zelden dat opschrijven wat de feitelijke opdrachtgever bevestigd wil zien.
