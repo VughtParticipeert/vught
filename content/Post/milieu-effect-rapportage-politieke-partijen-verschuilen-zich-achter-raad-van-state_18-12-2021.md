@@ -24,7 +24,7 @@ content: >-
   Meebetalen om een probleem voor de Provincie en Rijkswaterstaat (doorstroming op de N65) op te lossen en vervolgens in het dorp te worden opgescheept met meer verkeer, meer geluidsoverlast, meer luchtvervuiling en meer verkeersonveiligheid. En daarvoor €23 miljoen bijbetalen, alleen maar om de schijn op te houden dat dit plan voor Vught ‘goed’ zou zijn.
 
 
-  Het is overduidelijk dat de gemeente zich aan dit project heeft vertild. Hier zien wij de beperkingen van ons lokale bestuursmodel. Grote infrastructuurprojecten zijn te complex om te laten besluiten door gemeenteraadsleden die dit, naast hun vaste baan, erbij moeten doen. Daarbij moeten zij steeds vaker vertrouwen op adviezen van externe specialisten, die niet zelden dat opschrijven wat de feitelijke opdrachtgever bevestigd wil zien.
+  Het is overduidelijk dat de gemeente zich aan dit project heeft vertild. Hier zien wij de beperkingen van ons lokale bestuursmodel. Grote infrastructuurprojecten zijn te complex om te laten besluiten door gemeenteraadsleden die dit, naast hun vaste baan en met alle goede bedoelingen, erbij moeten doen. Daarbij moeten zij steeds vaker vertrouwen op adviezen van externe specialisten, die niet zelden dat opschrijven wat de feitelijke opdrachtgever bevestigd wil zien.
 
 
   Ook zien wij hoe beperkt de wens van de bevolking via verkiezingen zijn weg vindt naar gewenste ontwikkelingen en besluiten. En dat leidt tot bedrijfsongevallen, zoals wij recentelijk konden zien in Zeewolde, waar een grote internationale organisatie structureel ongunstige besluiten kan beïnvloeden.
@@ -48,7 +48,7 @@ content: >-
   Als de gemeenteraad serieus was geweest over **participatie** dan waren niet de ruim 100 bezwaren van bewoners van tafel geveegd, dan hadden zij daar serieus naar gekeken en waren waarschijnlijk het ontwerp en de planning aangepast.
 
 
-  En als de gemeenteraad een **zuivere besluitvorming** wenst, dan wordt aan haar niet telkens informatie onthouden, respectievelijk wordt zij niet met foutieve rapporten van experts op het verkeerd been gezet.
+  En als de gemeenteraad een **zuivere besluitvorming** wenst, dan wordt aan haar niet telkens informatie onthouden, respectievelijk wordt zij niet met foutieve rapporten van experts op het verkeerde been gezet.
 
 
   VughtParticipeert staat met deze 3 kernwaarden voor een 21e eeuwse **bestuurscultuur** en wil daaraan graag haar bijdrage leveren. Bijdragen door de enorme expertise, ervaring en energie onder de inwoners te mobiliseren om samen met de gemeente te komen tot betere plannen en zuivere besluiten.
