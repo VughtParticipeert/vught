@@ -32,7 +32,7 @@ content: >-
   Op de achtergrond ondersteunen wij verschillende bewonersgroepen bij het indienen van bezwaren en WOB-verzoeken en het opvolgen daarvan. Hiermee versterken wij de rechten van bewoners om zich te melden en gehoord te worden.
 
 
-  Onze activiteiten worden uitgevoerd voor een groeiend team aan vrijwilligers. Professionele ondersteuning voor experts wordt gefinancierd vanuit de contributie van onze leden en gerichte bijdragen van particulieren. 
+  Onze activiteiten worden uitgevoerd voor een groeiend team aan vrijwilligers. Professionele ondersteuning door experts wordt gefinancierd vanuit de contributie van onze leden en gerichte bijdragen van particulieren. 
 
 
   Al met al kijkt VughtParticipeert terug op een jaar waarin zowel een begin kon worden gemaakt met duurzame participatie, als ook opgetreden kon worden daar waar de participatie nog niet functioneert, of in het verleden niet heeft gefunctioneerd. 
