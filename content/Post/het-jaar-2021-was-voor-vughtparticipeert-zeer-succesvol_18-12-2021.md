@@ -44,5 +44,5 @@ content: >-
   ![DePetrus in de sneeuw](/uploads/schermafbeelding-2021-12-19-om-08.01.20.png)
 
 
-   Hierbij wensen wij alle bewoners van onze gemeente en in het bijzonder onze leden, fijne en vooral gezonde feestdagen en een goede start van 2022.
+   Hierbij wensen wij alle inwoners van onze gemeente en in het bijzonder onze leden, fijne en vooral gezonde feestdagen en een goede start van 2022.
 ---
