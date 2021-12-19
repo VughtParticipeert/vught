@@ -38,8 +38,11 @@ content: >-
   Al met al kijkt VughtParticipeert terug op een jaar waarin zowel een begin kon worden gemaakt met duurzame participatie, als ook opgetreden kon worden daar waar de participatie nog niet functioneert, of in het verleden niet heeft gefunctioneerd. 
 
 
-  Wij verwachten in 2022 het aantal domeinen waarin wij actief zijn uit te breiden. Inmiddels zijn een aantal in voorbereiding en staan wij open voor vragen en betrokkenheid van inwoners. 
+  Wij verwachten in 2022 het aantal domeinen waarin wij actief zijn uit te breiden. Inmiddels zijn een aantal in voorbereiding en staan wij open voor vragen en betrokkenheid van inwoners.
 
 
-  Hierbij wensen wij alle bewoners van onze gemeente en in het bijzonder onze leden, fijne en vooral gezonde feestdagen en een goede start van 2022.
+  ![DePetrus in de sneeuw](/uploads/schermafbeelding-2021-12-19-om-08.01.20.png)
+
+
+   Hierbij wensen wij alle bewoners van onze gemeente en in het bijzonder onze leden, fijne en vooral gezonde feestdagen en een goede start van 2022.
 ---
