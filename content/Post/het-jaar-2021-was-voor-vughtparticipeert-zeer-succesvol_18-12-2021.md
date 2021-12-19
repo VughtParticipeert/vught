@@ -32,14 +32,17 @@ content: >-
   Op de achtergrond ondersteunen wij verschillende bewonersgroepen bij het indienen van bezwaren en WOB-verzoeken en het opvolgen daarvan. Hiermee versterken wij de rechten van bewoners om zich te melden en gehoord te worden.
 
 
-  Onze activiteiten worden uitgevoerd voor een groeiend team aan vrijwilligers. Professionele ondersteuning voor experts wordt gefinancierd vanuit de contributie van onze leden en gerichte bijdragen van particulieren. 
+  Onze activiteiten worden uitgevoerd voor een groeiend team aan vrijwilligers. Professionele ondersteuning door experts wordt gefinancierd vanuit de contributie van onze leden en gerichte bijdragen van particulieren. 
 
 
   Al met al kijkt VughtParticipeert terug op een jaar waarin zowel een begin kon worden gemaakt met duurzame participatie, als ook opgetreden kon worden daar waar de participatie nog niet functioneert, of in het verleden niet heeft gefunctioneerd. 
 
 
-  Wij verwachten in 2022 het aantal domeinen waarin wij actief zijn uit te breiden. Inmiddels zijn een aantal in voorbereiding en staan wij open voor vragen en betrokkenheid van inwoners. 
+  Wij verwachten in 2022 het aantal domeinen waarin wij actief zijn uit te breiden. Inmiddels zijn een aantal in voorbereiding en staan wij open voor vragen en betrokkenheid van inwoners.
 
 
-  Hierbij wensen wij alle bewoners van onze gemeente en in het bijzonder onze leden, fijne en vooral gezonde feestdagen en een goede start van 2022.
+  ![DePetrus in de sneeuw](/uploads/schermafbeelding-2021-12-19-om-08.01.20.png)
+
+
+   Hierbij wensen wij alle bewoners van onze gemeente en in het bijzonder onze leden, fijne en vooral gezonde feestdagen en een goede start van 2022.
 ---
