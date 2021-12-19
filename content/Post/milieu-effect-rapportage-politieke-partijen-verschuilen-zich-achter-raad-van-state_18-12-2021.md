@@ -39,7 +39,7 @@ content: >-
   Dan had ook de gemeenteraad niet moeten besluiten over de VKA+ variant zonder de verkeersanalyses. Die kwamen 2 weken later en bleken voor sommige delen van Vught dramatisch.
 
 
-  Ook had de gemeenteraad bij de beslissing voor het bestemmingsplan niet een gemanipuleerde tunnelcalculatie van €412 miljoen op tafel gehad, maar een van €137 miljoen, prima passend binnen een totaalbudget van €183 miljoen.
+  Ook had de gemeenteraad bij de beslissing voor het bestemmingsplan niet een gemanipuleerde tunnelcalculatie van €412 miljoen op tafel gehad, maar een van €136 miljoen, prima passend binnen een totaalbudget van €183 miljoen.
 
 
   Een tenslotte had de gemeenteraad vorige week een MER rapport ter beschikking gehad dat mogelijk zou bevestigen wat inmiddels in diverse onafhankelijke rapporten is aangegeven: dat de verkeersaantallen niet correct zijn, dat de verkeersveiligheid in het dorp ernstig in het geding is, dat de stikstofberekeningen opnieuw niet kloppen etc..
