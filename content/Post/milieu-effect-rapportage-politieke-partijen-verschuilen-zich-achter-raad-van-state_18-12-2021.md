@@ -51,5 +51,5 @@ content: >-
   En als de gemeenteraad een **zuivere besluitvorming** wenst, dan wordt aan haar niet telkens informatie onthouden, respectievelijk wordt zij niet met foutieve rapporten van experts op het verkeerd been gezet.
 
 
-  VughtParticipeert staat met deze 3 kernwaarden voor een 21e eeuwse **bestuurscultuur** en wil daaraan graag haar bijdrage leveren. Bijdragen door de enorme expertise, ervaring en energie onder de bewoners te mobiliseren om samen met de gemeente te komen tot betere plannen en zuivere besluiten.
+  VughtParticipeert staat met deze 3 kernwaarden voor een 21e eeuwse **bestuurscultuur** en wil daaraan graag haar bijdrage leveren. Bijdragen door de enorme expertise, ervaring en energie onder de inwoners te mobiliseren om samen met de gemeente te komen tot betere plannen en zuivere besluiten.
 ---
