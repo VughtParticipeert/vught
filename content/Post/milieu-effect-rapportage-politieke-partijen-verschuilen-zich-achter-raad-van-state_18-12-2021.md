@@ -42,7 +42,7 @@ content: >-
   Ook had de gemeenteraad bij de beslissing voor het bestemmingsplan niet een gemanipuleerde tunnelcalculatie van €412 miljoen op tafel gehad, maar een van €136 miljoen, prima passend binnen een totaalbudget van €183 miljoen.
 
 
-  Een tenslotte had de gemeenteraad vorige week een MER rapport ter beschikking gehad dat mogelijk zou bevestigen wat inmiddels in diverse onafhankelijke rapporten is aangegeven: dat de verkeersaantallen niet correct zijn, dat de verkeersveiligheid in het dorp ernstig in het geding is, dat de stikstofberekeningen opnieuw niet kloppen etc..
+  En tenslotte had de gemeenteraad vorige week een MER rapport ter beschikking gehad dat mogelijk zou bevestigen wat inmiddels in diverse onafhankelijke rapporten is aangegeven: dat de verkeersaantallen niet correct zijn, dat de verkeersveiligheid in het dorp ernstig in het geding is, dat de stikstofberekeningen opnieuw niet kloppen etc..
 
 
   Als de gemeenteraad serieus was geweest over **participatie** dan waren niet de ruim 100 bezwaren van bewoners van tafel geveegd, dan hadden zij daar serieus naar gekeken en waren waarschijnlijk het ontwerp en de planning aangepast.
