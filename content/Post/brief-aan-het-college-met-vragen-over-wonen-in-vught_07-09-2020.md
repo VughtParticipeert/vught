@@ -29,5 +29,5 @@ content: >-
 attachment:
   - file:
       attachment: /uploads/200703-vragen-over-wonen-in-vught-.pdf
-      name: Brief aan het college over 'Wonen in Vught'
+      name: Vraag aan het college over ‘Wonen in Vught'
 ---
