@@ -1,5 +1,5 @@
 ---
-title: Antwoord van het college over ‘Wonen in Vught
+title: Antwoord van het college over ‘Wonen in Vught'
 date: 2022-01-23T10:42:40.013Z
 theme: Wonen
 typePost: Antwoord
