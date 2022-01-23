@@ -5,7 +5,7 @@ theme: Financien
 typePost: Vraag
 group: Gemeentebegroting 2020
 status: "1"
-answered: false
+answered: true
 content: >-
   ![De inkomsten en uitgaven van de gemeente moeten begrijpelijk zijn voor de
   burger](/uploads/schermafdruk-2019-11-25-23.03.12.png "Gemeentebegroting")
