@@ -36,6 +36,8 @@ content: >-
   Inmiddels zijn tenminste 3 van de geplande doelen voor de reconstructie N65, verbeterde verkeersveiligheid, minder geluidshinder en minder luchtvervuiling, niet meer haalbaar. Bij de overige 3 doelstellingen, betere oversteekbaarheid, doorstroming N65 en duurzaamheid, zijn in eerdere onderzoeksrapporten al grote vraagtekens gezet.
 
 
+
+
   # Ontsluitingsstructuur
 
 
