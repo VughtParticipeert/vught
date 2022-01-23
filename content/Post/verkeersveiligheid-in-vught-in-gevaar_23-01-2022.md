@@ -1,5 +1,5 @@
 ---
-title: Verkeersveiligheid in Vught in gevaar
+title: Verkeersveiligheid in gemeente Vught in gevaar
 date: 2022-01-23T08:47:26.389Z
 theme: Verkeersveiligheid
 typePost: Publicatie
