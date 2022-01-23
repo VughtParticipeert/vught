@@ -27,7 +27,7 @@ content: >-
   De geplande reconstructie van de N65 zal nauwelijks leiden tot een verbeterde situatie op de N65 en zal zeker leiden tot een aanzienlijke toename van het verkeer in de bebouwde kommen. **De conclusie luidt dan ook: het onderliggend wegennet van de gemeente Vught is niet geschikt voor het veilig afwikkelen van het verkeer.** 
 
 
-  De Raad van State ([RvS](https://www.raadvanstate.nl)) heeft de gemeente opgedragen aan te tonen dat de gevolgen van de reconstructie niet ‘in betekenende mate’ zullen zijn. Het onderzoek toont aan dat de toename in meer dan ‘betekenende mate’ zal zijn, zowel wat betreft verkeersaantallen als overlast door geluid en luchtvervuiling. 
+  De Raad van State ([RvS](https://www.raadvanstate.nl)) heeft de gemeente opgedragen aan te tonen dat de gevolgen van de reconstructie niet ‘in betekenende mate’ zullen zijn. Het verkeersveiligheidsonderzoek OWN toont aan dat de toename in meer dan ‘betekenende mate’ zal zijn, zowel wat betreft verkeersaantallen als overlast door geluid en luchtvervuiling. 
 
 
   Inmiddels onderzoekt de Stichting Advisering Bestuursrechtspraak ([STAB](https://stab.nl)), in opdracht van de RvS, de gevolgen voor de verkeersveiligheid. Daarbij wordt in gesprekken met diverse bewonersgroepen gebruik gemaakt van de conclusies van dit verkeersveiligheidsonderzoek.
