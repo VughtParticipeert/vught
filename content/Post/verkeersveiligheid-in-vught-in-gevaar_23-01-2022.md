@@ -4,10 +4,12 @@ date: 2022-01-23T08:47:26.389Z
 theme: Verkeersveiligheid
 typePost: Publicatie
 group: N65 reconstructie en haar 6 doelstellingen
-status: 1
+status: "1"
 answered: false
 content: >-
-  ![](/uploads/bd-ergernis-over-wildgroei-aan-rotondes-2.png)
+  ![Onveilige situaties zoals op
+  ovondes](/uploads/bd-ergernis-over-wildgroei-aan-rotondes-2.png "Een ovonde
+  met fietsers in 2 rijrichtingen")
 
 
   VughtParticipeert heeft ervoor gezorgd dat een verkeersveiligheidsonderzoek uitgevoerd is voor Vught, Helvoirt en Cromvoirt. Hierbij zijn zowel de gevolgen van het project voor de reconstructie van de N65 als die van het Programma Hoogfrequent Spoor (PHS) onderzocht. 
@@ -25,10 +27,10 @@ content: >-
   De geplande reconstructie van de N65 zal nauwelijks leiden tot een verbeterde situatie op de N65 en zal zeker leiden tot een aanzienlijke toename van het verkeer in de bebouwde kommen. De conclusie luidt dan ook: het onderliggend wegennet van de gemeente Vught is niet geschikt voor het veilig afwikkelen van het verkeer. 
 
 
-  De Raad van State heeft de gemeente opgedragen aan te tonen dat de gevolgen van de reconstructie niet ‘in betekenende mate’ zullen zijn. Het onderzoek toont aan dat de toename in meer dan ‘betekenende mate’ zal zijn, zowel wat betreft verkeersaantallen als overlast door geluid en luchtvervuiling. 
+  De Raad van State ([RvS](https://www.raadvanstate.nl)) heeft de gemeente opgedragen aan te tonen dat de gevolgen van de reconstructie niet ‘in betekenende mate’ zullen zijn. Het onderzoek toont aan dat de toename in meer dan ‘betekenende mate’ zal zijn, zowel wat betreft verkeersaantallen als overlast door geluid en luchtvervuiling. 
 
 
-  Inmiddels onderzoekt de Stichting Advisering Bestuursrechtspraak (STAB), in opdracht van de RvS, de gevolgen voor de verkeersveiligheid. Daarbij wordt in gesprekken met diverse bewonersgroepen gebruik gemaakt van de conclusies van dit verkeersveiligheidsonderzoek.
+  Inmiddels onderzoekt de Stichting Advisering Bestuursrechtspraak ([STAB](https://stab.nl)), in opdracht van de RvS, de gevolgen voor de verkeersveiligheid. Daarbij wordt in gesprekken met diverse bewonersgroepen gebruik gemaakt van de conclusies van dit verkeersveiligheidsonderzoek.
 
 
   Inmiddels zijn tenminste 3 van de geplande doelen voor de reconstructie N65, verbeterde verkeersveiligheid, minder geluidshinder en minder luchtvervuiling, niet meer haalbaar. Bij de overige 3 doelstellingen, betere oversteekbaarheid, doorstroming N65 en duurzaamheid, zijn in eerdere onderzoeksrapporten al grote vraagtekens gezet.
@@ -50,4 +52,11 @@ content: >-
 
 
   Concluderend kan gesteld worden dat de ambities van de reconstructie N65 niet gehaald gaan worden en de onderbouwing op meerdere onderdelen onjuist en/of incompleet is. Het OWN van Vught (en Helvoirt en Cromvoirt) is niet in staat om de gevolgen van de projecten op te vangen binnen de normen die gelden voor verkeersveiligheid en milieu-effecten.
+
+
+  # Rapport onderzoek verkeersveiligheid OWN
+
+
+  Het rapport verkeersveiligheid OWN is zowel aan de STAB als aan de RvS ter beschikking gesteld. De resultaten van het verkeersveiligheidsonderzoek OWN zullen een bijdrage leveren aan het rapport dat de STAB in februari aan de RvS zal opleveren. De RvS zal hiermee kunnen beoordelen of de verkeersveiligheid en overlast door geluid en luchtvervuiling in 'betekenende mate' zal verslechteren.
+attachment: []
 ---
