@@ -5,7 +5,7 @@ theme: Wonen
 typePost: Vraag
 group: Wonen
 status: 1
-answered: false
+answered: true
 content: >-
   ![Wonen in Vught](/uploads/cpo-2019-08-09-15.29.56.png "Wonen in Vught")
 
