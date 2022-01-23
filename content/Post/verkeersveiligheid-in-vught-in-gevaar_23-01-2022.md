@@ -58,5 +58,8 @@ content: >-
 
 
   Het rapport verkeersveiligheid OWN is zowel aan de STAB als aan de RvS ter beschikking gesteld. De resultaten van het verkeersveiligheidsonderzoek OWN zullen een bijdrage leveren aan het rapport dat de STAB in februari aan de RvS zal opleveren. De RvS zal hiermee kunnen beoordelen of de verkeersveiligheid en overlast door geluid en luchtvervuiling in 'betekenende mate' zal verslechteren.
-attachment: []
+attachment:
+  - file:
+      attachment: /uploads/eindrapport_own-5.pdf
+      name: Eindrapport verkeersveiligheid OWN
 ---
