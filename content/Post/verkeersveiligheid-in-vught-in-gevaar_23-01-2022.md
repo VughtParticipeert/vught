@@ -24,7 +24,7 @@ content: >-
   Bij geen van de projecten heeft de gemeente onderzocht wat de gevolgen zijn voor de verkeersveiligheid, laat staan een bewijs geleverd dat de verkeersveiligheid na de reconstructie N65 verbetert. Het is zelfs zonneklaar dat de nu al problematische situatie op een groot aantal wegen van het OWN ernstig zal verslechteren.
 
 
-  De geplande reconstructie van de N65 zal nauwelijks leiden tot een verbeterde situatie op de N65 en zal zeker leiden tot een aanzienlijke toename van het verkeer in de bebouwde kommen. De conclusie luidt dan ook: het onderliggend wegennet van de gemeente Vught is niet geschikt voor het veilig afwikkelen van het verkeer. 
+  De geplande reconstructie van de N65 zal nauwelijks leiden tot een verbeterde situatie op de N65 en zal zeker leiden tot een aanzienlijke toename van het verkeer in de bebouwde kommen. **De conclusie luidt dan ook: het onderliggend wegennet van de gemeente Vught is niet geschikt voor het veilig afwikkelen van het verkeer.** 
 
 
   De Raad van State ([RvS](https://www.raadvanstate.nl)) heeft de gemeente opgedragen aan te tonen dat de gevolgen van de reconstructie niet ‘in betekenende mate’ zullen zijn. Het onderzoek toont aan dat de toename in meer dan ‘betekenende mate’ zal zijn, zowel wat betreft verkeersaantallen als overlast door geluid en luchtvervuiling. 
@@ -51,7 +51,7 @@ content: >-
   Tevens zijn de milieueffecten van de verkeerstoename in het OWN onderzocht en of deze binnen de norm van niet ‘In Betekenende Mate’ blijven. Het blijkt dat een deel van de straten in Vught echter wel degelijk ‘In Betekenende Mate’ extra worden belast.
 
 
-  Concluderend kan gesteld worden dat de ambities van de reconstructie N65 niet gehaald gaan worden en de onderbouwing op meerdere onderdelen onjuist en/of incompleet is. Het OWN van Vught (en Helvoirt en Cromvoirt) is niet in staat om de gevolgen van de projecten op te vangen binnen de normen die gelden voor verkeersveiligheid en milieu-effecten.
+  **Concluderend kan gesteld worden dat de ambities van de reconstructie N65 niet gehaald gaan worden en de onderbouwing op meerdere onderdelen onjuist en/of incompleet is.** Het OWN van Vught (en Helvoirt en Cromvoirt) is niet in staat om de gevolgen van de projecten op te vangen binnen de normen die gelden voor verkeersveiligheid en milieu-effecten.
 
 
   # Rapport onderzoek verkeersveiligheid OWN
