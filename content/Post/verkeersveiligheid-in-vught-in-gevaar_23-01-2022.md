@@ -21,7 +21,7 @@ content: >-
   Voor het fietsnetwerk bestaat geen visie of onderbouwing. Voor de meest kwetsbare verkeersdeelnemers, de fietsers, zijn geen intensiteiten bekend. Waar in de plannen naar fietsers wordt gekeken, worden aannames gebruikt. Zelfs beschikbare bronnen als STRAVA zijn niet gebruikt als onderbouwing.
 
 
-  Bij geen van de projecten heeft de gemeente onderzocht wat de gevolgen zijn voor de verkeersveiligheid, laat staan een bewijs geleverd dat de verkeersveiligheid na de reconstructie N65 verbetert. Het is zelfs zonneklaar dat de nu al problematische situatie op een groot aantal wegen van het OWN ernstig zal verslechteren.
+  Bij geen van de projecten heeft de gemeente onderzocht wat de gevolgen zijn voor de verkeersveiligheid, laat staan een bewijs geleverd dat de verkeersveiligheid na de reconstructie N65 verbetert. **Het is zelfs zonneklaar dat de nu al problematische situatie op een groot aantal wegen van het OWN ernstig zal verslechteren.**
 
 
   De geplande reconstructie van de N65 zal nauwelijks leiden tot een verbeterde situatie op de N65 en zal zeker leiden tot een aanzienlijke toename van het verkeer in de bebouwde kommen. **De conclusie luidt dan ook: het onderliggend wegennet van de gemeente Vught is niet geschikt voor het veilig afwikkelen van het verkeer.** 
