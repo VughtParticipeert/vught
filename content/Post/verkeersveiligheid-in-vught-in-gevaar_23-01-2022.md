@@ -24,10 +24,10 @@ content: >-
   Bij geen van de projecten heeft de gemeente onderzocht wat de gevolgen zijn voor de verkeersveiligheid, laat staan een bewijs geleverd dat de verkeersveiligheid na de reconstructie N65 verbetert. **Het is zelfs zonneklaar dat de nu al problematische situatie op een groot aantal wegen van het OWN ernstig zal verslechteren.**
 
 
-  De geplande reconstructie van de N65 zal nauwelijks leiden tot een verbeterde situatie op de N65 en zal zeker leiden tot een aanzienlijke toename van het verkeer in de bebouwde kommen. **De conclusie luidt dan ook: het onderliggend wegennet van de gemeente Vught is niet geschikt voor het veilig afwikkelen van het verkeer.** 
+  De geplande reconstructie van de N65 zal niet of nauwelijks leiden tot een verbeterde situatie op de N65, maar zal zeker leiden tot een aanzienlijke toename van het verkeer in de bebouwde kommen. **De conclusie luidt dan ook: het onderliggend wegennet van de gemeente Vught is niet geschikt voor het veilig afwikkelen van het verkeer.** 
 
 
-  De Raad van State ([RvS](https://www.raadvanstate.nl)) heeft de gemeente opgedragen aan te tonen dat de gevolgen van de reconstructie niet ‘in betekenende mate’ zullen zijn. Het verkeersveiligheidsonderzoek OWN toont aan dat de toename in meer dan ‘betekenende mate’ zal zijn, zowel wat betreft verkeersaantallen als overlast door geluid en luchtvervuiling. 
+  De Raad van State ([RvS](https://www.raadvanstate.nl)) heeft de gemeente gevraagd aan te tonen dat de gevolgen van de reconstructie niet ‘in betekenende mate’ negatief zullen zijn. Het verkeersveiligheidsonderzoek OWN toont aan dat dit wel degelijk de uitkomst zal zijn, zowel wat betreft verkeersaantallen als de extra overlast door geluid en luchtvervuiling. 
 
 
   Inmiddels onderzoekt de Stichting Advisering Bestuursrechtspraak ([STAB](https://stab.nl)), in opdracht van de RvS, de gevolgen voor de verkeersveiligheid. Daarbij wordt in gesprekken met diverse bewonersgroepen gebruik gemaakt van de conclusies van dit verkeersveiligheidsonderzoek.
@@ -36,12 +36,10 @@ content: >-
   Inmiddels zijn tenminste 3 van de geplande doelen voor de reconstructie N65, verbeterde verkeersveiligheid, minder geluidshinder en minder luchtvervuiling, niet meer haalbaar. Bij de overige 3 doelstellingen, betere oversteekbaarheid, doorstroming N65 en duurzaamheid, zijn in eerdere onderzoeksrapporten al grote vraagtekens gezet.
 
 
-
-
   # Ontsluitingsstructuur
 
 
-  De ontsluitingsstructuur van Vught, Helvoirt en Cromvoirt bestaat uit wegen, die weliswaar de categorie gebiedsontsluitingsweg (GOW) toegedeeld hebben gekregen, maar die daar niet aan voldoen. Toch worden op basis van de categorie GOW kenmerken aan de wegen toegeschreven waardoor doorstroming  en veiligheid van die wegen overschat wordt.
+  De ontsluitingsstructuur van Vught, Helvoirt en Cromvoirt bestaat uit wegen, die weliswaar de categorie gebiedsontsluitingsweg (GOW) toegedeeld hebben gekregen, maar die daar niet aan voldoen. Toch worden op basis van de categorie GOW kenmerken aan deze wegen toegeschreven waardoor doorstroming en veiligheid van die wegen overschat wordt.
 
 
   Voor gemotoriseerd verkeer zijn diverse verkeersmodellen gebruikt (regionale en nationale statische modellen en microscopische modellen). Het gevolg van deze aanpak is een niet consistente set van gegevens, die voor bepaalde locaties verschillende intensiteiten laten zien. Een specificatie van de verdeling tussen verschillende voertuigsoorten ontbreekt, terwijl het aandeel vrachtverkeer wezenlijk is voor veiligheid en uitstoot.
