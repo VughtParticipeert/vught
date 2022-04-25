@@ -31,10 +31,10 @@ content: >-
   Hoe is het toch gekomen dat een project, oorspronkelijk gestart vanuit de gemeente Vught om niet gevierendeeld te worden, inmiddels door de Provincie en Rijkswaterstaat tegen alle maatschappelijke logica wordt doorgezet?
 
 
-  Heeft er dan niemand de moed te zeggen dat dit project ons allen niet verder helpt, dat een plan met een fors negatieve kosten-baten-verhouding direct gestopt moet worden, omdat wij van het niet uitvoeren allemaal beter worden. 
+  Heeft er dan niemand de moed te zeggen dat dit project ons allen niet verder helpt, dat een plan met een fors negatieve kosten-baten-verhouding direct gestopt moet worden, omdat wij van het niet uitvoeren allemaal beter worden?
 
 
-  Laat ons wat meer tijd nemen om ons te bezinnen op de beste manier om vierdeling te voorkomen, de verkeersveiligheid te verbeteren, luchtvervuiling en verkeersgeluid te verminderen en een werkelijk duurzame oplossing te realiseren.
+  Laat ons wat meer tijd nemen om ons te bezinnen op de beste manier om vierdeling te voorkomen, de verkeersveiligheid sterk te verbeteren, luchtvervuiling en verkeersgeluid aantoonbaar te verminderen en een werkelijk duurzame oplossing te realiseren.
 
 
   Vele beroepspartijen hebben zich vorige week tijdens de zitting van de Raad maximaal ingespannen om duidelijk te maken dat dit plan moet worden vernietigd. Helaas is vernietiging voor de gehele samenleving de beste optie.
