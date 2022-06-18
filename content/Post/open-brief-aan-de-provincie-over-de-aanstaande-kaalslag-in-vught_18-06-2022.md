@@ -1,5 +1,5 @@
 ---
-title: Open brief aan de provincie over de aanstaande Kaalslag in Vught
+title: Open brief aan de provincie over de aanstaande kaalslag in Vught
 date: 2022-06-18T20:45:05.630Z
 theme: N65 Duurzaam
 typePost: Publicatie
