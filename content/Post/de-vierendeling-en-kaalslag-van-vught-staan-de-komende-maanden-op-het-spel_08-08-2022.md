@@ -7,7 +7,8 @@ group: N65 reconstructie en haar 6 doelstellingen
 status: 1
 answered: false
 content: >-
-  ![](/uploads/img_8858-1-.jpg)
+  ![De N65 zoals wij die nu nog kunnen bewonderen](/uploads/img_8858-1-.jpg "Een
+  van de mooiste provinciale wegen van Brabant")
 
 
   De komende maanden worden belangrijke besluiten genomen over het verkeer,  de verkeersveiligheid en het kappen van meer dan 1.100 bomen in de gemeente Vught.
