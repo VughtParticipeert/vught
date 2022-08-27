@@ -1,5 +1,5 @@
 ---
-title: '"Vught de beste woonplaats in Brabant”? "Gaat u maar rustig slapen, er
+title: '"Vught de beste woonplaats van Brabant”? "Gaat u maar rustig slapen, er
   is niks aan de hand"'
 date: 2022-08-27T13:20:11.416Z
 theme: VughtParticipeert in de media
