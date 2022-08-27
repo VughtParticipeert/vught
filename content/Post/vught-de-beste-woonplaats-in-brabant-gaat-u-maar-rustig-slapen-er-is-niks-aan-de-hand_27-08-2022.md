@@ -12,7 +12,7 @@ content: >-
   "In de infrastructurele oksel van Brabant")
 
 
-  Het [Brabants Dagblad van 27 augustus](https://www.bd.nl/den-bosch-vught/vught-is-de-beste-woonplaats-van-brabant-maar-daar-hangt-wel-een-prijskaartje-aan~aaaa8161/) citeert een rapport van Elsevier waaruit zou blijken dat Vught de beste woonplaat van Brabant is. Navraag bij inwoners leverde nogal wat kanttekeningen op. Zo werd ook VughtParticipeert gevraagd haar mening te geven en delen daarvan zijn opgenomen in het [artikel](https://www.bd.nl/den-bosch-vught/vught-is-de-beste-woonplaats-van-brabant-maar-daar-hangt-wel-een-prijskaartje-aan~aaaa8161/). Onderstaand de gehele reactie van ons, waarbij wij onze grote zorgen hebben geuit over de werkelijk stand van zaken en de komende verbouwingen.
+  Het [Brabants Dagblad van 27 augustus](https://www.bd.nl/den-bosch-vught/vught-is-de-beste-woonplaats-van-brabant-maar-daar-hangt-wel-een-prijskaartje-aan~aaaa8161/) citeert een rapport van Elsevier waaruit zou blijken dat Vught de beste woonplaats van Brabant is. Navraag bij diverse inwoners leverde 'nogal' wat kanttekeningen op. Zo werd ook VughtParticipeert gevraagd haar mening te geven en delen daarvan zijn opgenomen in het [artikel](https://www.bd.nl/den-bosch-vught/vught-is-de-beste-woonplaats-van-brabant-maar-daar-hangt-wel-een-prijskaartje-aan~aaaa8161/). Onderstaand de gehele reactie van ons, waarbij wij onze grote zorgen hebben geuit over de werkelijk stand van zaken en de komende verbouwingen.
 
 
   **Vught zou perfect zijn als het niet in de infrastructurele oksel van Brabant zou liggen**
