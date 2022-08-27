@@ -12,7 +12,7 @@ content: >-
   "In de infrastructurele oksel van Brabant")
 
 
-  Het Brabants Dagblad van 27 augustus citeert een rapport van Elsevier waaruit zou blijken dat Vught de beste woonplaat van Brabant is. Navraag bij inwoners leverde nogal wat kanttekeningen op. Zo werd ook VughtParticipeert gevraagd haar mening te geven en delen daarvan zijn opgenomen in het [artikel](https://www.bd.nl/den-bosch-vught/vught-is-de-beste-woonplaats-van-brabant-maar-daar-hangt-wel-een-prijskaartje-aan~aaaa8161/). Onderstaand de gehele reactie van ons, waarbij wij onze grote zorgen hebben geuit over de werkelijk stand van zaken en de komende verbouwingen.
+  Het [Brabants Dagblad van 27 augustus](https://www.bd.nl/den-bosch-vught/vught-is-de-beste-woonplaats-van-brabant-maar-daar-hangt-wel-een-prijskaartje-aan~aaaa8161/) citeert een rapport van Elsevier waaruit zou blijken dat Vught de beste woonplaat van Brabant is. Navraag bij inwoners leverde nogal wat kanttekeningen op. Zo werd ook VughtParticipeert gevraagd haar mening te geven en delen daarvan zijn opgenomen in het [artikel](https://www.bd.nl/den-bosch-vught/vught-is-de-beste-woonplaats-van-brabant-maar-daar-hangt-wel-een-prijskaartje-aan~aaaa8161/). Onderstaand de gehele reactie van ons, waarbij wij onze grote zorgen hebben geuit over de werkelijk stand van zaken en de komende verbouwingen.
 
 
   **Vught zou perfect zijn als het niet in de infrastructurele oksel van Brabant zou liggen**
@@ -58,4 +58,7 @@ content: >-
 
 
   Wat betreft de beoordeling van de woonplaats Vught laten wij de bovengenoemde zorgen zwaar wegen tegenover de positieve aspecten. De komende jaren zullen de verbouwingen veel leefbaarheid wegnemen en als daarna de kaalslag zichtbaar wordt, hebben wij nog lang nodig om onze oude luister te herstellen. Op basis van deze afweging hoort Vught in de komend jaren niet in de bovenste helft van de beste gemeenten van Brabant.
+
+
+  PS De uitspraak "Gaat u maar rustig slapen, er is niks aan de hand" is van minister-president Colijn. Wij weten wat er daarna gebeurde. Zie [Brabants Dagblad 23-03-20](https://www.bd.nl/oss-e-o/colijn-probeerde-onrust-te-bezweren-gaat-u-maar-rustig-slapen-er-is-niks-aan-de-hand~a8500e94/).
 ---
