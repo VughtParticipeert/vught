@@ -40,11 +40,10 @@ content: >-
   Dit witboek (bijgaand) is vooraf in concept aan het gemeentebestuur aangeboden om feitelijke onjuistheden te voorkomen. De conclusies en aanbevelingen zijn gedaan door VughtParticipeert in samenwerking met de bij deze 9 participatieprocessen betrokken inwoners. 
 
 
-  Op zaterdag 8 oktober gaf de Verenging VughtParticipeert een interview op Novo3 in het programma Blikveld. Tijdens dit interview gaven Peter Kortz en Philip Helmer een uitgebreide toelichting over het witboek en de ontwikkeling van participatie in de gemeente Vught.\
+  Op zaterdag 8 oktober gaf de Verenging VughtParticipeert een interview op Novo3 in het programma Blikveld. Tijdens dit interview gaven Peter Kortz en Philip Helmer een uitgebreide toelichting over het witboek en de ontwikkeling van participatie in de gemeente Vught.
 
-  \
 
-  [luister terug ...](https://www.novo3.nl/radio/blikveld/blikveld-terugluisteren-van-zaterdag-8-oktober/)
+  [luister terug ...](https://www.novo3.nl/radio/blikveld/blikveld-terugluisteren-van-zaterdag-8-oktober/)
 attachment:
   - file:
       name: Witboek ‘Participatie gemeente Vught 2022’
