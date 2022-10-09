@@ -37,10 +37,14 @@ content: >-
   Tenslotte heeft VughtParticipeert haar eigen functioneren geëvalueerd op basis van de aanbevelingen en maatregelen zijn ingeleid.
 
 
-  Dit witboek is vooraf in concept aan het gemeentebestuur aangeboden om feitelijke onjuistheden te voorkomen. De conclusies en aanbevelingen zijn gedaan door VughtParticipeert in samenwerking met de bij deze 9 participatieprocessen betrokken inwoners. 
+  Dit witboek (bijgaand) is vooraf in concept aan het gemeentebestuur aangeboden om feitelijke onjuistheden te voorkomen. De conclusies en aanbevelingen zijn gedaan door VughtParticipeert in samenwerking met de bij deze 9 participatieprocessen betrokken inwoners. 
 
 
-  Bijgaand het witboek zoals dat aan het gemeentebestuur is aangeboden in combinatie met een uitnodiging voor een verdere dialoog.
+  Op zaterdag 8 oktober gaf de Verenging VughtParticipeert een interview op Novo3 in het programma Blikveld. Tijdens dit interview gaven Peter Kortz en Philip Helmer een uitgebreide toelichting over het witboek en de ontwikkeling van participatie in de gemeente Vught.\
+
+  \
+
+  [luister terug ...](https://www.novo3.nl/radio/blikveld/blikveld-terugluisteren-van-zaterdag-8-oktober/)
 attachment:
   - file:
       name: Witboek ‘Participatie gemeente Vught 2022’
