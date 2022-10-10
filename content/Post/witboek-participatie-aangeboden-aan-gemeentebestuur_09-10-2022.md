@@ -12,7 +12,7 @@ content: >-
   Participatie")
 
 
-  De Verenging VughtParticipeert heeft het witboek **‘Participatie gemeente Vught 2022’** aangeboden aan het gemeentebestuur.
+  De Vereniging VughtParticipeert heeft het witboek **‘Participatie gemeente Vught 2022’** aangeboden aan het gemeentebestuur.
 
 
   Het nieuwe gemeentebestuur is in 2021 aangetreden met het streven naar een nieuwe bestuurscultuur en versterkte participatie. De Vereniging VughtParticipeert heeft dit zeer toegejuichd en kijkt nu na 1,5 jaar terug op de eerste ervaringen. 
