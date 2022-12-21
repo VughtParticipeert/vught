@@ -1,5 +1,5 @@
 ---
-title: Uitspraak Raad van State in zake de N65
+title: Raad van State keurt plannen N65 af
 date: 2022-12-21T08:57:50.125Z
 theme: N65 Duurzaam
 typePost: Publicatie
