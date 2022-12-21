@@ -7,7 +7,7 @@ group: N65 Procedures Raad van State
 status: 1
 answered: false
 content: >-
-  ![](/uploads/img_8858-1-.jpg)
+  ![De N65 zoals deze er mooi bijligt.](/uploads/img_8858-1-.jpg "N65")
 
 
   De Raad van State heeft in haar uitspraak van 21 december het bestemmingsplan vernietigd. In de uitspraak van de Raad van State staat als overweging:
