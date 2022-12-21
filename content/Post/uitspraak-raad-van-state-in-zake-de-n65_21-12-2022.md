@@ -19,7 +19,7 @@ content: >-
   VughtParticipeert is tevreden over dit resultaat, mede omdat het laat zien dat in ons land de bestuurlijke besluitvorming en beroepsprocedures hierop functioneren. 
 
 
-  Overigens moet hierbij wel worden vastgesteld dat het van meet af aan een ongelijke strijd was, waarbij inwoners en belangenorganisaties tegenover een leger aan experts en juristen met vrijwel onbeperkt budget stonden. Dankzij de enorme inzet en financiële bijdragen van inwoners konden de inhoudelijke tekortkomingen van dit plan bij de RvS naar voren worden gebracht, leidend tot deze meer dan terechte vernietiging van het besluit van de gemeente.
+  Overigens moet hierbij wel worden vastgesteld dat het van meet af aan een ongelijke strijd was, waarbij inwoners en belangenorganisaties tegenover een leger aan experts en juristen met vrijwel onbeperkt budget stonden. Dankzij de enorme inzet en financiële bijdragen van inwoners konden de inhoudelijke tekortkomingen van dit plan bij de RvS naar voren worden gebracht, leidend tot deze terechte vernietiging van het besluit van de gemeente.
 
 
   ## Wat hieraan vooraf ging
@@ -34,7 +34,7 @@ content: >-
   Al in een vroeg stadium was vastgesteld dat de maatschappelijke kosten-baten verhouding van deze reconstructie negatief was. Mede om die reden heeft VughtParticipeert een aantal beroepspartijen ondersteund bij het uitwerken van hun beroepschriften en hun toelichting voor de Raad van State.
 
 
-  Een duurzaam alternatief in de vorm van een tunnel, uitsluitend voor doorgaand verkeer, was niet meegenomen in het onderzoek van de gemeente, en een verzoek daartoe is door het gemeentebestuur op misleidende wijze afgewezen. 
+  Een duurzaam alternatief in de vorm van een tunnel, uitsluitend voor doorgaand verkeer, was niet meegenomen in het onderzoek van de gemeente, en een verzoek daartoe is door het gemeentebestuur  afgewezen. 
 
 
   ## Wat betekent dit voor de N65 en VughtParticipeert?
