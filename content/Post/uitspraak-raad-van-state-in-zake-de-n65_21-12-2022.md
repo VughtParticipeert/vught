@@ -10,10 +10,13 @@ content: >-
   ![](/uploads/img_8858-1-.jpg)
 
 
-  De Raad van State heeft in haar uitspraak van 21 december het bestemmingsplan vernietigd. In het persbericht van de Raad van State staat als overweging:
+  De Raad van State heeft in haar uitspraak van 21 december het bestemmingsplan vernietigd. In de uitspraak van de Raad van State staat als overweging:
 
 
   “Stichting Natuur- en Milieugroep Vught voerde bij de Afdeling bestuursrechtspraak aan dat het Natura 2000-gebied ‘Loonse en Drunense Duinen en Leemkuilen’ schade zou oplopen door de stikstofuitstoot van zowel de aanleg als het gebruik van de gereconstrueerde N65. De Afdeling (red: RvS) bestuursrechtspraak geeft de stichting daarin gelijk. Voor een plan mag alleen toestemming worden gegeven als uit onderzoek blijkt dat zeker is dat beschermde natuurgebieden daardoor geen schade oplopen.”
+
+
+  Naast het probleem over stikstof heeft nog een aantal onderwerpen laten meewegen bij haar besluit. Die hadden betrekking op verkeer 
 
 
   VughtParticipeert is tevreden over dit resultaat, mede omdat het laat zien dat in ons land de bestuurlijke besluitvorming en beroepsprocedures hierop functioneren. 
