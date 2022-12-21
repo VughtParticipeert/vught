@@ -10,9 +10,6 @@ content: >-
   ![](/uploads/img_8858-1-.jpg)
 
 
-  ## Uitspraak van de Raad van State
-
-
   De Raad van State heeft in haar uitspraak van 21 december het bestemmingsplan vernietigd. In het persbericht van de Raad van State staat als overweging:
 
 
