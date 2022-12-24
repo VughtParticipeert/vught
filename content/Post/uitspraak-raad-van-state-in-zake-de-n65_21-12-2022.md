@@ -22,7 +22,7 @@ content: >-
   VughtParticipeert is tevreden over dit resultaat, mede omdat het laat zien dat in ons land de bestuurlijke besluitvorming en beroepsprocedures hierop functioneren. 
 
 
-  Overigens moet hierbij wel worden vastgesteld dat het van meet af aan een ongelijke strijd was, waarbij inwoners en belangenorganisaties tegenover een leger aan experts en juristen met vrijwel onbeperkt budget stonden. Dankzij de enorme inzet en financiële bijdragen van inwoners konden de inhoudelijke tekortkomingen van dit plan bij de RvS naar voren worden gebracht, leidend tot deze terechte vernietiging van het besluit van de gemeente.
+  Overigens moet hierbij wel worden vastgesteld dat het van meet af aan een ongelijke strijd was, waarbij inwoners en belangenorganisaties tegenover een leger aan experts en juristen met vrijwel onbeperkt budget stonden. Dankzij de enorme inzet en financiële bijdragen van inwoners konden de inhoudelijke tekortkomingen van dit plan bij de RvS naar voren worden gebracht, leidend tot deze terechte vernietiging van het besluit van de gemeente. 
 
 
   ## Wat hieraan vooraf ging
