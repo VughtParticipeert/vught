@@ -49,5 +49,5 @@ content: >-
   Wel is hiermee ruimte gemaakt voor beter onderzoek naar alternatieven die aan de gestelde doelen beantwoorden en een duurzame oplossing bieden voor verkeer en leefbaarheid.
 
 
-  VughtParticipeert is zich bewust van haar taak om te komen tot een duurzame oplossing. Wij willen samenwerken met gemeente, provincie en Rijkswaterstaat en waken voor transparantie, participatie en zuivere besluitvorming.
+  VughtParticipeert is zich bewust van haar verantwoordelijkheid om te komen tot een duurzame oplossing. Wij willen samenwerken met gemeente, provincie en Rijkswaterstaat en waken voor transparantie, participatie en zuivere besluitvorming.
 ---
