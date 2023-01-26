@@ -13,9 +13,8 @@ content: >-
   # VughtParticipeert staat voor transparantie, participatie en zuivere besluitvorming.
 
 
-  *Ingesproken door Philip Helmer (voorzitter) in de Commissievergadering 26 januari 2023.*\
+  *Ingesproken door Philip Helmer (voorzitter) in de Commissievergadering 26 januari 2023.*
 
-  \
 
   De recente onrust aangaande de locaties voor tijdelijke bewoning laat zien dat als het (hieraan) ergens hapert, wij de kat in de gordijnen hebben en we verder van huis zijn. Er is vandaag de dag, met kritische en betrokken inwoners geen alternatief voor een goed uitgevoerde participatie. 
 
