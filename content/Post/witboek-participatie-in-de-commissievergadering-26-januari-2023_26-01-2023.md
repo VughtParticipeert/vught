@@ -1,5 +1,5 @@
 ---
-title: Witboek Participatie in de Commissievergadering 26 januari 2023**
+title: Witboek Participatie in de Commissievergadering 26 januari 2023
 date: 2023-01-26T21:30:24.482Z
 theme: Participatie en bestuurlijke versterking
 typePost: Publicatie
