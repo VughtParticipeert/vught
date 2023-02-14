@@ -28,7 +28,7 @@ content: >-
   \- Vaststellen agenda
 
 
-  \- Notulen ALV 2022
+  \- Notulen ALV 2022 (bijlage)
 
 
   \- Verslag kascommissie
@@ -43,13 +43,13 @@ content: >-
   \- Onderwerpen voor het jaar 2023
 
 
-  * Participatie (Witboek en inspraak in de [commissievergadering](https://vught.bestuurlijkeinformatie.nl/Agenda/Index/c0e8e7c5-efba-4a7c-bbbe-514282996911) 26-01-2023))
+  * Participatie: Witboek (bijlage) en inspraak in de [commissievergadering](https://vught.bestuurlijkeinformatie.nl/Agenda/Index/c0e8e7c5-efba-4a7c-bbbe-514282996911) 26-01-2023))
+
+  * Verkeer en mobiliteit / [N65 reanimatie zie Brabants Dagblad](https://www.bd.nl/vught/mogelijk-toch-doorstart-voor-transformatie-van-n65-stikstof-lijkt-belangrijkste-struikelblok~a0378bf0/)
 
   * Ruimtelijke ordening en stedenbouw
 
-  * Leefbaarheid en gezondheid
-
-  * Verkeer en mobiliteit / N65 reanimatie
+  * Leefbaarheid en Gezondheid
 
 
   \- Lid brengt lid
@@ -66,4 +66,7 @@ attachment:
   - file:
       attachment: /uploads/221008-witboek-participatie-gemeente-vught-2022-def.pdf
       name: Witboek Participatie gemeente Vught 2022 def
+  - file:
+      name: Notulen ALV 21 maart 2022
+      attachment: /uploads/220321-vp-alv-notulen-1.pdf
 ---
