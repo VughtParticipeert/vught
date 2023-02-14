@@ -10,10 +10,10 @@ content: >-
   ![ALV via Zoom](/uploads/210328-meet-up.png "ALV via Zoom")
 
 
-  Op maandag 20 februari vanaf 20:00 h houden wij onze jaarlijkse Algemene Ledenvergadering. Deze vergadering zal plaatsvinden via Zoom. De vergadering is uitsluitend voor leden van de verening.
+  Op maandag 20 februari vanaf 20:00 h houden wij onze jaarlijkse Algemene Ledenvergadering. Deze vergadering zal plaatsvinden via Zoom. De vergadering is uitsluitend voor leden van de vereniging.
 
 
-  Wilt u deelnemen, meld u dan uiterlijk vrijdag 17 februari aan als lid. [Aanmelden](https://www.vughtparticipeert.nl/member#main).
+  Wilt u deelnemen, meldt u dan uiterlijk vrijdag 17 februari aan als lid. [Aanmelden](https://www.vughtparticipeert.nl/member#main).
 
 
   De concept agenda ziet er als volgt uit:
@@ -59,6 +59,9 @@ content: >-
 
 
   \- Sluiting vergadering.
+
+
+  ![](/uploads/scherm-afbeelding-2023-02-14-om-21.38.50.png)
 attachment:
   - file:
       attachment: /uploads/230126-inspreken-vughtparticipeert-commissievergadering.pdf
@@ -69,4 +72,7 @@ attachment:
   - file:
       name: Notulen ALV 21 maart 2022
       attachment: /uploads/220321-vp-alv-notulen-1.pdf
+  - file:
+      attachment: /uploads/scherm-afbeelding-2023-02-14-om-21.38.50.png
+      name: BD 14-02-2023 Mogelijk toch doorstart voor transformatie van N65
 ---
