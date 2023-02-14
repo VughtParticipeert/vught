@@ -72,7 +72,4 @@ attachment:
   - file:
       name: Notulen ALV 21 maart 2022
       attachment: /uploads/220321-vp-alv-notulen-1.pdf
-  - file:
-      attachment: /uploads/scherm-afbeelding-2023-02-14-om-21.38.50.png
-      name: BD 14-02-2023 Mogelijk toch doorstart voor transformatie van N65
 ---
