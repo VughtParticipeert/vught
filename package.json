@@ -13,7 +13,7 @@
     "vue-moment": "^4.0.0"
   },
   "devDependencies": {
-    "@gridsome/transformer-remark": "^0.3.4",
+    "@gridsome/transformer-remark": "^0.6.4",
     "netlify-cms": "^2.9.7",
     "node-sass": "^4.13.0",
     "sass-loader": "^7.3.1"
