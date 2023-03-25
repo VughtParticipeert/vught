@@ -1,5 +1,5 @@
 ---
-title: VughtParticipeert pleit voor onderzoek naar alternatieven N65 en directe
+title: VughtParticipeert pleit voor onderzoek van alternatieven N65 en directe
   maatregelen
 date: 2023-03-25T21:28:05.491Z
 theme: N65 Duurzaam
@@ -56,7 +56,9 @@ content: >-
   Gemeenteraad, het wordt tijd dat wij opkomen voor de belangen en gezondheid van onze inwoners.
 
 
-  ## [Risico’s van het spoorvervoer Financieel Dagblad 8 maart 2023](https://fd.nl/samenleving/1469827/provincie-verwijt-ministerie-nalatigheid-bij-vervoer-gevaarlijke-stoffen-op-het-spoor) 
+
+
+  ## [Risico’s van het spoorvervoer Financieel Dagblad 8 maart 2023](https://fd.nl/samenleving/1469827/provincie-verwijt-ministerie-nalatigheid-bij-vervoer-gevaarlijke-stoffen-op-het-spoor)
 
 
   Het Rijk kan en moet ingrijpen om de risico's van het spoorvervoer van gevaarlijke stoffen te verkleinen via de zogeheten Brabantroute. Nu verzuimt het ministerie van Infrastructuur en Waterstaat om op te treden tegen risicovolle transporten over dat spoor. Dat stelt de provincie Zuid-Holland, die zich baseert op een juridisch onderzoek dat ze heeft laten uitvoeren.
