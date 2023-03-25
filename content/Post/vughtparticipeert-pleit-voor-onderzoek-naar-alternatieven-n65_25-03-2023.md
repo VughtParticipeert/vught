@@ -1,5 +1,6 @@
 ---
-title: VughtParticipeert pleit voor onderzoek naar alternatieven N65
+title: VughtParticipeert pleit voor onderzoek naar alternatieven N65 en directe
+  maatregelen
 date: 2023-03-25T21:28:05.491Z
 theme: N65 Duurzaam
 typePost: Publicatie
