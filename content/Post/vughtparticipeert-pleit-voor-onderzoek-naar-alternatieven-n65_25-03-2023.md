@@ -56,8 +56,6 @@ content: >-
   Gemeenteraad, het wordt tijd dat wij opkomen voor de belangen en gezondheid van onze inwoners.
 
 
-
-
   ## [Risico’s van het spoorvervoer Financieel Dagblad 8 maart 2023](https://fd.nl/samenleving/1469827/provincie-verwijt-ministerie-nalatigheid-bij-vervoer-gevaarlijke-stoffen-op-het-spoor) 
 
 
@@ -70,7 +68,7 @@ content: >-
   Zeven keer per week komen in Tilburg goederentreinen uit de Chinese miljoenenstad Chengdu aan. De succesvolle Tilburgse Railport Brabant is het jongste bewijs dat de provincie verworden is tot de logistieke draaischijf van Nederland. Tilburg schaart zich bij de grootste railports van Europa en is de meest flexibele. Veel flexibeler dan Duisburg waar de gunstige Duitse arbeidsvoorwaarden zorgen voor beperkingen in de afwikkeling van de containers bijvoorbeeld. De trein vervoert diverse producten: van Belgisch bier tot Franse wijn, en van luxeauto's tot vluchtsimulatoren. Met een groeiende Chinese middenklasse neemt de vraag naar Westerse producten toe. En dit maakt Tilburg de ideale hub in West-Europa.
 
 
-  ## Rondwegen: daarvan zijn vele tientallen voorbeelden, klein en groot.
+  ## Rondwegen: daarvan zijn vele tientallen voorbeelden, klein en groot
 
 
   In vele plaatsen worden doorgaande provinciale wegen omgeleid en niet zoals Vught van plan was uitgebouwd van N65 naar A65. 
