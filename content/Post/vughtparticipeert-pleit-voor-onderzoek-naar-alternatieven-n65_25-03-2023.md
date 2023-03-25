@@ -56,7 +56,9 @@ content: >-
   Gemeenteraad, het wordt tijd dat wij opkomen voor de belangen en gezondheid van onze inwoners.
 
 
-  ## [Risico’s van het spoorvervoer](https://fd.nl/samenleving/1469827/provincie-verwijt-ministerie-nalatigheid-bij-vervoer-gevaarlijke-stoffen-op-het-spoor) Financieel Dagblad 8 maart 2023
+
+
+  ## [Risico’s van het spoorvervoer Financieel Dagblad 8 maart 2023](https://fd.nl/samenleving/1469827/provincie-verwijt-ministerie-nalatigheid-bij-vervoer-gevaarlijke-stoffen-op-het-spoor) 
 
 
   Het Rijk kan en moet ingrijpen om de risico's van het spoorvervoer van gevaarlijke stoffen te verkleinen via de zogeheten Brabantroute. Nu verzuimt het ministerie van Infrastructuur en Waterstaat om op te treden tegen risicovolle transporten over dat spoor. Dat stelt de provincie Zuid-Holland, die zich baseert op een juridisch onderzoek dat ze heeft laten uitvoeren.
@@ -66,36 +68,6 @@ content: >-
 
 
   Zeven keer per week komen in Tilburg goederentreinen uit de Chinese miljoenenstad Chengdu aan. De succesvolle Tilburgse Railport Brabant is het jongste bewijs dat de provincie verworden is tot de logistieke draaischijf van Nederland. Tilburg schaart zich bij de grootste railports van Europa en is de meest flexibele. Veel flexibeler dan Duisburg waar de gunstige Duitse arbeidsvoorwaarden zorgen voor beperkingen in de afwikkeling van de containers bijvoorbeeld. De trein vervoert diverse producten: van Belgisch bier tot Franse wijn, en van luxeauto's tot vluchtsimulatoren. Met een groeiende Chinese middenklasse neemt de vraag naar Westerse producten toe. En dit maakt Tilburg de ideale hub in West-Europa.
-
-
-  ## [Motie Provinciale Staten i.z. vrachtverkeer door dorpskernen](https://www.brabant.nl/bestuur/provinciale-staten/statenstukken/download?qvi=1403735)
-
-
-  Memo van de gedeputeerde
-
-
-  C.A. van der Maat
-
-
-  Gedeputeerde Mobiliteit, Financiën en Organisatie
-
-
-  Onderwerp
-
-
-  Tegengaan vrachtverkeer door dorpskernen
-
-
-  Geachte Statenleden,
-
-
-  Via deze memo wil ik u graag informeren over de afhandeling van Motie M61-
-
-
-  2020 "Vrachtverkeer uit dorpen" aangenomen in uw vergadering van 15 mei 2020. In deze motie verzoekt u ons College om de mogelijkheden te onderzoeken om sluiproutes door dorpskernen te blokkeren voor doorgaand vrachtverkeer en hiertoe met betrokken gemeenten te overleggen.
-
-
-  Er is begrip voor de overwegingen in de motie. Deze sluiten aan op het streven van het college van GS om zo min mogelijk doorgaand vrachtverkeer te hebben op wegen die daar niet voor bedoeld of geschikt zijn. Hierbij hebben dorpskernen uiteraard de aandacht vanwege de leefbaarheid in de Brabantse dorpen, die hierdoor onder druk staat. etc.
 
 
   ## Rondwegen: daarvan zijn vele tientallen voorbeelden, klein en groot.
