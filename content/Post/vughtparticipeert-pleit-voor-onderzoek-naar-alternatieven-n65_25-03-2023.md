@@ -17,7 +17,7 @@ content: >-
   Dat is een teken aan de wand en zou ieder initiatief voor een reparatiepoging moeten verhinderen. En zeker niet met hetzelfde team aantreden voor de taskforce. Einstein zei: “De definitie van waanzin is telkens hetzelfde doen, maar een andere uitkomst verwachten.” 
 
 
-  Datzelfde team, houdt de illusie in leven dat het moet kunnen, met een paar extra schroeven erin en een beetje duct-tape. En ondertussen hun uurtarieven declareren. Pels-Rijcken en Movaris mogen blij zijn dat wij hun deel van de €19 miljoen niet terugvragen. Wanprestatie is geen prestatie.
+  Datzelfde team, houdt de illusie in leven dat het moet kunnen, met een paar extra schroeven erin en een beetje duct-tape. En ondertussen hun uurtarieven declareren. Pels-Rijcken en Arcadis mogen blij zijn dat wij hun deel van de €19 miljoen niet terugvragen. Wanprestatie is geen prestatie.
 
 
   Over 5 jaar, als er een nieuw bestemmingsplan op tafel ligt, zijn de regels nog strakker, is ook het probleem van fijnstof actueel, zijn de onderzoeken naar verkeersonveiligheid nog duidelijker, is de bereidheid de afbraak van de leefbaarheid en gezondheid als gevolg van verkeer te accepteren nog minder.
