@@ -17,7 +17,7 @@ content: >-
   Dat is een teken aan de wand en zou ieder initiatief voor een reparatiepoging moeten verhinderen. En zeker niet met hetzelfde team aantreden voor de taskforce. Einstein zei: “De definitie van waanzin is telkens hetzelfde doen, maar een andere uitkomst verwachten.” 
 
 
-  Datzelfde team, houdt de illusie in leven dat het moet kunnen, met een paar extra schroeven erin en een beetje duct-tape. En ondertussen hun uurtarieven declareren. Pels-Rijcken en Movaris mogen blij zijn dat wij hun deel van de €19 miljoen niet terugvragen. Wanprestatie is geen prestatie.
+  Datzelfde team, houdt de illusie in leven dat het moet kunnen, met een paar extra schroeven erin en een beetje duct-tape. En ondertussen hun uurtarieven declareren. Pels-Rijcken en Arcadis mogen blij zijn dat wij hun deel van de €19 miljoen niet terugvragen. Wanprestatie is geen prestatie.
 
 
   Over 5 jaar, als er een nieuw bestemmingsplan op tafel ligt, zijn de regels nog strakker, is ook het probleem van fijnstof actueel, zijn de onderzoeken naar verkeersonveiligheid nog duidelijker, is de bereidheid de afbraak van de leefbaarheid en gezondheid als gevolg van verkeer te accepteren nog minder.
@@ -32,19 +32,15 @@ content: >-
   Laat ons mikken op een oplossing die wij nodig hebben tegen de tijd dat die er ligt, namelijk over 10 jaar. 
 
 
-  Want gelooft u werkelijk dat Nederland nog 10 jaar zo door kan gaan? 
+  * Want gelooft u werkelijk dat Nederland nog 10 jaar zo door kan gaan? 
 
+  * Doen alsof er op onze postzegelgrote landje eindeloze groei mogelijk is? 
 
-  Doen alsof er op onze postzegelgrote landje eindeloze groei mogelijk is? 
+  * Wist u dat [Tilburg](https://www.makeitintilburg.com/nl/make-it/vestigen/goedbereikbaar/tilburg-aan-de-nieuwe-zijderoute) het eindpunt is van de Nieuwe Zijderoute? 
 
+  * Wist u dat het Rijk niet in staat is de veiligheid op het spoor te garanderen ([FD 8 maart 2023](https://fd.nl/samenleving/1469827/provincie-verwijt-ministerie-nalatigheid-bij-vervoer-gevaarlijke-stoffen-op-het-spoor)) en wij straks, wanneer de Helvoirtseweg, via een provinciale weg N65 naar een snelweg A65 is uitgebouwd, doorzeefd worden met vrachtverkeer dat Vught alleen maar als een hinderlijk obstakel beschouwt?
 
-  Wist u dat [Tilburg](https://www.makeitintilburg.com/nl/make-it/vestigen/goedbereikbaar/tilburg-aan-de-nieuwe-zijderoute) het eindpunt is van de Nieuwe Zijderoute? 
-
-
-  Wist u dat het Rijk niet in staat is de veiligheid op het spoor te garanderen ([FD 8 maart 2023](https://fd.nl/samenleving/1469827/provincie-verwijt-ministerie-nalatigheid-bij-vervoer-gevaarlijke-stoffen-op-het-spoor)) en wij straks, wanneer de Helvoirtseweg, via een provinciale weg N65 naar een snelweg A65 is uitgebouwd, doorzeefd worden met vrachtverkeer dat Vught alleen maar als een hinderlijk obstakel beschouwt?
-
-
-  **Heeft u zich wel eens voorgesteld als de N65 gewoon weer een dorpsstraat is, de Helvoirtseweg, met bomen en veilig verkeer? Met rond het Maurick College een groene ruimte waar kinderen veilig kunnen fietsen, waar ruimte is voor uitbreiding van de scholen.** 
+  * **Heeft u zich wel eens voorgesteld als de N65 gewoon weer een dorpsstraat is, de Helvoirtseweg, met bomen en veilig verkeer? Met rond het Maurick College een groene ruimte waar kinderen veilig kunnen fietsen, waar ruimte is voor uitbreiding van de scholen?** 
 
 
   Provinciale Staten heeft het zelf in een motie uitgesproken: vrachtverkeer hoort niet door de bebouwde kom. Overal wordt verkeer uit de dorpen omgeleid, ook in Brabant, recentelijk in Valkenswaard.
@@ -54,8 +50,6 @@ content: >-
 
 
   Gemeenteraad, het wordt tijd dat wij opkomen voor de belangen en gezondheid van onze inwoners.
-
-
 
 
   ## [Risico’s van het spoorvervoer Financieel Dagblad 8 maart 2023](https://fd.nl/samenleving/1469827/provincie-verwijt-ministerie-nalatigheid-bij-vervoer-gevaarlijke-stoffen-op-het-spoor)
