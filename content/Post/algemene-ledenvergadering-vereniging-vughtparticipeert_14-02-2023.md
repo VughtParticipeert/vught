@@ -69,7 +69,4 @@ attachment:
   - file:
       attachment: /uploads/221008-witboek-participatie-gemeente-vught-2022-def.pdf
       name: Witboek Participatie gemeente Vught 2022 def
-  - file:
-      name: Notulen ALV 21 maart 2022
-      attachment: /uploads/220321-vp-alv-notulen-1.pdf
 ---
