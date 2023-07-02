@@ -37,7 +37,7 @@ content: >-
   * Op welke termijn zullen de, in sommige gevallen lang uitgestelde, maatregelen tegen verkeerslawaai en handhaving van de regels ter plaatse zoals rijsnelheid en verkeerslichten, geïmplementeerd worden?
 
 
-  # Tenslotte
+  Tenslotte
 
 
   De Vereniging VughtParticipeert zou graag op korte termijn haar leden over uw antwoorden willen informeren. Wij nemen aan dat ook u de noodzaak ziet de inwoners van Vught zo snel mogelijk te informeren. Om die reden zouden wij het op prijs stellen uw antwoorden binnen 3 weken te mogen ontvangen.
