@@ -30,9 +30,9 @@ content: >-
 
   * Hoe organiseert de gemeente de inbreng van inwoners en belangenorganisaties binnen de Task Force?
 
-  * Is de gemeente bereid zorg te dragen voor het uitvoeren van Maatschappelijke Kosten-Baten Analyses voor tenminste de alternatieven ondertunneling voor doorgaand verkeer, Zuidtangent en voorstel van Samen voor Vught?
+  * Is de gemeente bereid zorg te dragen voor het uitvoeren van Maatschappelijke Kosten-Baten Analyses voor tenminste de alternatieven ondertunneling voor doorgaand verkeer, Zuidtangent en voorstel van Samen voor Vught en wanneer mogen wij daarvan resultaten verwachten?
 
-  * Is de gemeente van mening dat alleen met actieve betrokkenheid van en optimale transparantie voor de inwoners en belangenorganisaties een acceptabele oplossing gevonden kan worden?
+  * Is de gemeente van mening dat alleen met actieve betrokkenheid van en optimale transparantie voor de inwoners en belangenorganisaties een acceptabele oplossing gevonden kan worden en hoe borgt zij dat als zij niet de opdrachtgever is?
 
   * Op welke termijn zullen de, in sommige gevallen lang uitgestelde, maatregelen tegen verkeerslawaai en handhaving van de regels ter plaatse zoals rijsnelheid en verkeerslichten, geïmplementeerd worden?
 
