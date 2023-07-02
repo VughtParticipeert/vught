@@ -16,7 +16,7 @@ content: >-
   Na het vernietigen van het bestemmingsplan N65 door de Raad van State, is er een Task Force N65 geformeerd. De Vereniging VughtParticipeert is voor deelname daaraan tot op de dag van vandaag niet uitgenodigd.
 
 
-  Op 26 mei jl. waren diverse partijen, w.o. de Vereniging VughtParticipeert, uitgenodigd voor een informatiebijeenkomst. Tijdens de bijeenkomst bleek dat er geen sprake was van participatie en er slechts informatie werd verstrekt. Daarbij kregen wij de indruk dat de regie van de Task Force niet bij de gemeente ligt maar bij Provincie of Rijkswaterstaat. 
+  Op 26 mei jl. mochten diverse partijen, w.o. de Vereniging VughtParticipeert, komen luisteren naar de Task Force. Tijdens de bijeenkomst bleek dat er geen sprake was van participatie en werd er slechts informatie verstrekt. Daarbij kregen wij de indruk dat de regie van de Task Force niet bij de gemeente ligt maar bij Provincie of Rijkswaterstaat. 
 
 
   Graag krijgen wij van u antwoord op de volgende vragen:
@@ -37,12 +37,11 @@ content: >-
   * Op welke termijn zullen de, in sommige gevallen lang uitgestelde, maatregelen tegen verkeerslawaai en handhaving van de regels ter plaatse zoals rijsnelheid en verkeerslichten, geïmplementeerd worden?
 
 
-  # Tenslotte
+  Tenslotte
 
 
-  De Vereniging VughtParticipeert zou graag op korte termijn haar leden over uw antwoorden willen informeren. Wij nemen aan dat ook u de noodzaak ziet de inwoners van Vught zo snel mogelijk te informeren. Om die reden zouden wij het op prijs stellen uw antwoorden binnen 3 weken te mogen ontvangen.\
+  De Vereniging VughtParticipeert zou graag op korte termijn haar leden over uw antwoorden willen informeren. Wij nemen aan dat ook u de noodzaak ziet de inwoners van Vught zo snel mogelijk te informeren. Om die reden zouden wij het op prijs stellen uw antwoorden binnen 3 weken te mogen ontvangen.
 
-  \
 
   PS als onderdeel van ons doel om transparantie te bieden, zullen wij deze brief ook op onze website www.vughtparticipeert.nl plaatsen. Uw antwoorden zullen daar ook worden gepubliceerd.
 ---
