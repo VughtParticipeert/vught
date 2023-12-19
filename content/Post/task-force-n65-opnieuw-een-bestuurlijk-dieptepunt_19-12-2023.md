@@ -12,7 +12,7 @@ content: >-
   van Brabant")
 
 
-  Na het vernietigen van het bestemmingsplan N65 door de Raad van State eind 2022 (gebaseerd op de VKA+ alternatief met een halfverdiepte bak), besloot het gemeentebestuur onderzoek te doen naar de overblijvende mogelijkheden. Hierbij heeft de gemeenteraad uitdrukkelijk aangegeven dat er gekeken moest worden naar alternatieven die in het belang van de inwoners zijn.
+  Na het vernietigen van het bestemmingsplan N65 door de Raad van State eind 2022 (gebaseerd op het VKA+ alternatief met een halfverdiepte bak), besloot het gemeentebestuur onderzoek te doen naar de overblijvende mogelijkheden. Hierbij heeft de gemeenteraad uitdrukkelijk aangegeven dat er gekeken moest worden naar alternatieven die in het belang van de inwoners zijn.
 
 
   Hiertoe werd een Task Force (werkgroep) opgezet met deelnemers van Rijk (Rijkswaterstaat), Provincie en de gemeente Vught. Deze werkgroep sloot participatie van meet af aan uit. De informatiebijeenkomsten werden gekenmerkt door de mededeling: “Wij kunnen niets zeggen totdat de stuurgroep over de resultaten van het onderzoek en de aanbevelingen heeft besloten”. Geen informatie dus, maar ook geen bereidheid te luisteren naar ideeën, suggesties of alternatieven.
