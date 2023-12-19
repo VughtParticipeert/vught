@@ -12,7 +12,7 @@ content: >-
   doe je samen, niet achter gesloten deuren")
 
 
-  De gemeenteraadsverkiezingen van 2019 en het aansluitende coalitieakkoord in 2020 stonden bol van beloftes van participatie. Om vaart in het proces te krijgen en als constructieve bijdrage, heeft VughtParticipeert eind 2022 haar Witboek aangeboden en dit in de Commissievergadering op 26 januari 2023 toegelicht. Diverse partijen hebben positief gereageerd en aangegeven de adviezen ter harte te willen nemen.
+  De gemeenteraadsverkiezingen van 2019 en het aansluitende coalitieakkoord in 2020 stonden bol van beloftes over participatie. Om vaart in het proces te krijgen en als constructieve bijdrage heeft VughtParticipeert eind 2022 haar Witboek aangeboden en dit in de Commissievergadering op 26 januari 2023 toegelicht. Diverse partijen hebben positief gereageerd en aangegeven de adviezen ter harte te willen nemen.
 
 
   Ook na de herschikking van de coalitie in 2023 is het beleid voor participatie gehandhaafd, waarbij in algemene zin is aangegeven dat het realiseringstempo omhoog moet. Het voornemen van de nieuwe coalitie om het tempo te verhogen is nodig, als wij nog in deze coalitieperiode meer willen bereiken dan alleen het opstellen van beleid. 
