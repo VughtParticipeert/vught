@@ -16,5 +16,11 @@ content: >-
   Op DTV geven zowel Samen voor Vught als VughtParticipeert hun mening over de plannen voor de N65.
 
 
+  **De N65 is al tientallen jaren een doorn in het oog van de gemeenschappen van Vught en Helvoirt. Het Rijk de provincie en de gemeente houden vast aan het plan met een verdiepte snelweg met drie ongelijkvloerse kruisingen. Belangengroepen Samen Voor Vught en Vught Participeert zijn het daar niet mee eens.**
+
+
+  Op 1 februari 2024 neemt de gemeenteraad van Vught haar standpunt in over de plannen rondom de N65.
+
+
   <https://dtvnieuws.nl/nieuws/artikel/belangengroepen-in-vught-reageren-op-plannen-voor-de-n65-het-is-geen-goed-plan>
 ---
