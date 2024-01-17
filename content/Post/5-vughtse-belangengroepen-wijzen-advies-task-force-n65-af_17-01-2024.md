@@ -10,20 +10,16 @@ content: >-
   ![N65 de mooiste provinciale weg van Noord-Brabant](/uploads/img_8858-1-.jpg)
 
 
-  Op 21 december 2022 vernietigde de Raad van State het bestemmingsplan N65 op basis van de VKA+ variant. De gemeenteraad besloot een inventarisatie te laten maken van de mogelijke alternatieven en liet bureau Antea dat onderzoeken. Een jaar na het besluit van de Raad van State komt Antea met haar conclusie: het gaat veel meer geld kosten, er komen 16:000 voertuigen per dag bij en er is geen stikstofruimte. Het kan dus niet. In weerwil van de resultaten van het  onderzoek is de conclusie van de Task Force: VKA+ is de beste optie waaraan wij vast willen houden. 
+  Op 21 december 2022 vernietigde de Raad van State het bestemmingsplan N65 op basis van de VKA+ variant. De gemeenteraad besloot een inventarisatie te laten maken van de mogelijke alternatieven en liet bureau Antea dat onderzoeken. Een jaar na het besluit van de Raad van State komt Antea met haar conclusie: het gaat veel meer geld kosten, er komen 16.000 voertuigen per dag bij en er is geen stikstofruimte. Het kan dus niet. In weerwil van de resultaten van het  onderzoek is de conclusie van de Task Force: VKA+ is de beste optie waaraan wij vast willen houden. 
 
 
-  Diverse belangengroepen trekken een heel andere conclusie en hebben een alternatieve beoordeling gemaakt. Daaruit blijkt dat de VKA+ zelfs een van de slechtste opties is en met uitzondering voor doorgaand verkeer, zelfs slechter dan onze huidige situatie.
-
-
+  Diverse belangengroepen trekken een heel andere conclusie en hebben een alternatieve en meer complete beoordeling gemaakt. Daaruit blijkt dat de VKA+ zelfs één van de slechtste opties is en met uitzondering voor doorgaand verkeer, zelfs slechter dan onze huidige situatie.
 
 
   ![N65 vergelijking alternatieven door belangengroepen](/uploads/240118-n65-vergelijking-alternatieven.png)
 
 
   Lees hier de reacties zoals ingesproken tijdens de commissievergadering op 18 januari 2024.
-
-
 
 
   ### 1. IVN/N&M - Sander Wieringa
@@ -110,7 +106,7 @@ content: >-
   Tenslotte nog dit: de inwoners van Vught dragen substantieel bij aan de reconstructie van de N65. Naar het prijspeil van 2023 ruim M€39, ruim €1.200 per inwoner. In 2031 zal dat ruim €1.500 per inwoner zijn. Voor een snelweg die we niet willen. Meneer de wethouder, geachte gemeenteraad: kiest voor Vught. Ga aan tafel met bewoners, organisaties en bedrijven. Stel een gezamenlijk plan op voor Minder Verkeer en Meer Leefbaarheid. Kies voor een nieuw route voor de N65.
 
 
-  ### 4. VughtParticipeert  Philip Helmer
+  ### 4. VughtParticipeert - Philip Helmer
 
 
   Vereniging VughtParticipeert staat voor transparantie, participatie en zuivere besluitvorming. Tijdens de laatste gemeenteraadsverkiezingen en in de coalitie-overeenkomst stond het bol van ‘participatie’. 
@@ -153,4 +149,8 @@ content: >-
 
 
   Podium C wil kunstenaars en social designers uitdagen om samen met beleidsmakers, omwonenden en – waar mogelijk - gebruikers oplossingen te ontwikkelen. Juist nu, in onzekere tijden, moet je wendbaar zijn en het lef hebben om van zienswijze te veranderen. Ontwerpers en kunstenaars zijn goed in staat om nieuwe mogelijkheden en oplossingen te bedenken. Nu we steeds meer de keerzijde van de ingesleten patronen ontdekken kunnen we ook de uitgangspunten fundamenteel herzien. Dit vraagt om - zoals architect en stedenbouwkundige Floris Alkemade het beschrijft - *de kunst om van richting te veranderen.* Die kunst wensen wij u oprecht toe. ***Kies voor een nieuwe route voor de N65.***
+attachment:
+  - file:
+      attachment: /uploads/240118-n65-vergelijking-alternatieven.pdf
+      name: Vergelijking alternatieven N65 door belangengroepen.
 ---
