@@ -16,7 +16,7 @@ content: >-
   Diverse belangengroepen trekken een heel andere conclusie en hebben een alternatieve beoordeling gemaakt.
 
 
-  ![N65 vergelijking alternatieven door belangengroepen](/uploads/240118-n65-vergelijking-alternatieven.jpg)
+  ![N65 vergelijking alternatieven door belangengroepen](/uploads/240118-n65-vergelijking-alternatieven.png)
 
 
   Lees hier de reacties zoals ingesproken tijdens de commissievergadering op 18 januari 2024.
