@@ -136,7 +136,7 @@ content: >-
   Om met een lichtpuntje te besluiten. De raad wordt gevraagd samen met de partners kortetermijnmaatregelen te nemen die gericht zijn op het verbeteren van de leefbaarheid. VughtParticipeert zal hieraan graag bijdragen en haar waarden transparantie, participatie en zuivere besluitvorming namens haar leden en alle inwoners van Vught bewaken. Dit is ook een kans voor het gemeentebestuur om te laten zien hoe serieus zij participatie neemt.
 
 
-  ### **PODIUM C - Wim Claessen**
+  ### **5. PODIUM C - Wim Claessen**
 
 
   **PODIUM C is een innovatieplatform**, een incubator en in bijzondere gevallen een curator voor vormen van samenwerking op het snijvlak van de kunsten, natuur en samenleving met als primaire doel de verduurzaming daarvan. Door kunstenaars en social designers bij deze veranderopgaven te betrekken en daarin nadrukkelijk ook burgers mee te nemen wil Podium C deze doelstelling realiseren.
