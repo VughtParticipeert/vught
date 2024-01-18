@@ -13,13 +13,13 @@ content: >-
   Op 21 december 2022 vernietigde de Raad van State het bestemmingsplan N65 op basis van de VKA+ variant. De gemeenteraad besloot een inventarisatie te laten maken van de mogelijke alternatieven en liet bureau Antea dat onderzoeken. Een jaar na het besluit van de Raad van State komt Antea met haar conclusie: het gaat veel meer geld kosten, er komen 16.000 voertuigen per dag bij en er is geen stikstofruimte. Het kan dus niet. In weerwil van de resultaten van het  onderzoek is de conclusie van de Task Force: VKA+ is de beste optie waaraan wij vast willen houden. 
 
 
-  Diverse belangengroepen trekken een heel andere conclusie en hebben een alternatieve en meer complete beoordeling gemaakt. Daaruit blijkt dat de VKA+ zelfs één van de slechtste opties is en met uitzondering voor doorgaand verkeer, zelfs slechter dan onze huidige situatie.
+  Diverse belangengroepen trekken een heel andere conclusie en hebben een alternatieve en meer complete beoordeling gemaakt. Daaruit blijkt dat de VKA+ zelfs één van de slechtste opties is en met uitzondering voor doorgaand verkeer, zelfs slechter dan onze huidige situatie. (zie ook de bijlage)
 
 
   ![N65 vergelijking alternatieven door belangengroepen](/uploads/240118-n65-vergelijking-alternatieven.png)
 
 
-  Lees hier de reacties zoals ingesproken tijdens de commissievergadering op 18 januari 2024.
+  Lees hier de reacties zoals door de belangenorganisaties ingesproken tijdens de commissievergadering op 18 januari 2024.
 
 
   ### 1. IVN/N&M - Sander Wieringa
