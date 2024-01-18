@@ -121,7 +121,7 @@ content: >-
   De VKA+ variant als basis te nemen voor het vergelijken van de verblijvende opties, is tendentieus. Hierdoor lijkt het alsof er geen nadelen kleven aan deze optie, immers is daar in het schema van de Task Force niets rood gekleurd. Het nieuwe overzicht, dat in samenwerking met verschillende belangenorganisaties is opgesteld, laat een veel eerlijker en ook negatiever beeld van de VKA+ optie zien, zoals de MKBA in 2016 al aantoonde. Er is dus ook geen sprake van zuivere besluitvorming. 
 
 
-  Desalniettemin mag het ons niet verbazen dat de conclusie van Antea dezelfde is als die van de RvS eind 2022: VKA+ kan niet. Daarover is het rapport heel duidelijk. Op basis van het onderzoek van Antea lijkt afwaardering naar 50 km/uur de gunstigste optie.
+  Desalniettemin mag het ons niet verbazen dat de conclusie van Antea dezelfde is als die van de RvS eind 2022: VKA+ kan niet. Daarover is het rapport heel duidelijk. Op basis van het onderzoek van Antea lijkt afwaardering naar 50 km/uur zelfs de gunstigste optie.
 
 
   Verbazingwekkend is het feit dat de afwijzing van de VKA+, zowel door de Raad van State als Antea, de Task Force niet heeft weerhouden juist de VKA+ te adviseren. Ook de voorkeuren van de meeste fracties, zoals uitgesproken tijdens de bijeenkomst op 16 maart 2023, zijn daarmee genegeerd.
@@ -142,7 +142,7 @@ content: >-
   **PODIUM C is een innovatieplatform**, een incubator en in bijzondere gevallen een curator voor vormen van samenwerking op het snijvlak van de kunsten, natuur en samenleving met als primaire doel de verduurzaming daarvan. Door kunstenaars en social designers bij deze veranderopgaven te betrekken en daarin nadrukkelijk ook burgers mee te nemen wil Podium C deze doelstelling realiseren.
 
 
-  In het kader van de ontwikkeling van de N65 - en het voorliggende plan VKA+ - is het zaak om nieuwe ideeën te ontwikkelen en hoofdlijnen en kaders te herformuleren. Dat bent u aan uzelf, aan de inwoners van Vught en aan alle andere gebruikers verplicht . **‘Never let a good crisis go to waste’.**Zolang je dit moment niet als een kans ziet, maar als tegenstand, kom je geen steek verder, nu niet en nooit niet. Ook niet door met kleine ingrepen op verschillende vlakken stikstofreductie te realiseren.
+  In het kader van de ontwikkeling van de N65 - en het voorliggende plan VKA+ - is het zaak om nieuwe ideeën te ontwikkelen en hoofdlijnen en kaders te herformuleren. Dat bent u aan uzelf, aan de inwoners van Vught en aan alle andere gebruikers verplicht . **‘Never let a good crisis go to waste’.** Zolang je dit moment niet als een kans ziet, maar als tegenstand, kom je geen steek verder, nu niet en nooit niet. Ook niet door met kleine ingrepen op verschillende vlakken stikstofreductie te realiseren.
 
 
   Hoe kunnen we u ervan overtuigen dat nieuwe transities vragen om een andere manier van denken en kijken? Wat logisch lijkt in het heden, kan funest zijn voor de toekomst. In een tijd waarin leefbaarheid in een gezonde leefomgeving de toekomst van komende generaties moet veiligstellen, is het nodig om opwaarderen te vervangen door afwaarderen. Om een snelwegambitie dwars door kwetsbare natuur een halt toe te roepen en om te bouwen naar een weg die de natuur en de omwonenden respecteert. Maar ook door een alternatief die de mobiliteit en de daaraan gekoppelde uitstoot beperkt tot het aanvaardbare. *En bovendien, een autoweg dwars door een dorp leggen hoort niet en past niet.*
