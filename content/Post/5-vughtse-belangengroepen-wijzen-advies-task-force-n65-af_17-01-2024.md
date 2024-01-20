@@ -19,10 +19,10 @@ content: >-
   ![N65 vergelijking alternatieven door belangengroepen](/uploads/240118-n65-vergelijking-alternatieven.png)
 
 
-  Lees hier de reacties zoals door de belangenorganisaties ingesproken tijdens de commissievergadering op 18 januari 2024.
+  Lees hier de reacties zoals door de belangenorganisaties ingesproken tijdens de commissievergadering op 18 januari 2024 en kijk naar het video-verslag.
 
 
-  ### 1. IVN/N&M - Sander Wieringa
+  ### 1. IVN/N&M - Sander Wieringa ([video](https://channel.royalcast.com/vught/#!/gemeentevught/20240118_1) start 0:22:55)
 
 
   Ruim een jaar geleden vernietigde de Raad van State het Plan N65 vanwege stikstof. Hoe staat het daar nú mee?
@@ -58,7 +58,7 @@ content: >-
   Daarom: het obstakel stikstof gaat niet vanzelf verdwijnen. Een N65 met meer verkeer en meer stikstof is dus nog heel lang onmogelijk. Kies daarom voor een weg die zorgt voor minder verkeer en dus minder stikstof.
 
 
-  ### 2. Platform Vught Structureel - Marianne van Erp
+  ### 2. Platform Vught Structureel - Marianne van Erp ([video](https://channel.royalcast.com/vught/#!/gemeentevught/20240118_1) start 0:30:55)
 
 
   In 2006 werd een eerste plan gepresenteerd door Rijkswaterstaat voor de aanpassing van de N65. Deze werd nodig geacht vanwege een door Rijkswaterstaat gewenste verbetering van de doorstroming van de N65 bij Vught. Dat plan was zeer nadelig voor de Vughtse omgeving. Door inzet van bewoners, college van B&W en gemeenteraad is dat plan gelukkig nooit verwezenlijkt. 
@@ -91,7 +91,7 @@ content: >-
                                  **Kies een nieuwe route voor de N65**
 
 
-  ### **3. Samen voor Vught - Theo Smit**
+  ### **3. Samen voor Vught - Theo Smit** ([video](https://channel.royalcast.com/vught/#!/gemeentevught/20240118_1) start 0:35:40)
 
 
   In december 2022 heeft de Raad van State de plannen voor de reconstructie van de N65 vernietigd. Afgelopen maart is een Task Force in het leven geroepen om te onderzoeken hoe het verder moet met deze snelweg, die al zo lang onveilig is en veel hinder en uitstoot genereert. De adviseurs van Antea hebben uitgerekend dat de VKA+ het verkeer en stikstof nóg meer doet toenemen dan beschreven in het plan dat is beoordeeld door de Raad van State. De logische conclusie is dan ook: VKA+ is geen haalbare oplossing. Samen voor Vught is het daarmee eens.
@@ -106,7 +106,7 @@ content: >-
   Tenslotte nog dit: de inwoners van Vught dragen substantieel bij aan de reconstructie van de N65. Naar het prijspeil van 2023 ruim M€39, ruim €1.200 per inwoner. In 2031 zal dat ruim €1.500 per inwoner zijn. Voor een snelweg die we niet willen. Meneer de wethouder, geachte gemeenteraad: kiest voor Vught. Ga aan tafel met bewoners, organisaties en bedrijven. Stel een gezamenlijk plan op voor Minder Verkeer en Meer Leefbaarheid. Kies voor een nieuw route voor de N65.
 
 
-  ### 4. VughtParticipeert - Philip Helmer
+  ### 4. VughtParticipeert - Philip Helmer ([video](https://channel.royalcast.com/vught/#!/gemeentevught/20240118_1) start 0:39:12)
 
 
   Vereniging VughtParticipeert staat voor transparantie, participatie en zuivere besluitvorming. Tijdens de laatste gemeenteraadsverkiezingen en in de coalitie-overeenkomst stond het bol van ‘participatie’. 
@@ -136,7 +136,7 @@ content: >-
   Om met een lichtpuntje te besluiten. De raad wordt gevraagd samen met de partners kortetermijnmaatregelen te nemen die gericht zijn op het verbeteren van de leefbaarheid. VughtParticipeert zal hieraan graag bijdragen en haar waarden transparantie, participatie en zuivere besluitvorming namens haar leden en alle inwoners van Vught bewaken. Dit is ook een kans voor het gemeentebestuur om te laten zien hoe serieus zij participatie neemt.
 
 
-  ### **5. PODIUM C - Wim Claessen**
+  ### **5. PODIUM C - Wim Claessen** ([video](https://channel.royalcast.com/vught/#!/gemeentevught/20240118_1) start 0:43:55)
 
 
   **PODIUM C is een innovatieplatform**, een incubator en in bijzondere gevallen een curator voor vormen van samenwerking op het snijvlak van de kunsten, natuur en samenleving met als primaire doel de verduurzaming daarvan. Door kunstenaars en social designers bij deze veranderopgaven te betrekken en daarin nadrukkelijk ook burgers mee te nemen wil Podium C deze doelstelling realiseren.
