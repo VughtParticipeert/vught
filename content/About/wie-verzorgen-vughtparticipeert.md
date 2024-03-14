@@ -6,7 +6,6 @@ index: 3
 
 De Vereniging VughtParticipeert is opgericht door een aantal betrokken inwoners. Het bestuur is alsvolgt samengesteld:
 
-* Nelly Theunissen-Zwartjes (secretaris)
 * Frank de Koning (ledenadministratie)
 * Frans Bos (penningmeester)
 * Philip Helmer (voorzitter)
