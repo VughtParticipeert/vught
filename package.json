@@ -2,7 +2,7 @@
   "name": "vughtparticipeert",
   "private": true,
   "engines": {
-    "node": "^10"
+    "node": "^20"
   },
   "scripts": {
     "build": "gridsome build",
