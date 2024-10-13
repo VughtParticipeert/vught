@@ -42,7 +42,4 @@ content: >-
 
 
   VughtParticipeert heeft een beperkte invloed kunnen uitoefenen op de werkwijze en inhoud van de raadpleging. Wij zullen betrokken en kritisch blijven op het verdere verloop van deze raadpleging. Ook zullen wij, namens alle inwoners van de gemeente Vught, de vinger aan de pols houden waar het gaat om participatie, transparantie en zuivere besluitvorming.
-
-
-  Tevens zullen wij ons blijven inzetten voor aanvullende en wettelijk voorgeschreven verbeteringen.
 ---
