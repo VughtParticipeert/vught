@@ -10,7 +10,7 @@ content: >-
   ![Veel verkeer door de bebouwde kom, dat moet anders](/uploads/n65.jpg)
 
 
-  Het plan om stapsgewijs van de N65 een snelweg te maken, is door de Raad van State afgewezen. Het voorbereiden van een nieuw plan zal nog vele jaren duren en zeker te maken krijgen met de veranderingen in ons denken over mobiliteit en leefbaarheid.
+  Het plan om stapsgewijs van de N65 een snelweg te maken, is door de Raad van State afgewezen. Het voorbereiden van een nieuw plan zal nog vele jaren duren en zal zeker te maken krijgen met de veranderingen in ons denken over mobiliteit en leefbaarheid.
 
 
   Tijdens de jarenlange voorbereidingen van het recent afgewezen plan, zijn diverse aanpassingen uitgesteld, waardoor er een achterstand is wat betreft onderhoud en modernisering van de N65. Om die achterstand weg te werken en tegelijk de ergste problemen van de huidige N65 op te lossen, hebben Provincie, Rijkswaterstaat en gemeente Vught besloten een project te starten voor het uitvoeren van kortetermijnmaatregelen.
