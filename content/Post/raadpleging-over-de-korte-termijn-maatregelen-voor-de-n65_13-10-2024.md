@@ -1,5 +1,5 @@
 ---
-title: Raadpleging over de korte termijn maatregelen voor de N65
+title: Raadpleging over de kortetermijnmaatregelen voor de N65
 date: 2024-10-13T19:15:17.217Z
 theme: N65 Duurzaam
 typePost: Publicatie
@@ -14,10 +14,10 @@ content: >-
   Het plan om stapsgewijs van de N65 een snelweg te maken, is door de Raad van State afgewezen. Het voorbereiden van een nieuw plan zal nog vele jaren duren en zeker te maken krijgen met de veranderingen in ons denken over mobiliteit en leefbaarheid.
 
 
-  Tijdens de jarenlange voorbereidingen van het recent afgewezen plan, zijn diverse aanpassingen uitgesteld, waardoor er een achterstand is wat betreft onderhoud en modernisering van de N65. Om die achterstand weg te werken en tegelijk de ergste problemen van de huidige N65 op te lossen, hebben Provincie, Rijkswaterstaat en gemeente Vught besloten een project te starten voor het uitvoeren van korte termijn maatregelen.
+  Tijdens de jarenlange voorbereidingen van het recent afgewezen plan, zijn diverse aanpassingen uitgesteld, waardoor er een achterstand is wat betreft onderhoud en modernisering van de N65. Om die achterstand weg te werken en tegelijk de ergste problemen van de huidige N65 op te lossen, hebben Provincie, Rijkswaterstaat en gemeente Vught besloten een project te starten voor het uitvoeren van kortetermijnmaatregelen.
 
 
-  Korte termijn maatregelen kunnen snel worden opgepakt en hebben hopelijk een positief effect op de leefbaarheid in de gemeente Vught. De in de raadpleging voorgestelde maatregelen hebben vooral effect op de woonkernen Vught en Helvoirt.
+  Kortetermijnmaatregelen kunnen snel worden opgepakt en hebben hopelijk een positief effect op de leefbaarheid in de gemeente Vught. De in de raadpleging voorgestelde maatregelen hebben vooral effect op de woonkernen Vught en Helvoirt.
 
 
   ## Raadpleging N65
