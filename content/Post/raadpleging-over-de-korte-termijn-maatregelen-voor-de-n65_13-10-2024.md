@@ -7,8 +7,7 @@ group: N65 reconstructie en haar 6 doelstellingen
 status: 1
 answered: false
 content: >-
-  ![Veel verkeer door de bebouwde kom, dat moet
-  anders](/uploads/1m0szzzuuope-111223-rdb-still-n65reacties.jpg.webp)
+  ![Veel verkeer door de bebouwde kom, dat moet anders](/uploads/n65.jpg)
 
 
   Het plan om stapsgewijs van de N65 een snelweg te maken, is door de Raad van State afgewezen. Het voorbereiden van een nieuw plan zal nog vele jaren duren en zeker te maken krijgen met de veranderingen in ons denken over mobiliteit en leefbaarheid.
