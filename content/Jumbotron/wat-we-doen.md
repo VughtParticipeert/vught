@@ -1,7 +1,6 @@
 ---
-title: VughtParticipeert pleit voor onderzoek naar alternatieven N65 en
-  onmiddellijke maatregelen
-link: https://www.vughtparticipeert.nl/post/vught-participeert-pleit-voor-onderzoek-van-alternatieven-n65-en-directe-maatregelen/f024b0a3c89a4bfec89ab13636987093/#main
+title: Raadpleging over de kortetermijnmaatregelen voor de N65
+link: https://www.vughtparticipeert.nl/post/raadpleging-over-de-kortetermijnmaatregelen-voor-de-n65/15b1c65b6e76ebee2aa273b8da677cc0/#main
 index: 2
 image: /uploads/Wat zonder tekst.png
 ---
