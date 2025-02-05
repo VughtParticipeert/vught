@@ -1,9 +1,6 @@
 {
   "name": "vughtparticipeert",
   "private": true,
-  "engines": {
-    "node": "^12"
-  },
   "scripts": {
     "build": "gridsome build",
     "develop": "gridsome develop",
