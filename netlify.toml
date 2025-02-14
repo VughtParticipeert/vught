@@ -3,5 +3,5 @@
   publish = "dist"
 
 [build.environment]
-  NODE_VERSION = "12.22.12"  # Required for sharp compatibility
-  PYTHON_VERSION = "3.8.20"  # Required for sharp compatibility 
+  NODE_VERSION = "16.20.2"
+  PYTHON_VERSION = "3.13.1"  # Required for sharp compatibility 
