@@ -15,7 +15,7 @@
   "devDependencies": {
     "@gridsome/transformer-remark": "^0.6.4",
     "netlify-cms": "^2.9.7",
-    "sass": "^1.72.0",
+    "node-sass": "^4.13.0",
     "sass-loader": "^7.3.1"
   }
 }
