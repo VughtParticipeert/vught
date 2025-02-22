@@ -23,7 +23,7 @@ content: >-
   Door bijvoorbeeld tunnels voor langzaam verkeer te combineren met de afwaardering van 70 naar 50 km per uur, is het te verwachten dat de verkeersveiligheid verbetert, in plaats van vermindert, zoals het rapport nu aangeeft. Het is waarschijnlijk dat dan niet alleen de verkeersveiligheid verbetert, maar ook dat er minder verkeersoverlast zal zijn en een verbeterde oversteekbaarheid. 
 
 
-  Als wij bij de nu al positieve beoordeling van de snelheidsverlaging, alleen zouden kijken naar wat de inwoner van Vught wensen, zien wij dat driekwart voorstander is van deze maatregel. Nu worden de meningen van Vughtenaren gecombineerd met die van inwoners van elders in Brabant, die veel verder van de N65 wonen en natuurlijk zo snel mogelijk op hun bestemming willen zijn en afwaardering juist niet waardeerden: doorgaand verkeer wil altijd zo hard mogelijk rijden, ook al gaat hun ‘snelweg’ pal langs onze woonhuizen
+  Als wij bij de nu al positieve beoordeling van de snelheidsverlaging, alleen zouden kijken naar wat de inwoner van Vught wensen, zien wij dat driekwart voorstander is van deze maatregel. Nu worden de meningen van Vughtenaren gecombineerd met die van inwoners van elders in Brabant, die veel verder van de N65 wonen, natuurlijk zo snel mogelijk op hun bestemming willen zijn en afwaardering juist niet waardeerden: doorgaand verkeer wil altijd zo hard mogelijk rijden, ook al gaat hun ‘snelweg’ pal langs onze woonhuizen
 
 
   ## Vermindering boven-regionaal verkeer
