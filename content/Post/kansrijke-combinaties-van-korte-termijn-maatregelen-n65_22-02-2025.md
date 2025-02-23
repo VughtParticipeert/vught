@@ -29,7 +29,7 @@ content: >-
   ## Vermindering boven-regionaal verkeer
 
 
-  Wat nader onderzocht moet worden is in welke mate de afwaardering van 70 naar 50 km per uur leidt tot minder doorgaand bovenregionaal verkeer. Hierbij moet vooral gekeken worden naar doorgaand verkeer dat van ‘ver weg’ naar ‘ver weg’ gaat en de gemeente Vught vooral als een hinderlijk obstakel beschouwt. 
+  Wat nader onderzocht moet worden is in welke mate de afwaardering van 70 naar 50 km per uur leidt tot minder doorgaand boven-regionaal verkeer. Hierbij moet vooral gekeken worden naar doorgaand verkeer dat van ‘ver weg’ naar ‘ver weg’ gaat en de gemeente Vught vooral als een hinderlijk obstakel beschouwt. 
 
 
   Voor een zuivere besluitvorming van de korte termijn maatregelen, zeker gezien het feit dat deze situatie mogelijk zo’n 15 - 20 jaar zal blijven bestaan, is het essentieel dat de alternatieven voor deze bovenregionale verkeersstromen nader worden onderzocht.
