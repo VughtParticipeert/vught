@@ -2,7 +2,7 @@
 title: Waar blijven de kortetermijnmaatregelen N65?
 date: 2025-11-17T20:01:03.000Z
 theme: N65 Duurzaam
-typePost: Publicatie
+typePost: Vraag
 group: N65 reconstructie en haar 6 doelstellingen
 status: 1
 answered: false
@@ -22,6 +22,8 @@ content: >-
   Dat was 20 juni Inmiddels is het stil geworden rondom de implementatie van de kortetermijnmaaregelen, reden om formeel naar de stand van zaken te infomeren in een brief aan gemeentebestuur.
 
 
+
+
   ### Brief aan het gemeentebestuur
 
 
@@ -31,7 +33,7 @@ content: >-
   Eind maart heeft de gemeenteraad gekozen voor het uitwerken van diverse korte termijnmaatregelen N65 (KTM). Tijdens de stuurgroepvergadering op 20 juni zouden deze maatregelen worden opgestart. Echter zijn tijdens deze vergadering   verdiepende vragen gesteld, die in een stuurgroep in de tweede helft augustus zouden worden beantwoord. Sindsdien is het heel erg stil rondom de KTM N65. 
 
 
-  ### Vragen
+  #### Vragen
 
 
   Om die reden verzoeken wij u antwoord te geven op de volgende vragen:
