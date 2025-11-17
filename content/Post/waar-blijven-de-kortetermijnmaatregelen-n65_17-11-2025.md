@@ -13,13 +13,13 @@ content: >-
   Al sinds het vernietigen van het bestemmingsplan N65 door de Raad van State in 2022 is het duidelijk dat kortetermijnmaatregelen onvermijdelijk zijn. Tijdens de gemeenteraadsvergdering begin 2023 hebben de partijen hierover geen misverstand over laten bestaan.
 
 
-  De raadpleging over de korte termijnmaatregelen N65 was een innovatief en moedig proces om vele zienswijzen op te halen. De projectgroep heeft diverse kortetermijnmaatregelen met een hoge positieve score overgenomen in haar advies:
+  De raadpleging over de korte termijnmaatregelen N65 begin dit jaar was een innovatief en moedig proces om vele zienswijzen op te halen. De projectgroep heeft diverse kortetermijnmaatregelen met een hoge positieve score uit de raadpleging overgenomen in haar advies:
 
 
-  Ook bemoedigend is de wens van het college de mogelijkheid van een verlaging van de maximumsnelheid naar 50 km/h in een pilot nader te onderzoeken. 
+  Ook bemoedigend was de wens van het college de mogelijkheid van een verlaging van de maximumsnelheid naar 50 km/h in een pilot nader te onderzoeken. 
 
 
-  Brief aan gemeentebestuur met cc aan de gemeenteraad
+  Inmiddels is het stil geworden rondom de implementatie van de kortetermijnmaaregelen, reden om formeel naar de stand van zaken te infomeren in een brief aan gemeentebestuur.
 
 
   Geacht bestuur van de gemeente Vught,
