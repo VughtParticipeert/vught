@@ -19,9 +19,7 @@ content: >-
   De raadpleging over de korte termijnmaatregelen N65 begin dit jaar was een innovatief en moedig proces om vele zienswijzen op te halen. De projectgroep heeft diverse kortetermijnmaatregelen met een hoge positieve score uit de raadpleging overgenomen in haar advies aan de stuurgroep. 
 
 
-  Dat was 20 juni Inmiddels is het stil geworden rondom de implementatie van de kortetermijnmaaregelen, reden om formeel naar de stand van zaken te infomeren in een brief aan gemeentebestuur.
-
-
+  Dat was 20 juni. Inmiddels is het stil geworden rondom de implementatie van de kortetermijnmaaregelen, reden om formeel naar de stand van zaken te infomeren in een brief aan gemeentebestuur.
 
 
   ### Brief aan het gemeentebestuur
