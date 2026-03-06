@@ -1,5 +1,5 @@
 ---
-title: "Politie vuurwerk in Vught? "
+title: Politiek vuurwerk in Vught
 date: 2026-03-06T20:51:24.318Z
 theme: Algemeen
 typePost: Publicatie
@@ -25,5 +25,5 @@ content: >-
   VughtParticipeert biedt u hiermee een eenvoudige manier een beeld te krijgen van wat partijen van plan zijn en waarmee zij de coalitiebesprekingen in gaan. U kunt natuurlijk ook alle partijprogramma’s bestuderen en alle debatten volgen.
 
 
-  Wij wensen u veel wijsheid bij het uitbrengen van uw stem. Onafhankelijk van uw voorkeur, kom en stem.
+  Wij wensen u veel wijsheid bij het uitbrengen van uw stem. Onafhankelijk van uw voorkeur, kom en breng uw stem uit.
 ---
