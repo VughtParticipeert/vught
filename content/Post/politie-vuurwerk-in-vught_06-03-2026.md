@@ -26,4 +26,7 @@ content: >-
 
 
   Wij wensen u veel wijsheid bij het uitbrengen van uw stem. Onafhankelijk van uw voorkeur, kom en breng uw stem uit.
+
+
+  ![](/uploads/2026-gemeenteraadsverkiezingen-stellingen-en-posities.jpg)
 ---
