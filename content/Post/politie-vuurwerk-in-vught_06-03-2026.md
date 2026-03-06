@@ -29,4 +29,26 @@ content: >-
 
 
   ![](/uploads/2026-gemeenteraadsverkiezingen-stellingen-en-posities.jpg)
+attachment:
+  - file:
+      attachment: /uploads/2026-gemeentebelangen-gemeenteraadsverkiezingen.pdf
+      name: GemeenteBelangen
+  - file:
+      attachment: /uploads/2026-vvd-gemeenteraadsverkiezingen.pdf
+      name: VVD
+  - file:
+      attachment: /uploads/2026-pvda-gl-gemeenteraadsverkiezingen.pdf
+      name: PvdA GL
+  - file:
+      name: D66
+      attachment: /uploads/2026-d66-gemeenteraadsverkiezingen.pdf
+  - file:
+      name: CDA
+      attachment: /uploads/2026-cda-gemeenteraadsverkiezingen.pdf
+  - file:
+      name: SP
+      attachment: /uploads/2026-sp-gemeenteraadsverkiezingen.pdf
+  - file:
+      name: SamenLokaal
+      attachment: /uploads/2026-samenlokaal-gemeenteraadsverkiezingen.pdf
 ---
