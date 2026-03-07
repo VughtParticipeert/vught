@@ -35,7 +35,7 @@ attachment:
       name: Overzicht stellingen en posities
   - file:
       attachment: /uploads/2026-gemeentebelangen-gemeenteraadsverkiezingen.pdf
-      name: GemeenteBelangen
+      name: Gemeente Belangen
   - file:
       attachment: /uploads/2026-vvd-gemeenteraadsverkiezingen.pdf
       name: VVD
@@ -52,6 +52,6 @@ attachment:
       name: SP
       attachment: /uploads/2026-sp-gemeenteraadsverkiezingen.pdf
   - file:
-      name: SamenLokaal
+      name: Samen Lokaal
       attachment: /uploads/2026-samenlokaal-gemeenteraadsverkiezingen.pdf
 ---
