@@ -28,6 +28,9 @@ content: >-
   Wij wensen u veel wijsheid bij het uitbrengen van uw stem. Onafhankelijk van uw voorkeur, kom en breng uw stem uit.
 
 
+  Voor een groter overzicht klik op [Overzicht](https://www.vughtparticipeert.nl/uploads/2026-overzicht-gemeenteraadsverkiezingen-stellingen-en-posities.pdf).
+
+
   ![2026 Overzicht Gemeenteraadsverkiezingen - stellingen en posities](/uploads/2026-overzicht-gemeenteraadsverkiezingen-stellingen-en-posities.jpg "2026 Overzicht Gemeenteraadsverkiezingen - stellingen en posities")
 attachment:
   - file:
