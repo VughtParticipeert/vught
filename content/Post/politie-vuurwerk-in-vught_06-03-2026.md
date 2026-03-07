@@ -7,7 +7,7 @@ group: Politiek debat
 status: 1
 answered: false
 content: >-
-  ![Vuurwerk in Vught](/uploads/img_5707-1-.jpeg)
+  ![Vuurwerk in Vught](/uploads/img_5707.jpeg)
 
 
   Welke partij staat nu echt waarvoor bij de gemeenteraadsverkiezingen 2026?
