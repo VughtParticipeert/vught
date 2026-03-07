@@ -31,6 +31,9 @@ content: >-
   ![](/uploads/2026-gemeenteraadsverkiezingen-stellingen-en-posities.jpg)
 attachment:
   - file:
+      attachment: /uploads/2026-overzicht-gemeenteraadsverkiezingen-stellingen-en-posities.pdf
+      name: Overzicht stellingen en posities
+  - file:
       attachment: /uploads/2026-gemeentebelangen-gemeenteraadsverkiezingen.pdf
       name: GemeenteBelangen
   - file:
@@ -51,7 +54,4 @@ attachment:
   - file:
       name: SamenLokaal
       attachment: /uploads/2026-samenlokaal-gemeenteraadsverkiezingen.pdf
-  - file:
-      name: Overzicht stellingen en posities
-      attachment: /uploads/2026-overzicht-gemeenteraadsverkiezingen-stellingen-en-posities.pdf
 ---
