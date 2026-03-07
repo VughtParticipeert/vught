@@ -1,5 +1,5 @@
 ---
-title: Politiek vuurwerk in Vught
+title: Politiek vuurwerk in de gemeente Vught
 date: 2026-03-06T20:51:24.318Z
 theme: Algemeen
 typePost: Publicatie
