@@ -35,7 +35,7 @@ content: >-
 attachment:
   - file:
       name: 2026 Overzicht stellingen en posities
-      attachment: /uploads/2026-gemeenteraadsverkiezingen-stellingen-en-posities.pdf
+      attachment: /uploads/2026-gemeenteraadsverkiezingen-stellingen-en-posities.jpg
   - file:
       attachment: /uploads/2026-gemeentebelangen-gemeenteraadsverkiezingen.pdf
       name: Gemeente Belangen
