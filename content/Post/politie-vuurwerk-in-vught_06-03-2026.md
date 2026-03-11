@@ -7,7 +7,8 @@ group: Politiek debat
 status: 1
 answered: false
 content: >-
-  ![Vuurwerk in Vught](/uploads/img_5707.jpeg)
+  ![Vuurwerk in
+  Vught](static/uploads/2026-gemeenteraadsverkiezingen-stellingen-en-posities.jpg)
 
 
   Welke partij staat nu echt waarvoor bij de gemeenteraadsverkiezingen 2026?
@@ -28,7 +29,7 @@ content: >-
   Wij wensen u veel wijsheid bij het uitbrengen van uw stem. Onafhankelijk van uw voorkeur, kom en breng uw stem uit.
 
 
-  Voor een groter overzicht klik op [](https://www.vughtparticipeert.nl/edc85e8f-153b-455f-9007-6b2885addfd8)[](https://www.vughtparticipeert.nl/edc85e8f-153b-455f-9007-6b2885addfd8)[Overzicht](blob:https://www.vughtparticipeert.nl/5e2e7173-e89b-41c7-8589-0ba79edbcade).
+  Voor een groter overzicht klik op [](https://www.vughtparticipeert.nl/edc85e8f-153b-455f-9007-6b2885addfd8)[](https://www.vughtparticipeert.nl/edc85e8f-153b-455f-9007-6b2885addfd8)[Overzicht](static/uploads/2026-gemeenteraadsverkiezingen-stellingen-en-posities.jpg).
 
 
   ![2026 Overzicht Gemeenteraadsverkiezingen - stellingen en posities](/uploads/2026-gemeenteraadsverkiezingen-stellingen-en-posities.jpg "2026 Overzicht Gemeenteraadsverkiezingen - stellingen en posities")
