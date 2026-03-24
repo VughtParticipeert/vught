@@ -1,5 +1,5 @@
 ---
-title: "Open brief aan gemeenteraad: Fractievoorzitters gefeliciteerd en nu waarmaken"
+title: "Open brief aan gemeenteraad: Gefeliciteerd en nu waarmaken"
 date: 2026-03-24T21:04:39.071Z
 theme: Algemeen
 typePost: Publicatie
