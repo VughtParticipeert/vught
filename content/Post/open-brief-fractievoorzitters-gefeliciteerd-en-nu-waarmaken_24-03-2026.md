@@ -7,8 +7,8 @@ group: Politiek debat
 status: 1
 answered: false
 content: >-
-  ![Vuurwerk in de Vughtse politek](/uploads/img_5707-1-.jpeg "Zonder wrijving
-  geen glans met een spetterend resultaat")
+  ![Vuurwerk in de Vughtse politek](/uploads/img_5707.jpeg "Zonder wrijving geen
+  glans met een spetterend resultaat")
 
 
   Geachte fractievoorzitters,
